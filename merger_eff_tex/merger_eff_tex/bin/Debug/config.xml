@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config>
+  <currentId>0</currentId>
+  <configs>
+    <config name="主配置" toolPath="" tablePath="E:\lycq\resource\总美术上传文件\特效" filter="" tableOutPath="C:\Users\yiz\Desktop\test" />
+    <config name="skillEff" toolPath="" tablePath="E:\lycq\client\project\resource\assets\movie\skillEff" filter="" tableOutPath="C:\Users\yiz\Desktop\test" />
+  </configs>
+</Config>

@@ -1,0 +1,1541 @@
+[22:22:13] [I] C:\Users\yiz\Desktop\body\body000
+[22:22:15] [I] C:\Users\yiz\Desktop\body\body000
+[22:59:10] [I] parser C:\Users\yiz\Desktop\body\body000
+[22:59:10] [I] parser C:\Users\yiz\Desktop\body\body000
+[22:59:10] [I] parser C:\Users\yiz\Desktop\body\body000
+[22:59:10] [I] parser C:\Users\yiz\Desktop\body\body000
+[22:59:29] [I] parser C:\Users\yiz\Desktop\body\body000\00001.png
+[22:59:29] [I] parser C:\Users\yiz\Desktop\body\body000\00002.png
+[22:59:29] [I] parser C:\Users\yiz\Desktop\body\body000\00003.png
+[22:59:29] [I] parser C:\Users\yiz\Desktop\body\body000\00004.png
+[23:37:03] [I] parser C:\Users\yiz\Desktop\body\body000\00001.png
+[23:37:03] [I] parser C:\Users\yiz\Desktop\body\body000\00002.png
+[23:37:03] [I] parser C:\Users\yiz\Desktop\body\body000\00003.png
+[23:37:03] [I] parser C:\Users\yiz\Desktop\body\body000\00004.png
+[23:39:11] [I] parser C:\Users\yiz\Desktop\body\body000\00001.png
+[23:39:11] [I] parser C:\Users\yiz\Desktop\body\body000\00002.png
+[23:39:11] [I] parser C:\Users\yiz\Desktop\body\body000\00003.png
+[23:39:11] [I] parser C:\Users\yiz\Desktop\body\body000\00004.png
+[23:40:29] [I] parser C:\Users\yiz\Desktop\body\body000\00001.png
+[23:40:29] [I] parser C:\Users\yiz\Desktop\body\body000\00002.png
+[23:40:29] [I] parser C:\Users\yiz\Desktop\body\body000\00003.png
+[23:40:29] [I] parser C:\Users\yiz\Desktop\body\body000\00004.png
+[23:40:29] [I] parser C:\Users\yiz\Desktop\body\body000\00008.png
+[23:40:29] [I] parser C:\Users\yiz\Desktop\body\body000\00009.png
+[23:40:29] [I] parser C:\Users\yiz\Desktop\body\body000\00010.png
+[23:40:29] [I] parser C:\Users\yiz\Desktop\body\body000\00011.png
+[23:40:29] [I] parser C:\Users\yiz\Desktop\body\body000\00012.png
+[23:40:29] [I] parser C:\Users\yiz\Desktop\body\body000\00013.png
+[23:40:29] [I] parser C:\Users\yiz\Desktop\body\body000\00014.png
+[23:40:29] [I] parser C:\Users\yiz\Desktop\body\body000\00015.png
+[23:40:29] [I] parser C:\Users\yiz\Desktop\body\body000\00016.png
+[23:40:29] [I] parser C:\Users\yiz\Desktop\body\body000\00017.png
+[23:40:56] [I] parser C:\Users\yiz\Desktop\body\body000\00008.png
+[23:40:56] [I] parser C:\Users\yiz\Desktop\body\body000\00009.png
+[23:40:56] [I] parser C:\Users\yiz\Desktop\body\body000\00010.png
+[23:40:56] [I] parser C:\Users\yiz\Desktop\body\body000\00011.png
+[23:40:56] [I] parser C:\Users\yiz\Desktop\body\body000\00012.png
+[23:40:56] [I] parser C:\Users\yiz\Desktop\body\body000\00013.png
+[23:40:56] [I] parser C:\Users\yiz\Desktop\body\body000\00014.png
+[23:40:56] [I] parser C:\Users\yiz\Desktop\body\body000\00015.png
+[23:40:56] [I] parser C:\Users\yiz\Desktop\body\body000\00016.png
+[23:40:56] [I] parser C:\Users\yiz\Desktop\body\body000\00017.png
+[23:44:57] [I] parser C:\Users\yiz\Desktop\body\body000\00008.png
+[23:44:57] [I] parser C:\Users\yiz\Desktop\body\body000\00009.png
+[23:44:57] [I] parser C:\Users\yiz\Desktop\body\body000\00010.png
+[23:44:57] [I] parser C:\Users\yiz\Desktop\body\body000\00011.png
+[23:44:57] [I] parser C:\Users\yiz\Desktop\body\body000\00012.png
+[23:44:57] [I] parser C:\Users\yiz\Desktop\body\body000\00013.png
+[23:44:57] [I] parser C:\Users\yiz\Desktop\body\body000\00014.png
+[23:44:57] [I] parser C:\Users\yiz\Desktop\body\body000\00015.png
+[23:44:57] [I] parser C:\Users\yiz\Desktop\body\body000\00016.png
+[23:44:57] [I] parser C:\Users\yiz\Desktop\body\body000\00017.png
+[23:45:16] [I] parser C:\Users\yiz\Desktop\body\body000\00008.png
+[23:45:16] [I] parser C:\Users\yiz\Desktop\body\body000\00009.png
+[23:45:16] [I] parser C:\Users\yiz\Desktop\body\body000\00010.png
+[23:45:16] [I] parser C:\Users\yiz\Desktop\body\body000\00011.png
+[23:45:16] [I] parser C:\Users\yiz\Desktop\body\body000\00012.png
+[23:45:16] [I] parser C:\Users\yiz\Desktop\body\body000\00013.png
+[23:45:16] [I] parser C:\Users\yiz\Desktop\body\body000\00014.png
+[23:45:16] [I] parser C:\Users\yiz\Desktop\body\body000\00015.png
+[23:45:16] [I] parser C:\Users\yiz\Desktop\body\body000\00016.png
+[23:45:16] [I] parser C:\Users\yiz\Desktop\body\body000\00017.png
+[23:50:06] [I] parser C:\Users\yiz\Desktop\body\body000\00008.png
+[23:50:06] [I] parser C:\Users\yiz\Desktop\body\body000\00009.png
+[23:50:06] [I] parser C:\Users\yiz\Desktop\body\body000\00010.png
+[23:50:07] [I] parser C:\Users\yiz\Desktop\body\body000\00011.png
+[23:50:07] [I] parser C:\Users\yiz\Desktop\body\body000\00012.png
+[23:50:07] [I] parser C:\Users\yiz\Desktop\body\body000\00013.png
+[23:50:07] [I] parser C:\Users\yiz\Desktop\body\body000\00014.png
+[23:50:07] [I] parser C:\Users\yiz\Desktop\body\body000\00015.png
+[23:50:07] [I] parser C:\Users\yiz\Desktop\body\body000\00016.png
+[23:50:07] [I] parser C:\Users\yiz\Desktop\body\body000\00017.png
+[23:50:07] [I] parser C:\Users\yiz\Desktop\body\body000\00026.png
+[23:50:07] [I] parser C:\Users\yiz\Desktop\body\body000\00027.png
+[23:50:07] [I] parser C:\Users\yiz\Desktop\body\body000\00028.png
+[23:50:07] [I] parser C:\Users\yiz\Desktop\body\body000\00029.png
+[23:50:07] [I] parser C:\Users\yiz\Desktop\body\body000\00030.png
+[23:50:07] [I] parser C:\Users\yiz\Desktop\body\body000\00032.png
+[23:50:07] [I] parser C:\Users\yiz\Desktop\body\body000\00033.png
+[23:50:07] [I] parser C:\Users\yiz\Desktop\body\body000\00034.png
+[23:50:07] [I] parser C:\Users\yiz\Desktop\body\body000\00035.png
+[23:50:07] [I] parser C:\Users\yiz\Desktop\body\body000\00036.png
+[23:50:07] [I] parser C:\Users\yiz\Desktop\body\body000\00037.png
+[23:50:07] [I] parser C:\Users\yiz\Desktop\body\body000\00038.png
+[23:50:07] [I] parser C:\Users\yiz\Desktop\body\body000\00039.png
+[23:51:10] [I] parser C:\Users\yiz\Desktop\body\body000\00008.png
+[23:51:10] [I] parser C:\Users\yiz\Desktop\body\body000\00009.png
+[23:51:10] [I] parser C:\Users\yiz\Desktop\body\body000\00010.png
+[23:51:10] [I] parser C:\Users\yiz\Desktop\body\body000\00011.png
+[23:51:10] [I] parser C:\Users\yiz\Desktop\body\body000\00012.png
+[23:51:10] [I] parser C:\Users\yiz\Desktop\body\body000\00013.png
+[23:51:10] [I] parser C:\Users\yiz\Desktop\body\body000\00014.png
+[23:51:10] [I] parser C:\Users\yiz\Desktop\body\body000\00015.png
+[23:51:10] [I] parser C:\Users\yiz\Desktop\body\body000\00016.png
+[23:51:10] [I] parser C:\Users\yiz\Desktop\body\body000\00017.png
+[23:51:10] [I] parser C:\Users\yiz\Desktop\body\body000\00026.png
+[23:51:10] [I] parser C:\Users\yiz\Desktop\body\body000\00027.png
+[23:51:10] [I] parser C:\Users\yiz\Desktop\body\body000\00028.png
+[23:51:10] [I] parser C:\Users\yiz\Desktop\body\body000\00029.png
+[23:51:10] [I] parser C:\Users\yiz\Desktop\body\body000\00030.png
+[23:51:10] [I] parser C:\Users\yiz\Desktop\body\body000\00032.png
+[23:51:10] [I] parser C:\Users\yiz\Desktop\body\body000\00033.png
+[23:51:10] [I] parser C:\Users\yiz\Desktop\body\body000\00034.png
+[23:51:10] [I] parser C:\Users\yiz\Desktop\body\body000\00035.png
+[23:51:10] [I] parser C:\Users\yiz\Desktop\body\body000\00036.png
+[23:51:10] [I] parser C:\Users\yiz\Desktop\body\body000\00037.png
+[23:51:10] [I] parser C:\Users\yiz\Desktop\body\body000\00038.png
+[23:51:10] [I] parser C:\Users\yiz\Desktop\body\body000\00039.png
+[23:51:39] [I] parser C:\Users\yiz\Desktop\body\body000\00008.png
+[23:51:39] [I] parser C:\Users\yiz\Desktop\body\body000\00009.png
+[23:51:39] [I] parser C:\Users\yiz\Desktop\body\body000\00010.png
+[23:51:39] [I] parser C:\Users\yiz\Desktop\body\body000\00011.png
+[23:51:39] [I] parser C:\Users\yiz\Desktop\body\body000\00012.png
+[23:51:39] [I] parser C:\Users\yiz\Desktop\body\body000\00013.png
+[23:51:39] [I] parser C:\Users\yiz\Desktop\body\body000\00014.png
+[23:51:39] [I] parser C:\Users\yiz\Desktop\body\body000\00015.png
+[23:51:39] [I] parser C:\Users\yiz\Desktop\body\body000\00016.png
+[23:51:39] [I] parser C:\Users\yiz\Desktop\body\body000\00017.png
+[23:51:39] [I] parser C:\Users\yiz\Desktop\body\body000\00026.png
+[23:51:39] [I] parser C:\Users\yiz\Desktop\body\body000\00027.png
+[23:51:39] [I] parser C:\Users\yiz\Desktop\body\body000\00028.png
+[23:51:39] [I] parser C:\Users\yiz\Desktop\body\body000\00029.png
+[23:51:39] [I] parser C:\Users\yiz\Desktop\body\body000\00030.png
+[23:51:39] [I] parser C:\Users\yiz\Desktop\body\body000\00032.png
+[23:51:39] [I] parser C:\Users\yiz\Desktop\body\body000\00033.png
+[23:51:39] [I] parser C:\Users\yiz\Desktop\body\body000\00034.png
+[23:51:39] [I] parser C:\Users\yiz\Desktop\body\body000\00035.png
+[23:51:39] [I] parser C:\Users\yiz\Desktop\body\body000\00036.png
+[23:51:39] [I] parser C:\Users\yiz\Desktop\body\body000\00037.png
+[23:51:39] [I] parser C:\Users\yiz\Desktop\body\body000\00038.png
+[23:51:39] [I] parser C:\Users\yiz\Desktop\body\body000\00039.png
+[23:54:18] [I] parser C:\Users\yiz\Desktop\body\body000\00008.png
+[23:54:18] [I] parser C:\Users\yiz\Desktop\body\body000\00009.png
+[23:54:19] [I] parser C:\Users\yiz\Desktop\body\body000\00010.png
+[23:54:19] [I] parser C:\Users\yiz\Desktop\body\body000\00011.png
+[23:54:19] [I] parser C:\Users\yiz\Desktop\body\body000\00012.png
+[23:54:19] [I] parser C:\Users\yiz\Desktop\body\body000\00013.png
+[23:54:19] [I] parser C:\Users\yiz\Desktop\body\body000\00014.png
+[23:54:19] [I] parser C:\Users\yiz\Desktop\body\body000\00015.png
+[23:54:19] [I] parser C:\Users\yiz\Desktop\body\body000\00016.png
+[23:54:19] [I] parser C:\Users\yiz\Desktop\body\body000\00017.png
+[23:54:19] [I] parser C:\Users\yiz\Desktop\body\body000\00026.png
+[23:54:19] [I] parser C:\Users\yiz\Desktop\body\body000\00027.png
+[23:54:19] [I] parser C:\Users\yiz\Desktop\body\body000\00028.png
+[23:54:19] [I] parser C:\Users\yiz\Desktop\body\body000\00029.png
+[23:54:19] [I] parser C:\Users\yiz\Desktop\body\body000\00030.png
+[23:54:19] [I] parser C:\Users\yiz\Desktop\body\body000\00032.png
+[23:54:19] [I] parser C:\Users\yiz\Desktop\body\body000\00033.png
+[23:54:19] [I] parser C:\Users\yiz\Desktop\body\body000\00034.png
+[23:54:19] [I] parser C:\Users\yiz\Desktop\body\body000\00035.png
+[23:54:19] [I] parser C:\Users\yiz\Desktop\body\body000\00036.png
+[23:54:19] [I] parser C:\Users\yiz\Desktop\body\body000\00037.png
+[23:54:19] [I] parser C:\Users\yiz\Desktop\body\body000\00038.png
+[23:54:19] [I] parser C:\Users\yiz\Desktop\body\body000\00039.png
+[23:55:45] [I] parser C:\Users\yiz\Desktop\body\body000\00008.png
+[23:55:45] [I] parser C:\Users\yiz\Desktop\body\body000\00009.png
+[23:55:45] [I] parser C:\Users\yiz\Desktop\body\body000\00010.png
+[23:55:45] [I] parser C:\Users\yiz\Desktop\body\body000\00011.png
+[23:55:45] [I] parser C:\Users\yiz\Desktop\body\body000\00012.png
+[23:55:45] [I] parser C:\Users\yiz\Desktop\body\body000\00013.png
+[23:55:45] [I] parser C:\Users\yiz\Desktop\body\body000\00014.png
+[23:55:45] [I] parser C:\Users\yiz\Desktop\body\body000\00015.png
+[23:55:45] [I] parser C:\Users\yiz\Desktop\body\body000\00016.png
+[23:55:45] [I] parser C:\Users\yiz\Desktop\body\body000\00017.png
+[23:55:45] [I] parser C:\Users\yiz\Desktop\body\body000\00026.png
+[23:55:45] [I] parser C:\Users\yiz\Desktop\body\body000\00027.png
+[23:55:45] [I] parser C:\Users\yiz\Desktop\body\body000\00028.png
+[23:55:45] [I] parser C:\Users\yiz\Desktop\body\body000\00029.png
+[23:55:45] [I] parser C:\Users\yiz\Desktop\body\body000\00030.png
+[23:55:45] [I] parser C:\Users\yiz\Desktop\body\body000\00032.png
+[23:55:45] [I] parser C:\Users\yiz\Desktop\body\body000\00033.png
+[23:55:45] [I] parser C:\Users\yiz\Desktop\body\body000\00034.png
+[23:55:46] [I] parser C:\Users\yiz\Desktop\body\body000\00035.png
+[23:55:46] [I] parser C:\Users\yiz\Desktop\body\body000\00036.png
+[23:55:46] [I] parser C:\Users\yiz\Desktop\body\body000\00037.png
+[23:55:46] [I] parser C:\Users\yiz\Desktop\body\body000\00038.png
+[23:55:46] [I] parser C:\Users\yiz\Desktop\body\body000\00039.png
+[23:56:15] [I] parser C:\Users\yiz\Desktop\body\body000\00008.png
+[23:56:15] [I] parser C:\Users\yiz\Desktop\body\body000\00009.png
+[23:56:15] [I] parser C:\Users\yiz\Desktop\body\body000\00010.png
+[23:56:15] [I] parser C:\Users\yiz\Desktop\body\body000\00011.png
+[23:56:15] [I] parser C:\Users\yiz\Desktop\body\body000\00012.png
+[23:56:15] [I] parser C:\Users\yiz\Desktop\body\body000\00013.png
+[23:56:15] [I] parser C:\Users\yiz\Desktop\body\body000\00014.png
+[23:56:15] [I] parser C:\Users\yiz\Desktop\body\body000\00015.png
+[23:56:15] [I] parser C:\Users\yiz\Desktop\body\body000\00016.png
+[23:56:15] [I] parser C:\Users\yiz\Desktop\body\body000\00017.png
+[23:56:15] [I] parser C:\Users\yiz\Desktop\body\body000\00026.png
+[23:56:15] [I] parser C:\Users\yiz\Desktop\body\body000\00027.png
+[23:56:15] [I] parser C:\Users\yiz\Desktop\body\body000\00028.png
+[23:56:15] [I] parser C:\Users\yiz\Desktop\body\body000\00029.png
+[23:56:15] [I] parser C:\Users\yiz\Desktop\body\body000\00030.png
+[23:56:15] [I] parser C:\Users\yiz\Desktop\body\body000\00032.png
+[23:56:15] [I] parser C:\Users\yiz\Desktop\body\body000\00033.png
+[23:56:15] [I] parser C:\Users\yiz\Desktop\body\body000\00034.png
+[23:56:15] [I] parser C:\Users\yiz\Desktop\body\body000\00035.png
+[23:56:15] [I] parser C:\Users\yiz\Desktop\body\body000\00036.png
+[23:56:15] [I] parser C:\Users\yiz\Desktop\body\body000\00037.png
+[23:56:15] [I] parser C:\Users\yiz\Desktop\body\body000\00038.png
+[23:56:15] [I] parser C:\Users\yiz\Desktop\body\body000\00039.png
+[23:57:12] [I] parser C:\Users\yiz\Desktop\body\body000\00008.png
+[23:57:12] [I] parser C:\Users\yiz\Desktop\body\body000\00009.png
+[23:57:12] [I] parser C:\Users\yiz\Desktop\body\body000\00010.png
+[23:57:12] [I] parser C:\Users\yiz\Desktop\body\body000\00011.png
+[23:57:12] [I] parser C:\Users\yiz\Desktop\body\body000\00012.png
+[23:57:12] [I] parser C:\Users\yiz\Desktop\body\body000\00013.png
+[23:57:12] [I] parser C:\Users\yiz\Desktop\body\body000\00014.png
+[23:57:12] [I] parser C:\Users\yiz\Desktop\body\body000\00015.png
+[23:57:12] [I] parser C:\Users\yiz\Desktop\body\body000\00016.png
+[23:57:12] [I] parser C:\Users\yiz\Desktop\body\body000\00017.png
+[23:57:12] [I] parser C:\Users\yiz\Desktop\body\body000\00026.png
+[23:57:12] [I] parser C:\Users\yiz\Desktop\body\body000\00027.png
+[23:57:12] [I] parser C:\Users\yiz\Desktop\body\body000\00028.png
+[23:57:12] [I] parser C:\Users\yiz\Desktop\body\body000\00029.png
+[23:57:12] [I] parser C:\Users\yiz\Desktop\body\body000\00030.png
+[23:57:12] [I] parser C:\Users\yiz\Desktop\body\body000\00032.png
+[23:57:12] [I] parser C:\Users\yiz\Desktop\body\body000\00033.png
+[23:57:12] [I] parser C:\Users\yiz\Desktop\body\body000\00034.png
+[23:57:12] [I] parser C:\Users\yiz\Desktop\body\body000\00035.png
+[23:57:12] [I] parser C:\Users\yiz\Desktop\body\body000\00036.png
+[23:57:12] [I] parser C:\Users\yiz\Desktop\body\body000\00037.png
+[23:57:12] [I] parser C:\Users\yiz\Desktop\body\body000\00038.png
+[23:57:12] [I] parser C:\Users\yiz\Desktop\body\body000\00039.png
+[00:02:16] [I] parser C:\Users\yiz\Desktop\body\body000\00008.png
+[00:02:16] [I] parser C:\Users\yiz\Desktop\body\body000\00009.png
+[00:02:16] [I] parser C:\Users\yiz\Desktop\body\body000\00010.png
+[00:02:16] [I] parser C:\Users\yiz\Desktop\body\body000\00011.png
+[00:02:16] [I] parser C:\Users\yiz\Desktop\body\body000\00012.png
+[00:02:16] [I] parser C:\Users\yiz\Desktop\body\body000\00013.png
+[00:02:16] [I] parser C:\Users\yiz\Desktop\body\body000\00014.png
+[00:02:16] [I] parser C:\Users\yiz\Desktop\body\body000\00015.png
+[00:02:16] [I] parser C:\Users\yiz\Desktop\body\body000\00016.png
+[00:02:16] [I] parser C:\Users\yiz\Desktop\body\body000\00017.png
+[00:02:16] [I] parser C:\Users\yiz\Desktop\body\body000\00026.png
+[00:02:16] [I] parser C:\Users\yiz\Desktop\body\body000\00027.png
+[00:02:16] [I] parser C:\Users\yiz\Desktop\body\body000\00028.png
+[00:02:16] [I] parser C:\Users\yiz\Desktop\body\body000\00029.png
+[00:02:16] [I] parser C:\Users\yiz\Desktop\body\body000\00030.png
+[00:02:16] [I] parser C:\Users\yiz\Desktop\body\body000\00032.png
+[00:02:16] [I] parser C:\Users\yiz\Desktop\body\body000\00033.png
+[00:02:16] [I] parser C:\Users\yiz\Desktop\body\body000\00034.png
+[00:02:16] [I] parser C:\Users\yiz\Desktop\body\body000\00035.png
+[00:02:16] [I] parser C:\Users\yiz\Desktop\body\body000\00036.png
+[00:02:16] [I] parser C:\Users\yiz\Desktop\body\body000\00037.png
+[00:02:16] [I] parser C:\Users\yiz\Desktop\body\body000\00038.png
+[00:02:16] [I] parser C:\Users\yiz\Desktop\body\body000\00039.png
+[00:03:21] [I] parser C:\Users\yiz\Desktop\body\body000\00008.png
+[00:03:21] [I] parser C:\Users\yiz\Desktop\body\body000\00009.png
+[00:03:21] [I] parser C:\Users\yiz\Desktop\body\body000\00010.png
+[00:03:21] [I] parser C:\Users\yiz\Desktop\body\body000\00011.png
+[00:03:21] [I] parser C:\Users\yiz\Desktop\body\body000\00012.png
+[00:03:21] [I] parser C:\Users\yiz\Desktop\body\body000\00013.png
+[00:03:21] [I] parser C:\Users\yiz\Desktop\body\body000\00014.png
+[00:03:21] [I] parser C:\Users\yiz\Desktop\body\body000\00015.png
+[00:03:21] [I] parser C:\Users\yiz\Desktop\body\body000\00016.png
+[00:03:21] [I] parser C:\Users\yiz\Desktop\body\body000\00017.png
+[00:03:21] [I] parser C:\Users\yiz\Desktop\body\body000\00026.png
+[00:03:21] [I] parser C:\Users\yiz\Desktop\body\body000\00027.png
+[00:03:21] [I] parser C:\Users\yiz\Desktop\body\body000\00028.png
+[00:03:21] [I] parser C:\Users\yiz\Desktop\body\body000\00029.png
+[00:03:21] [I] parser C:\Users\yiz\Desktop\body\body000\00030.png
+[00:03:21] [I] parser C:\Users\yiz\Desktop\body\body000\00032.png
+[00:03:21] [I] parser C:\Users\yiz\Desktop\body\body000\00033.png
+[00:03:21] [I] parser C:\Users\yiz\Desktop\body\body000\00034.png
+[00:03:21] [I] parser C:\Users\yiz\Desktop\body\body000\00035.png
+[00:03:21] [I] parser C:\Users\yiz\Desktop\body\body000\00036.png
+[00:03:22] [I] parser C:\Users\yiz\Desktop\body\body000\00037.png
+[00:03:22] [I] parser C:\Users\yiz\Desktop\body\body000\00038.png
+[00:03:22] [I] parser C:\Users\yiz\Desktop\body\body000\00039.png
+[00:07:17] [I] parser C:\Users\yiz\Desktop\body\body000\00008.png
+[00:07:17] [I] parser C:\Users\yiz\Desktop\body\body000\00009.png
+[00:07:17] [I] parser C:\Users\yiz\Desktop\body\body000\00010.png
+[00:07:17] [I] parser C:\Users\yiz\Desktop\body\body000\00011.png
+[00:07:17] [I] parser C:\Users\yiz\Desktop\body\body000\00012.png
+[00:07:17] [I] parser C:\Users\yiz\Desktop\body\body000\00013.png
+[00:07:17] [I] parser C:\Users\yiz\Desktop\body\body000\00014.png
+[00:07:17] [I] parser C:\Users\yiz\Desktop\body\body000\00015.png
+[00:07:17] [I] parser C:\Users\yiz\Desktop\body\body000\00016.png
+[00:07:17] [I] parser C:\Users\yiz\Desktop\body\body000\00017.png
+[00:07:17] [I] parser C:\Users\yiz\Desktop\body\body000\00026.png
+[00:07:17] [I] parser C:\Users\yiz\Desktop\body\body000\00027.png
+[00:07:17] [I] parser C:\Users\yiz\Desktop\body\body000\00028.png
+[00:07:17] [I] parser C:\Users\yiz\Desktop\body\body000\00029.png
+[00:07:17] [I] parser C:\Users\yiz\Desktop\body\body000\00030.png
+[00:07:17] [I] parser C:\Users\yiz\Desktop\body\body000\00032.png
+[00:07:17] [I] parser C:\Users\yiz\Desktop\body\body000\00033.png
+[00:07:17] [I] parser C:\Users\yiz\Desktop\body\body000\00034.png
+[00:07:17] [I] parser C:\Users\yiz\Desktop\body\body000\00035.png
+[00:07:17] [I] parser C:\Users\yiz\Desktop\body\body000\00036.png
+[00:07:17] [I] parser C:\Users\yiz\Desktop\body\body000\00037.png
+[00:07:17] [I] parser C:\Users\yiz\Desktop\body\body000\00038.png
+[00:07:17] [I] parser C:\Users\yiz\Desktop\body\body000\00039.png
+[00:09:47] [I] parser C:\Users\yiz\Desktop\body\body000\00008.png
+[00:09:47] [I] parser C:\Users\yiz\Desktop\body\body000\00009.png
+[00:09:47] [I] parser C:\Users\yiz\Desktop\body\body000\00010.png
+[00:09:47] [I] parser C:\Users\yiz\Desktop\body\body000\00011.png
+[00:09:47] [I] parser C:\Users\yiz\Desktop\body\body000\00012.png
+[00:09:47] [I] parser C:\Users\yiz\Desktop\body\body000\00013.png
+[00:09:47] [I] parser C:\Users\yiz\Desktop\body\body000\00014.png
+[00:09:47] [I] parser C:\Users\yiz\Desktop\body\body000\00015.png
+[00:09:47] [I] parser C:\Users\yiz\Desktop\body\body000\00016.png
+[00:09:47] [I] parser C:\Users\yiz\Desktop\body\body000\00017.png
+[00:09:47] [I] parser C:\Users\yiz\Desktop\body\body000\00026.png
+[00:09:47] [I] parser C:\Users\yiz\Desktop\body\body000\00027.png
+[00:09:47] [I] parser C:\Users\yiz\Desktop\body\body000\00028.png
+[00:09:47] [I] parser C:\Users\yiz\Desktop\body\body000\00029.png
+[00:09:47] [I] parser C:\Users\yiz\Desktop\body\body000\00030.png
+[00:09:47] [I] parser C:\Users\yiz\Desktop\body\body000\00032.png
+[00:09:47] [I] parser C:\Users\yiz\Desktop\body\body000\00033.png
+[00:09:47] [I] parser C:\Users\yiz\Desktop\body\body000\00034.png
+[00:09:47] [I] parser C:\Users\yiz\Desktop\body\body000\00035.png
+[00:09:47] [I] parser C:\Users\yiz\Desktop\body\body000\00036.png
+[00:09:47] [I] parser C:\Users\yiz\Desktop\body\body000\00037.png
+[00:09:47] [I] parser C:\Users\yiz\Desktop\body\body000\00038.png
+[00:09:47] [I] parser C:\Users\yiz\Desktop\body\body000\00039.png
+[00:12:06] [I] parser C:\Users\yiz\Desktop\body\body000\00008.png
+[00:12:06] [I] parser C:\Users\yiz\Desktop\body\body000\00009.png
+[00:12:06] [I] parser C:\Users\yiz\Desktop\body\body000\00010.png
+[00:12:06] [I] parser C:\Users\yiz\Desktop\body\body000\00011.png
+[00:12:06] [I] parser C:\Users\yiz\Desktop\body\body000\00012.png
+[00:12:06] [I] parser C:\Users\yiz\Desktop\body\body000\00013.png
+[00:12:06] [I] parser C:\Users\yiz\Desktop\body\body000\00014.png
+[00:12:06] [I] parser C:\Users\yiz\Desktop\body\body000\00015.png
+[00:12:06] [I] parser C:\Users\yiz\Desktop\body\body000\00016.png
+[00:12:06] [I] parser C:\Users\yiz\Desktop\body\body000\00017.png
+[00:12:06] [I] parser C:\Users\yiz\Desktop\body\body000\00026.png
+[00:12:06] [I] parser C:\Users\yiz\Desktop\body\body000\00027.png
+[00:12:06] [I] parser C:\Users\yiz\Desktop\body\body000\00028.png
+[00:12:06] [I] parser C:\Users\yiz\Desktop\body\body000\00029.png
+[00:12:06] [I] parser C:\Users\yiz\Desktop\body\body000\00030.png
+[00:12:06] [I] parser C:\Users\yiz\Desktop\body\body000\00032.png
+[00:12:06] [I] parser C:\Users\yiz\Desktop\body\body000\00033.png
+[00:12:06] [I] parser C:\Users\yiz\Desktop\body\body000\00034.png
+[00:12:06] [I] parser C:\Users\yiz\Desktop\body\body000\00035.png
+[00:12:06] [I] parser C:\Users\yiz\Desktop\body\body000\00036.png
+[00:12:06] [I] parser C:\Users\yiz\Desktop\body\body000\00037.png
+[00:12:06] [I] parser C:\Users\yiz\Desktop\body\body000\00038.png
+[00:12:06] [I] parser C:\Users\yiz\Desktop\body\body000\00039.png
+[00:12:25] [I] parser C:\Users\yiz\Desktop\body\body000\00008.png
+[00:12:25] [I] parser C:\Users\yiz\Desktop\body\body000\00009.png
+[00:12:25] [I] parser C:\Users\yiz\Desktop\body\body000\00010.png
+[00:12:25] [I] parser C:\Users\yiz\Desktop\body\body000\00011.png
+[00:12:25] [I] parser C:\Users\yiz\Desktop\body\body000\00012.png
+[00:12:25] [I] parser C:\Users\yiz\Desktop\body\body000\00013.png
+[00:12:25] [I] parser C:\Users\yiz\Desktop\body\body000\00014.png
+[00:12:25] [I] parser C:\Users\yiz\Desktop\body\body000\00015.png
+[00:12:25] [I] parser C:\Users\yiz\Desktop\body\body000\00016.png
+[00:12:25] [I] parser C:\Users\yiz\Desktop\body\body000\00017.png
+[00:12:25] [I] parser C:\Users\yiz\Desktop\body\body000\00026.png
+[00:12:25] [I] parser C:\Users\yiz\Desktop\body\body000\00027.png
+[00:12:25] [I] parser C:\Users\yiz\Desktop\body\body000\00028.png
+[00:12:25] [I] parser C:\Users\yiz\Desktop\body\body000\00029.png
+[00:12:26] [I] parser C:\Users\yiz\Desktop\body\body000\00030.png
+[00:12:26] [I] parser C:\Users\yiz\Desktop\body\body000\00032.png
+[00:12:26] [I] parser C:\Users\yiz\Desktop\body\body000\00033.png
+[00:12:26] [I] parser C:\Users\yiz\Desktop\body\body000\00034.png
+[00:12:26] [I] parser C:\Users\yiz\Desktop\body\body000\00035.png
+[00:12:26] [I] parser C:\Users\yiz\Desktop\body\body000\00036.png
+[00:12:26] [I] parser C:\Users\yiz\Desktop\body\body000\00037.png
+[00:12:26] [I] parser C:\Users\yiz\Desktop\body\body000\00038.png
+[00:12:26] [I] parser C:\Users\yiz\Desktop\body\body000\00039.png
+[00:26:59] [I] parser C:\Users\yiz\Desktop\body\body000\00008.png
+[00:26:59] [I] parser C:\Users\yiz\Desktop\body\body000\00009.png
+[00:26:59] [I] parser C:\Users\yiz\Desktop\body\body000\00010.png
+[00:26:59] [I] parser C:\Users\yiz\Desktop\body\body000\00011.png
+[00:26:59] [I] parser C:\Users\yiz\Desktop\body\body000\00012.png
+[00:26:59] [I] parser C:\Users\yiz\Desktop\body\body000\00013.png
+[00:26:59] [I] parser C:\Users\yiz\Desktop\body\body000\00014.png
+[00:26:59] [I] parser C:\Users\yiz\Desktop\body\body000\00015.png
+[00:26:59] [I] parser C:\Users\yiz\Desktop\body\body000\00016.png
+[00:26:59] [I] parser C:\Users\yiz\Desktop\body\body000\00017.png
+[00:26:59] [I] parser C:\Users\yiz\Desktop\body\body000\00026.png
+[00:26:59] [I] parser C:\Users\yiz\Desktop\body\body000\00027.png
+[00:26:59] [I] parser C:\Users\yiz\Desktop\body\body000\00028.png
+[00:26:59] [I] parser C:\Users\yiz\Desktop\body\body000\00029.png
+[00:26:59] [I] parser C:\Users\yiz\Desktop\body\body000\00030.png
+[00:26:59] [I] parser C:\Users\yiz\Desktop\body\body000\00032.png
+[00:26:59] [I] parser C:\Users\yiz\Desktop\body\body000\00033.png
+[00:26:59] [I] parser C:\Users\yiz\Desktop\body\body000\00034.png
+[00:26:59] [I] parser C:\Users\yiz\Desktop\body\body000\00035.png
+[00:26:59] [I] parser C:\Users\yiz\Desktop\body\body000\00036.png
+[00:26:59] [I] parser C:\Users\yiz\Desktop\body\body000\00037.png
+[00:26:59] [I] parser C:\Users\yiz\Desktop\body\body000\00038.png
+[00:26:59] [I] parser C:\Users\yiz\Desktop\body\body000\00039.png
+[00:27:03] [I] <<< start merger
+[00:27:04] [I] <<< end merger
+[00:30:15] [I] parser C:\Users\yiz\Desktop\body\body000\00008.png
+[00:30:15] [I] parser C:\Users\yiz\Desktop\body\body000\00009.png
+[00:30:16] [I] parser C:\Users\yiz\Desktop\body\body000\00010.png
+[00:30:16] [I] parser C:\Users\yiz\Desktop\body\body000\00011.png
+[00:30:16] [I] parser C:\Users\yiz\Desktop\body\body000\00012.png
+[00:30:16] [I] parser C:\Users\yiz\Desktop\body\body000\00013.png
+[00:30:16] [I] parser C:\Users\yiz\Desktop\body\body000\00014.png
+[00:30:16] [I] parser C:\Users\yiz\Desktop\body\body000\00015.png
+[00:30:16] [I] parser C:\Users\yiz\Desktop\body\body000\00016.png
+[00:30:16] [I] parser C:\Users\yiz\Desktop\body\body000\00017.png
+[00:30:16] [I] parser C:\Users\yiz\Desktop\body\body000\00026.png
+[00:30:16] [I] parser C:\Users\yiz\Desktop\body\body000\00027.png
+[00:30:16] [I] parser C:\Users\yiz\Desktop\body\body000\00028.png
+[00:30:16] [I] parser C:\Users\yiz\Desktop\body\body000\00029.png
+[00:30:16] [I] parser C:\Users\yiz\Desktop\body\body000\00030.png
+[00:30:16] [I] parser C:\Users\yiz\Desktop\body\body000\00032.png
+[00:30:16] [I] parser C:\Users\yiz\Desktop\body\body000\00033.png
+[00:30:16] [I] parser C:\Users\yiz\Desktop\body\body000\00034.png
+[00:30:16] [I] parser C:\Users\yiz\Desktop\body\body000\00035.png
+[00:30:16] [I] parser C:\Users\yiz\Desktop\body\body000\00036.png
+[00:30:16] [I] parser C:\Users\yiz\Desktop\body\body000\00037.png
+[00:30:16] [I] parser C:\Users\yiz\Desktop\body\body000\00038.png
+[00:30:16] [I] parser C:\Users\yiz\Desktop\body\body000\00039.png
+[00:30:20] [I] <<< start merger
+[00:30:20] [I] <<< end merger
+[00:35:05] [I] parser C:\Users\yiz\Desktop\body\body000\00008.png
+[00:35:05] [I] parser C:\Users\yiz\Desktop\body\body000\00009.png
+[00:35:05] [I] parser C:\Users\yiz\Desktop\body\body000\00010.png
+[00:35:05] [I] parser C:\Users\yiz\Desktop\body\body000\00011.png
+[00:35:05] [I] parser C:\Users\yiz\Desktop\body\body000\00012.png
+[00:35:05] [I] parser C:\Users\yiz\Desktop\body\body000\00013.png
+[00:35:05] [I] parser C:\Users\yiz\Desktop\body\body000\00014.png
+[00:35:05] [I] parser C:\Users\yiz\Desktop\body\body000\00015.png
+[00:35:05] [I] parser C:\Users\yiz\Desktop\body\body000\00016.png
+[00:35:05] [I] parser C:\Users\yiz\Desktop\body\body000\00017.png
+[00:35:05] [I] parser C:\Users\yiz\Desktop\body\body000\00026.png
+[00:35:05] [I] parser C:\Users\yiz\Desktop\body\body000\00027.png
+[00:35:05] [I] parser C:\Users\yiz\Desktop\body\body000\00028.png
+[00:35:05] [I] parser C:\Users\yiz\Desktop\body\body000\00029.png
+[00:35:05] [I] parser C:\Users\yiz\Desktop\body\body000\00030.png
+[00:35:05] [I] parser C:\Users\yiz\Desktop\body\body000\00032.png
+[00:35:05] [I] parser C:\Users\yiz\Desktop\body\body000\00033.png
+[00:35:05] [I] parser C:\Users\yiz\Desktop\body\body000\00034.png
+[00:35:05] [I] parser C:\Users\yiz\Desktop\body\body000\00035.png
+[00:35:05] [I] parser C:\Users\yiz\Desktop\body\body000\00036.png
+[00:35:05] [I] parser C:\Users\yiz\Desktop\body\body000\00037.png
+[00:35:05] [I] parser C:\Users\yiz\Desktop\body\body000\00038.png
+[00:35:05] [I] parser C:\Users\yiz\Desktop\body\body000\00039.png
+[00:35:09] [I] <<< start merger
+[00:35:10] [I] <<< end merger
+[00:52:30] [I] parser C:\Users\yiz\Desktop\body\body000\00008.png
+[00:52:30] [I] parser C:\Users\yiz\Desktop\body\body000\00009.png
+[00:52:30] [I] parser C:\Users\yiz\Desktop\body\body000\00010.png
+[00:52:31] [I] parser C:\Users\yiz\Desktop\body\body000\00011.png
+[00:52:31] [I] parser C:\Users\yiz\Desktop\body\body000\00012.png
+[00:52:31] [I] parser C:\Users\yiz\Desktop\body\body000\00013.png
+[00:52:31] [I] parser C:\Users\yiz\Desktop\body\body000\00014.png
+[00:52:31] [I] parser C:\Users\yiz\Desktop\body\body000\00015.png
+[00:52:31] [I] parser C:\Users\yiz\Desktop\body\body000\00016.png
+[00:52:31] [I] parser C:\Users\yiz\Desktop\body\body000\00017.png
+[00:52:31] [I] parser C:\Users\yiz\Desktop\body\body000\00026.png
+[00:52:31] [I] parser C:\Users\yiz\Desktop\body\body000\00027.png
+[00:52:31] [I] parser C:\Users\yiz\Desktop\body\body000\00028.png
+[00:52:31] [I] parser C:\Users\yiz\Desktop\body\body000\00029.png
+[00:52:31] [I] parser C:\Users\yiz\Desktop\body\body000\00030.png
+[00:52:31] [I] parser C:\Users\yiz\Desktop\body\body000\00032.png
+[00:52:31] [I] parser C:\Users\yiz\Desktop\body\body000\00033.png
+[00:52:31] [I] parser C:\Users\yiz\Desktop\body\body000\00034.png
+[00:52:31] [I] parser C:\Users\yiz\Desktop\body\body000\00035.png
+[00:52:31] [I] parser C:\Users\yiz\Desktop\body\body000\00036.png
+[00:52:31] [I] parser C:\Users\yiz\Desktop\body\body000\00037.png
+[00:52:31] [I] parser C:\Users\yiz\Desktop\body\body000\00038.png
+[00:52:31] [I] parser C:\Users\yiz\Desktop\body\body000\00039.png
+[00:52:35] [I] <<< start merger
+[00:52:35] [I] <<< end merger
+[00:53:05] [I] parser C:\Users\yiz\Desktop\body\body000\00008.png
+[00:53:05] [I] parser C:\Users\yiz\Desktop\body\body000\00009.png
+[00:53:05] [I] parser C:\Users\yiz\Desktop\body\body000\00010.png
+[00:53:05] [I] parser C:\Users\yiz\Desktop\body\body000\00011.png
+[00:53:05] [I] parser C:\Users\yiz\Desktop\body\body000\00012.png
+[00:53:05] [I] parser C:\Users\yiz\Desktop\body\body000\00013.png
+[00:53:05] [I] parser C:\Users\yiz\Desktop\body\body000\00014.png
+[00:53:05] [I] parser C:\Users\yiz\Desktop\body\body000\00015.png
+[00:53:05] [I] parser C:\Users\yiz\Desktop\body\body000\00016.png
+[00:53:05] [I] parser C:\Users\yiz\Desktop\body\body000\00017.png
+[00:53:05] [I] parser C:\Users\yiz\Desktop\body\body000\00026.png
+[00:53:05] [I] parser C:\Users\yiz\Desktop\body\body000\00027.png
+[00:53:06] [I] parser C:\Users\yiz\Desktop\body\body000\00028.png
+[00:53:06] [I] parser C:\Users\yiz\Desktop\body\body000\00029.png
+[00:53:06] [I] parser C:\Users\yiz\Desktop\body\body000\00030.png
+[00:53:06] [I] parser C:\Users\yiz\Desktop\body\body000\00032.png
+[00:53:06] [I] parser C:\Users\yiz\Desktop\body\body000\00033.png
+[00:53:06] [I] parser C:\Users\yiz\Desktop\body\body000\00034.png
+[00:53:06] [I] parser C:\Users\yiz\Desktop\body\body000\00035.png
+[00:53:06] [I] parser C:\Users\yiz\Desktop\body\body000\00036.png
+[00:53:06] [I] parser C:\Users\yiz\Desktop\body\body000\00037.png
+[00:53:06] [I] parser C:\Users\yiz\Desktop\body\body000\00038.png
+[00:53:06] [I] parser C:\Users\yiz\Desktop\body\body000\00039.png
+[00:53:10] [I] <<< start merger
+[00:53:10] [I] <<< end merger
+[00:54:17] [I] parser C:\Users\yiz\Desktop\body\body000\00008.png
+[00:54:17] [I] parser C:\Users\yiz\Desktop\body\body000\00009.png
+[00:54:17] [I] parser C:\Users\yiz\Desktop\body\body000\00010.png
+[00:54:17] [I] parser C:\Users\yiz\Desktop\body\body000\00011.png
+[00:54:17] [I] parser C:\Users\yiz\Desktop\body\body000\00012.png
+[00:54:17] [I] parser C:\Users\yiz\Desktop\body\body000\00013.png
+[00:54:17] [I] parser C:\Users\yiz\Desktop\body\body000\00014.png
+[00:54:17] [I] parser C:\Users\yiz\Desktop\body\body000\00015.png
+[00:54:17] [I] parser C:\Users\yiz\Desktop\body\body000\00016.png
+[00:54:17] [I] parser C:\Users\yiz\Desktop\body\body000\00017.png
+[00:54:17] [I] parser C:\Users\yiz\Desktop\body\body000\00026.png
+[00:54:17] [I] parser C:\Users\yiz\Desktop\body\body000\00027.png
+[00:54:17] [I] parser C:\Users\yiz\Desktop\body\body000\00028.png
+[00:54:17] [I] parser C:\Users\yiz\Desktop\body\body000\00029.png
+[00:54:17] [I] parser C:\Users\yiz\Desktop\body\body000\00030.png
+[00:54:17] [I] parser C:\Users\yiz\Desktop\body\body000\00032.png
+[00:54:17] [I] parser C:\Users\yiz\Desktop\body\body000\00033.png
+[00:54:17] [I] parser C:\Users\yiz\Desktop\body\body000\00034.png
+[00:54:18] [I] parser C:\Users\yiz\Desktop\body\body000\00035.png
+[00:54:18] [I] parser C:\Users\yiz\Desktop\body\body000\00036.png
+[00:54:18] [I] parser C:\Users\yiz\Desktop\body\body000\00037.png
+[00:54:18] [I] parser C:\Users\yiz\Desktop\body\body000\00038.png
+[00:54:18] [I] parser C:\Users\yiz\Desktop\body\body000\00039.png
+[00:54:22] [I] <<< start merger
+[00:54:22] [I] <<< end merger
+[00:54:49] [I] parser C:\Users\yiz\Desktop\body\body000\00008.png
+[00:54:49] [I] parser C:\Users\yiz\Desktop\body\body000\00009.png
+[00:54:49] [I] parser C:\Users\yiz\Desktop\body\body000\00010.png
+[00:54:49] [I] parser C:\Users\yiz\Desktop\body\body000\00011.png
+[00:54:49] [I] parser C:\Users\yiz\Desktop\body\body000\00012.png
+[00:54:49] [I] parser C:\Users\yiz\Desktop\body\body000\00013.png
+[00:54:49] [I] parser C:\Users\yiz\Desktop\body\body000\00014.png
+[00:54:49] [I] parser C:\Users\yiz\Desktop\body\body000\00015.png
+[00:54:49] [I] parser C:\Users\yiz\Desktop\body\body000\00016.png
+[00:54:49] [I] parser C:\Users\yiz\Desktop\body\body000\00017.png
+[00:54:49] [I] parser C:\Users\yiz\Desktop\body\body000\00026.png
+[00:54:49] [I] parser C:\Users\yiz\Desktop\body\body000\00027.png
+[00:54:49] [I] parser C:\Users\yiz\Desktop\body\body000\00028.png
+[00:54:49] [I] parser C:\Users\yiz\Desktop\body\body000\00029.png
+[00:54:49] [I] parser C:\Users\yiz\Desktop\body\body000\00030.png
+[00:54:49] [I] parser C:\Users\yiz\Desktop\body\body000\00032.png
+[00:54:49] [I] parser C:\Users\yiz\Desktop\body\body000\00033.png
+[00:54:49] [I] parser C:\Users\yiz\Desktop\body\body000\00034.png
+[00:54:49] [I] parser C:\Users\yiz\Desktop\body\body000\00035.png
+[00:54:49] [I] parser C:\Users\yiz\Desktop\body\body000\00036.png
+[00:54:50] [I] parser C:\Users\yiz\Desktop\body\body000\00037.png
+[00:54:50] [I] parser C:\Users\yiz\Desktop\body\body000\00038.png
+[00:54:50] [I] parser C:\Users\yiz\Desktop\body\body000\00039.png
+[00:54:54] [I] <<< start merger
+[00:54:54] [I] <<< end merger
+[00:58:59] [I] parser C:\Users\yiz\Desktop\body\body000\00008.png
+[00:58:59] [I] parser C:\Users\yiz\Desktop\body\body000\00009.png
+[00:58:59] [I] parser C:\Users\yiz\Desktop\body\body000\00010.png
+[00:58:59] [I] parser C:\Users\yiz\Desktop\body\body000\00011.png
+[00:58:59] [I] parser C:\Users\yiz\Desktop\body\body000\00012.png
+[00:58:59] [I] parser C:\Users\yiz\Desktop\body\body000\00013.png
+[00:58:59] [I] parser C:\Users\yiz\Desktop\body\body000\00014.png
+[00:58:59] [I] parser C:\Users\yiz\Desktop\body\body000\00015.png
+[00:58:59] [I] parser C:\Users\yiz\Desktop\body\body000\00016.png
+[00:58:59] [I] parser C:\Users\yiz\Desktop\body\body000\00017.png
+[00:58:59] [I] parser C:\Users\yiz\Desktop\body\body000\00026.png
+[00:58:59] [I] parser C:\Users\yiz\Desktop\body\body000\00027.png
+[00:58:59] [I] parser C:\Users\yiz\Desktop\body\body000\00028.png
+[00:58:59] [I] parser C:\Users\yiz\Desktop\body\body000\00029.png
+[00:58:59] [I] parser C:\Users\yiz\Desktop\body\body000\00030.png
+[00:58:59] [I] parser C:\Users\yiz\Desktop\body\body000\00032.png
+[00:58:59] [I] parser C:\Users\yiz\Desktop\body\body000\00033.png
+[00:58:59] [I] parser C:\Users\yiz\Desktop\body\body000\00034.png
+[00:58:59] [I] parser C:\Users\yiz\Desktop\body\body000\00035.png
+[00:58:59] [I] parser C:\Users\yiz\Desktop\body\body000\00036.png
+[00:58:59] [I] parser C:\Users\yiz\Desktop\body\body000\00037.png
+[00:58:59] [I] parser C:\Users\yiz\Desktop\body\body000\00038.png
+[00:58:59] [I] parser C:\Users\yiz\Desktop\body\body000\00039.png
+[00:59:03] [I] <<< start merger
+[00:59:03] [I] <<< end merger
+[00:59:52] [I] parser C:\Users\yiz\Desktop\body\body000\00008.png
+[00:59:52] [I] parser C:\Users\yiz\Desktop\body\body000\00009.png
+[00:59:52] [I] parser C:\Users\yiz\Desktop\body\body000\00010.png
+[00:59:52] [I] parser C:\Users\yiz\Desktop\body\body000\00011.png
+[00:59:52] [I] parser C:\Users\yiz\Desktop\body\body000\00012.png
+[00:59:52] [I] parser C:\Users\yiz\Desktop\body\body000\00013.png
+[00:59:52] [I] parser C:\Users\yiz\Desktop\body\body000\00014.png
+[00:59:52] [I] parser C:\Users\yiz\Desktop\body\body000\00015.png
+[00:59:52] [I] parser C:\Users\yiz\Desktop\body\body000\00016.png
+[00:59:52] [I] parser C:\Users\yiz\Desktop\body\body000\00017.png
+[00:59:52] [I] parser C:\Users\yiz\Desktop\body\body000\00026.png
+[00:59:52] [I] parser C:\Users\yiz\Desktop\body\body000\00027.png
+[00:59:52] [I] parser C:\Users\yiz\Desktop\body\body000\00028.png
+[00:59:52] [I] parser C:\Users\yiz\Desktop\body\body000\00029.png
+[00:59:52] [I] parser C:\Users\yiz\Desktop\body\body000\00030.png
+[00:59:52] [I] parser C:\Users\yiz\Desktop\body\body000\00032.png
+[00:59:52] [I] parser C:\Users\yiz\Desktop\body\body000\00033.png
+[00:59:52] [I] parser C:\Users\yiz\Desktop\body\body000\00034.png
+[00:59:52] [I] parser C:\Users\yiz\Desktop\body\body000\00035.png
+[00:59:52] [I] parser C:\Users\yiz\Desktop\body\body000\00036.png
+[00:59:52] [I] parser C:\Users\yiz\Desktop\body\body000\00037.png
+[00:59:52] [I] parser C:\Users\yiz\Desktop\body\body000\00038.png
+[00:59:52] [I] parser C:\Users\yiz\Desktop\body\body000\00039.png
+[00:59:57] [I] <<< start merger
+[00:59:57] [I] <<< end merger
+[01:00:42] [I] parser C:\Users\yiz\Desktop\body\body000\00008.png
+[01:00:42] [I] parser C:\Users\yiz\Desktop\body\body000\00009.png
+[01:00:42] [I] parser C:\Users\yiz\Desktop\body\body000\00010.png
+[01:00:42] [I] parser C:\Users\yiz\Desktop\body\body000\00011.png
+[01:00:42] [I] parser C:\Users\yiz\Desktop\body\body000\00012.png
+[01:00:42] [I] parser C:\Users\yiz\Desktop\body\body000\00013.png
+[01:00:42] [I] parser C:\Users\yiz\Desktop\body\body000\00014.png
+[01:00:42] [I] parser C:\Users\yiz\Desktop\body\body000\00015.png
+[01:00:42] [I] parser C:\Users\yiz\Desktop\body\body000\00016.png
+[01:00:42] [I] parser C:\Users\yiz\Desktop\body\body000\00017.png
+[01:00:42] [I] parser C:\Users\yiz\Desktop\body\body000\00026.png
+[01:00:42] [I] parser C:\Users\yiz\Desktop\body\body000\00027.png
+[01:00:42] [I] parser C:\Users\yiz\Desktop\body\body000\00028.png
+[01:00:42] [I] parser C:\Users\yiz\Desktop\body\body000\00029.png
+[01:00:42] [I] parser C:\Users\yiz\Desktop\body\body000\00030.png
+[01:00:42] [I] parser C:\Users\yiz\Desktop\body\body000\00032.png
+[01:00:42] [I] parser C:\Users\yiz\Desktop\body\body000\00033.png
+[01:00:42] [I] parser C:\Users\yiz\Desktop\body\body000\00034.png
+[01:00:42] [I] parser C:\Users\yiz\Desktop\body\body000\00035.png
+[01:00:42] [I] parser C:\Users\yiz\Desktop\body\body000\00036.png
+[01:00:42] [I] parser C:\Users\yiz\Desktop\body\body000\00037.png
+[01:00:42] [I] parser C:\Users\yiz\Desktop\body\body000\00038.png
+[01:00:42] [I] parser C:\Users\yiz\Desktop\body\body000\00039.png
+[01:00:46] [I] <<< start merger
+[01:00:47] [I] <<< end merger
+[01:03:56] [I] parser C:\Users\yiz\Desktop\body\body000\00008.png
+[01:03:56] [I] parser C:\Users\yiz\Desktop\body\body000\00009.png
+[01:03:56] [I] parser C:\Users\yiz\Desktop\body\body000\00010.png
+[01:03:56] [I] parser C:\Users\yiz\Desktop\body\body000\00011.png
+[01:03:56] [I] parser C:\Users\yiz\Desktop\body\body000\00012.png
+[01:03:56] [I] parser C:\Users\yiz\Desktop\body\body000\00013.png
+[01:03:56] [I] parser C:\Users\yiz\Desktop\body\body000\00014.png
+[01:03:56] [I] parser C:\Users\yiz\Desktop\body\body000\00015.png
+[01:03:56] [I] parser C:\Users\yiz\Desktop\body\body000\00016.png
+[01:03:56] [I] parser C:\Users\yiz\Desktop\body\body000\00017.png
+[01:03:56] [I] parser C:\Users\yiz\Desktop\body\body000\00026.png
+[01:03:56] [I] parser C:\Users\yiz\Desktop\body\body000\00027.png
+[01:03:56] [I] parser C:\Users\yiz\Desktop\body\body000\00028.png
+[01:03:56] [I] parser C:\Users\yiz\Desktop\body\body000\00029.png
+[01:03:56] [I] parser C:\Users\yiz\Desktop\body\body000\00030.png
+[01:03:56] [I] parser C:\Users\yiz\Desktop\body\body000\00032.png
+[01:03:56] [I] parser C:\Users\yiz\Desktop\body\body000\00033.png
+[01:03:56] [I] parser C:\Users\yiz\Desktop\body\body000\00034.png
+[01:03:56] [I] parser C:\Users\yiz\Desktop\body\body000\00035.png
+[01:03:56] [I] parser C:\Users\yiz\Desktop\body\body000\00036.png
+[01:03:56] [I] parser C:\Users\yiz\Desktop\body\body000\00037.png
+[01:03:56] [I] parser C:\Users\yiz\Desktop\body\body000\00038.png
+[01:03:56] [I] parser C:\Users\yiz\Desktop\body\body000\00039.png
+[01:04:00] [I] <<< start merger
+[01:04:00] [I] <<< end merger
+[01:05:53] [I] parser C:\Users\yiz\Desktop\body\body000\00008.png
+[01:05:53] [I] parser C:\Users\yiz\Desktop\body\body000\00009.png
+[01:05:53] [I] parser C:\Users\yiz\Desktop\body\body000\00010.png
+[01:05:53] [I] parser C:\Users\yiz\Desktop\body\body000\00011.png
+[01:05:53] [I] parser C:\Users\yiz\Desktop\body\body000\00012.png
+[01:05:53] [I] parser C:\Users\yiz\Desktop\body\body000\00013.png
+[01:05:53] [I] parser C:\Users\yiz\Desktop\body\body000\00014.png
+[01:05:53] [I] parser C:\Users\yiz\Desktop\body\body000\00015.png
+[01:05:53] [I] parser C:\Users\yiz\Desktop\body\body000\00016.png
+[01:05:53] [I] parser C:\Users\yiz\Desktop\body\body000\00017.png
+[01:05:53] [I] parser C:\Users\yiz\Desktop\body\body000\00026.png
+[01:05:53] [I] parser C:\Users\yiz\Desktop\body\body000\00027.png
+[01:05:53] [I] parser C:\Users\yiz\Desktop\body\body000\00028.png
+[01:05:53] [I] parser C:\Users\yiz\Desktop\body\body000\00029.png
+[01:05:53] [I] parser C:\Users\yiz\Desktop\body\body000\00030.png
+[01:05:53] [I] parser C:\Users\yiz\Desktop\body\body000\00032.png
+[01:05:53] [I] parser C:\Users\yiz\Desktop\body\body000\00033.png
+[01:05:53] [I] parser C:\Users\yiz\Desktop\body\body000\00034.png
+[01:05:53] [I] parser C:\Users\yiz\Desktop\body\body000\00035.png
+[01:05:53] [I] parser C:\Users\yiz\Desktop\body\body000\00036.png
+[01:05:53] [I] parser C:\Users\yiz\Desktop\body\body000\00037.png
+[01:05:53] [I] parser C:\Users\yiz\Desktop\body\body000\00038.png
+[01:05:53] [I] parser C:\Users\yiz\Desktop\body\body000\00039.png
+[01:05:57] [I] <<< start merger
+[01:05:57] [I] <<< end merger
+[01:08:25] [I] parser C:\Users\yiz\Desktop\body\body000\00008.png
+[01:08:25] [I] parser C:\Users\yiz\Desktop\body\body000\00009.png
+[01:08:25] [I] parser C:\Users\yiz\Desktop\body\body000\00010.png
+[01:08:25] [I] parser C:\Users\yiz\Desktop\body\body000\00011.png
+[01:08:25] [I] parser C:\Users\yiz\Desktop\body\body000\00012.png
+[01:08:25] [I] parser C:\Users\yiz\Desktop\body\body000\00013.png
+[01:08:25] [I] parser C:\Users\yiz\Desktop\body\body000\00014.png
+[01:08:25] [I] parser C:\Users\yiz\Desktop\body\body000\00015.png
+[01:08:25] [I] parser C:\Users\yiz\Desktop\body\body000\00016.png
+[01:08:25] [I] parser C:\Users\yiz\Desktop\body\body000\00017.png
+[01:08:25] [I] parser C:\Users\yiz\Desktop\body\body000\00026.png
+[01:08:25] [I] parser C:\Users\yiz\Desktop\body\body000\00027.png
+[01:08:25] [I] parser C:\Users\yiz\Desktop\body\body000\00028.png
+[01:08:25] [I] parser C:\Users\yiz\Desktop\body\body000\00029.png
+[01:08:25] [I] parser C:\Users\yiz\Desktop\body\body000\00030.png
+[01:08:25] [I] parser C:\Users\yiz\Desktop\body\body000\00032.png
+[01:08:25] [I] parser C:\Users\yiz\Desktop\body\body000\00033.png
+[01:08:25] [I] parser C:\Users\yiz\Desktop\body\body000\00034.png
+[01:08:25] [I] parser C:\Users\yiz\Desktop\body\body000\00035.png
+[01:08:25] [I] parser C:\Users\yiz\Desktop\body\body000\00036.png
+[01:08:25] [I] parser C:\Users\yiz\Desktop\body\body000\00037.png
+[01:08:25] [I] parser C:\Users\yiz\Desktop\body\body000\00038.png
+[01:08:25] [I] parser C:\Users\yiz\Desktop\body\body000\00039.png
+[01:08:29] [I] <<< start merger
+[01:08:30] [I] <<< end merger
+[01:16:04] [I] parser C:\Users\yiz\Desktop\body\body000\00008.png
+[01:16:04] [I] parser C:\Users\yiz\Desktop\body\body000\00009.png
+[01:16:04] [I] parser C:\Users\yiz\Desktop\body\body000\00010.png
+[01:16:04] [I] parser C:\Users\yiz\Desktop\body\body000\00011.png
+[01:16:04] [I] parser C:\Users\yiz\Desktop\body\body000\00012.png
+[01:16:04] [I] parser C:\Users\yiz\Desktop\body\body000\00013.png
+[01:16:04] [I] parser C:\Users\yiz\Desktop\body\body000\00014.png
+[01:16:04] [I] parser C:\Users\yiz\Desktop\body\body000\00015.png
+[01:16:04] [I] parser C:\Users\yiz\Desktop\body\body000\00016.png
+[01:16:04] [I] parser C:\Users\yiz\Desktop\body\body000\00017.png
+[01:16:04] [I] parser C:\Users\yiz\Desktop\body\body000\00026.png
+[01:16:04] [I] parser C:\Users\yiz\Desktop\body\body000\00027.png
+[01:16:04] [I] parser C:\Users\yiz\Desktop\body\body000\00028.png
+[01:16:04] [I] parser C:\Users\yiz\Desktop\body\body000\00029.png
+[01:16:04] [I] parser C:\Users\yiz\Desktop\body\body000\00030.png
+[01:16:04] [I] parser C:\Users\yiz\Desktop\body\body000\00032.png
+[01:16:04] [I] parser C:\Users\yiz\Desktop\body\body000\00033.png
+[01:16:04] [I] parser C:\Users\yiz\Desktop\body\body000\00034.png
+[01:16:04] [I] parser C:\Users\yiz\Desktop\body\body000\00035.png
+[01:16:04] [I] parser C:\Users\yiz\Desktop\body\body000\00036.png
+[01:16:04] [I] parser C:\Users\yiz\Desktop\body\body000\00037.png
+[01:16:04] [I] parser C:\Users\yiz\Desktop\body\body000\00038.png
+[01:16:04] [I] parser C:\Users\yiz\Desktop\body\body000\00039.png
+[01:16:08] [I] <<< start merger
+[01:16:08] [I] <<< end merger
+[10:51:19] [I] >>> start C:\Users\yiz\Desktop\body\body000(13)
+[10:51:19] [I] frameRate = (13)
+[10:51:37] [I] >>> start C:\Users\yiz\Desktop\body\body000(13)
+[10:51:37] [I] frameRate = 13
+[10:52:52] [I] >>> start C:\Users\yiz\Desktop\body\body000(13a)
+[10:52:52] [E] C:\Users\yiz\Desktop\body\body000(13a) 没有设置动画帧数
+[10:53:04] [I] >>> start C:\Users\yiz\Desktop\body\body000(13)
+[10:53:04] [I] frameRate = 13
+[10:57:50] [I] >>> start <<< C:\Users\yiz\Desktop\body\body000(13)
+[10:57:50] [I] frameRate = 13
+[10:57:50] [I] parser C:\Users\yiz\Desktop\body\body000(13)\00008.png
+[10:57:50] [I] parser C:\Users\yiz\Desktop\body\body000(13)\00009.png
+[10:57:50] [I] parser C:\Users\yiz\Desktop\body\body000(13)\00010.png
+[10:57:50] [I] parser C:\Users\yiz\Desktop\body\body000(13)\00011.png
+[10:57:50] [I] parser C:\Users\yiz\Desktop\body\body000(13)\00012.png
+[10:57:50] [I] parser C:\Users\yiz\Desktop\body\body000(13)\00013.png
+[10:57:50] [I] parser C:\Users\yiz\Desktop\body\body000(13)\00014.png
+[10:57:50] [I] parser C:\Users\yiz\Desktop\body\body000(13)\00015.png
+[10:57:50] [I] parser C:\Users\yiz\Desktop\body\body000(13)\00016.png
+[10:57:50] [I] parser C:\Users\yiz\Desktop\body\body000(13)\00017.png
+[10:57:50] [I] parser C:\Users\yiz\Desktop\body\body000(13)\00026.png
+[10:57:50] [I] parser C:\Users\yiz\Desktop\body\body000(13)\00027.png
+[10:57:50] [I] parser C:\Users\yiz\Desktop\body\body000(13)\00028.png
+[10:57:50] [I] parser C:\Users\yiz\Desktop\body\body000(13)\00029.png
+[10:57:50] [I] parser C:\Users\yiz\Desktop\body\body000(13)\00030.png
+[10:57:50] [I] parser C:\Users\yiz\Desktop\body\body000(13)\00032.png
+[10:57:50] [I] parser C:\Users\yiz\Desktop\body\body000(13)\00033.png
+[10:57:50] [I] parser C:\Users\yiz\Desktop\body\body000(13)\00034.png
+[10:57:50] [I] parser C:\Users\yiz\Desktop\body\body000(13)\00035.png
+[10:57:50] [I] parser C:\Users\yiz\Desktop\body\body000(13)\00036.png
+[10:57:50] [I] parser C:\Users\yiz\Desktop\body\body000(13)\00037.png
+[10:57:50] [I] parser C:\Users\yiz\Desktop\body\body000(13)\00038.png
+[10:57:50] [I] parser C:\Users\yiz\Desktop\body\body000(13)\00039.png
+[10:57:54] [I] <<< start merger
+[10:57:54] [I] <<< end merger
+[10:57:55] [I] 输出 >>> C:\Users\yiz\Desktop\test\body000(13).png
+[10:57:55] [I] 输出 >>> C:\Users\yiz\Desktop\test\body000(13).json
+[10:59:16] [I] >>> start <<< C:\Users\yiz\Desktop\body\body000(13)
+[10:59:16] [I] frameRate = 13
+[10:59:16] [I] parser C:\Users\yiz\Desktop\body\body000(13)\00008.png
+[10:59:16] [I] parser C:\Users\yiz\Desktop\body\body000(13)\00009.png
+[10:59:16] [I] parser C:\Users\yiz\Desktop\body\body000(13)\00010.png
+[10:59:16] [I] parser C:\Users\yiz\Desktop\body\body000(13)\00011.png
+[10:59:16] [I] parser C:\Users\yiz\Desktop\body\body000(13)\00012.png
+[10:59:16] [I] parser C:\Users\yiz\Desktop\body\body000(13)\00013.png
+[10:59:16] [I] parser C:\Users\yiz\Desktop\body\body000(13)\00014.png
+[10:59:16] [I] parser C:\Users\yiz\Desktop\body\body000(13)\00015.png
+[10:59:16] [I] parser C:\Users\yiz\Desktop\body\body000(13)\00016.png
+[10:59:16] [I] parser C:\Users\yiz\Desktop\body\body000(13)\00017.png
+[10:59:16] [I] parser C:\Users\yiz\Desktop\body\body000(13)\00026.png
+[10:59:16] [I] parser C:\Users\yiz\Desktop\body\body000(13)\00027.png
+[10:59:16] [I] parser C:\Users\yiz\Desktop\body\body000(13)\00028.png
+[10:59:16] [I] parser C:\Users\yiz\Desktop\body\body000(13)\00029.png
+[10:59:16] [I] parser C:\Users\yiz\Desktop\body\body000(13)\00030.png
+[10:59:16] [I] parser C:\Users\yiz\Desktop\body\body000(13)\00032.png
+[10:59:16] [I] parser C:\Users\yiz\Desktop\body\body000(13)\00033.png
+[10:59:16] [I] parser C:\Users\yiz\Desktop\body\body000(13)\00034.png
+[10:59:16] [I] parser C:\Users\yiz\Desktop\body\body000(13)\00035.png
+[10:59:16] [I] parser C:\Users\yiz\Desktop\body\body000(13)\00036.png
+[10:59:16] [I] parser C:\Users\yiz\Desktop\body\body000(13)\00037.png
+[10:59:16] [I] parser C:\Users\yiz\Desktop\body\body000(13)\00038.png
+[10:59:16] [I] parser C:\Users\yiz\Desktop\body\body000(13)\00039.png
+[10:59:20] [I] <<< start merger
+[10:59:20] [I] <<< end merger
+[10:59:21] [I] 输出 >>> C:\Users\yiz\Desktop\test\body000.png
+[10:59:21] [I] 输出 >>> C:\Users\yiz\Desktop\test\body000.json
+[14:59:31] [I] >>> start <<< E:\art_doc\工作出图\skill102_2(12)
+[14:59:31] [I] frameRate = 12
+[14:59:31] [I] parser E:\art_doc\工作出图\skill102_2(12)\00.png
+[14:59:31] [I] parser E:\art_doc\工作出图\skill102_2(12)\01.png
+[14:59:31] [I] parser E:\art_doc\工作出图\skill102_2(12)\02.png
+[14:59:32] [I] parser E:\art_doc\工作出图\skill102_2(12)\03.png
+[14:59:32] [I] parser E:\art_doc\工作出图\skill102_2(12)\04.png
+[14:59:32] [I] parser E:\art_doc\工作出图\skill102_2(12)\05.png
+[14:59:32] [I] parser E:\art_doc\工作出图\skill102_2(12)\06.png
+[14:59:32] [I] parser E:\art_doc\工作出图\skill102_2(12)\07.png
+[14:59:33] [I] <<< start merger
+[14:59:34] [I] <<< end merger
+[15:02:36] [I] >>> start <<< E:\art_doc\工作出图\skill102_2(12)
+[15:02:36] [I] frameRate = 12
+[15:02:37] [I] parser E:\art_doc\工作出图\skill102_2(12)\00.png
+[15:02:37] [I] parser E:\art_doc\工作出图\skill102_2(12)\01.png
+[15:02:37] [I] parser E:\art_doc\工作出图\skill102_2(12)\02.png
+[15:02:37] [I] parser E:\art_doc\工作出图\skill102_2(12)\03.png
+[15:02:37] [I] parser E:\art_doc\工作出图\skill102_2(12)\04.png
+[15:02:37] [I] parser E:\art_doc\工作出图\skill102_2(12)\05.png
+[15:02:37] [I] parser E:\art_doc\工作出图\skill102_2(12)\06.png
+[15:02:37] [I] parser E:\art_doc\工作出图\skill102_2(12)\07.png
+[15:02:38] [I] <<< start merger
+[15:02:39] [I] <<< end merger
+[15:02:40] [I] 输出 >>> C:\Users\yiz\Desktop\test\skill102_2.png
+[15:02:40] [I] 输出 >>> C:\Users\yiz\Desktop\test\skill102_2.json
+[15:02:40] [I] >>> start <<< E:\art_doc\工作出图\skill102_3(12)
+[15:02:40] [I] frameRate = 12
+[15:02:40] [I] parser E:\art_doc\工作出图\skill102_3(12)\00.png
+[15:02:40] [I] parser E:\art_doc\工作出图\skill102_3(12)\01.png
+[15:02:40] [I] parser E:\art_doc\工作出图\skill102_3(12)\02.png
+[15:02:40] [I] parser E:\art_doc\工作出图\skill102_3(12)\03.png
+[15:02:40] [I] parser E:\art_doc\工作出图\skill102_3(12)\04.png
+[15:02:40] [I] parser E:\art_doc\工作出图\skill102_3(12)\05.png
+[15:02:40] [I] parser E:\art_doc\工作出图\skill102_3(12)\06.png
+[15:02:40] [I] parser E:\art_doc\工作出图\skill102_3(12)\07.png
+[15:02:41] [I] <<< start merger
+[15:02:42] [I] <<< end merger
+[15:02:43] [I] 输出 >>> C:\Users\yiz\Desktop\test\skill102_3.png
+[15:02:43] [I] 输出 >>> C:\Users\yiz\Desktop\test\skill102_3.json
+[15:02:43] [I] >>> start <<< E:\art_doc\工作出图\skill102_4(12)
+[15:02:43] [I] frameRate = 12
+[15:02:43] [I] parser E:\art_doc\工作出图\skill102_4(12)\00.png
+[15:02:43] [I] parser E:\art_doc\工作出图\skill102_4(12)\01.png
+[15:02:43] [I] parser E:\art_doc\工作出图\skill102_4(12)\02.png
+[15:02:43] [I] parser E:\art_doc\工作出图\skill102_4(12)\03.png
+[15:02:43] [I] parser E:\art_doc\工作出图\skill102_4(12)\04.png
+[15:02:43] [I] parser E:\art_doc\工作出图\skill102_4(12)\05.png
+[15:02:43] [I] parser E:\art_doc\工作出图\skill102_4(12)\06.png
+[15:02:43] [I] parser E:\art_doc\工作出图\skill102_4(12)\07.png
+[15:02:44] [I] <<< start merger
+[15:02:45] [I] <<< end merger
+[15:02:45] [I] 输出 >>> C:\Users\yiz\Desktop\test\skill102_4.png
+[15:02:45] [I] 输出 >>> C:\Users\yiz\Desktop\test\skill102_4.json
+[15:07:16] [I] >>> start <<< E:\art_doc\工作出图\skill102_0(12)
+[15:07:16] [I] frameRate = 12
+[15:07:16] [I] parser E:\art_doc\工作出图\skill102_0(12)\00.png
+[15:07:16] [I] parser E:\art_doc\工作出图\skill102_0(12)\01.png
+[15:07:16] [I] parser E:\art_doc\工作出图\skill102_0(12)\02.png
+[15:07:16] [I] parser E:\art_doc\工作出图\skill102_0(12)\03.png
+[15:07:16] [I] parser E:\art_doc\工作出图\skill102_0(12)\04.png
+[15:07:16] [I] parser E:\art_doc\工作出图\skill102_0(12)\05.png
+[15:07:16] [I] parser E:\art_doc\工作出图\skill102_0(12)\06.png
+[15:07:16] [I] parser E:\art_doc\工作出图\skill102_0(12)\07.png
+[15:07:17] [I] <<< start merger
+[15:07:18] [I] <<< end merger
+[15:07:18] [I] 输出 >>> C:\Users\yiz\Desktop\test\skill102_0.png
+[15:07:18] [I] 输出 >>> C:\Users\yiz\Desktop\test\skill102_0.json
+[15:07:18] [I] >>> start <<< E:\art_doc\工作出图\skill102_1(12)
+[15:07:18] [I] frameRate = 12
+[15:07:18] [I] parser E:\art_doc\工作出图\skill102_1(12)\00.png
+[15:07:18] [I] parser E:\art_doc\工作出图\skill102_1(12)\01.png
+[15:07:18] [I] parser E:\art_doc\工作出图\skill102_1(12)\02.png
+[15:07:18] [I] parser E:\art_doc\工作出图\skill102_1(12)\03.png
+[15:07:18] [I] parser E:\art_doc\工作出图\skill102_1(12)\04.png
+[15:07:18] [I] parser E:\art_doc\工作出图\skill102_1(12)\05.png
+[15:07:18] [I] parser E:\art_doc\工作出图\skill102_1(12)\06.png
+[15:07:18] [I] parser E:\art_doc\工作出图\skill102_1(12)\07.png
+[15:07:20] [I] <<< start merger
+[15:07:20] [I] <<< end merger
+[15:07:21] [I] 输出 >>> C:\Users\yiz\Desktop\test\skill102_1.png
+[15:07:21] [I] 输出 >>> C:\Users\yiz\Desktop\test\skill102_1.json
+[15:07:21] [I] >>> start <<< E:\art_doc\工作出图\skill102_2(12)
+[15:07:21] [I] frameRate = 12
+[15:07:21] [I] parser E:\art_doc\工作出图\skill102_2(12)\00.png
+[15:07:21] [I] parser E:\art_doc\工作出图\skill102_2(12)\01.png
+[15:07:21] [I] parser E:\art_doc\工作出图\skill102_2(12)\02.png
+[15:07:21] [I] parser E:\art_doc\工作出图\skill102_2(12)\03.png
+[15:07:21] [I] parser E:\art_doc\工作出图\skill102_2(12)\04.png
+[15:07:21] [I] parser E:\art_doc\工作出图\skill102_2(12)\05.png
+[15:07:21] [I] parser E:\art_doc\工作出图\skill102_2(12)\06.png
+[15:07:21] [I] parser E:\art_doc\工作出图\skill102_2(12)\07.png
+[15:07:22] [I] <<< start merger
+[15:07:23] [I] <<< end merger
+[15:07:24] [I] 输出 >>> C:\Users\yiz\Desktop\test\skill102_2.png
+[15:07:24] [I] 输出 >>> C:\Users\yiz\Desktop\test\skill102_2.json
+[15:07:24] [I] >>> start <<< E:\art_doc\工作出图\skill102_3(12)
+[15:07:24] [I] frameRate = 12
+[15:07:24] [I] parser E:\art_doc\工作出图\skill102_3(12)\00.png
+[15:07:24] [I] parser E:\art_doc\工作出图\skill102_3(12)\01.png
+[15:07:24] [I] parser E:\art_doc\工作出图\skill102_3(12)\02.png
+[15:07:24] [I] parser E:\art_doc\工作出图\skill102_3(12)\03.png
+[15:07:24] [I] parser E:\art_doc\工作出图\skill102_3(12)\04.png
+[15:07:24] [I] parser E:\art_doc\工作出图\skill102_3(12)\05.png
+[15:07:24] [I] parser E:\art_doc\工作出图\skill102_3(12)\06.png
+[15:07:24] [I] parser E:\art_doc\工作出图\skill102_3(12)\07.png
+[15:07:25] [I] <<< start merger
+[15:07:26] [I] <<< end merger
+[15:07:27] [I] 输出 >>> C:\Users\yiz\Desktop\test\skill102_3.png
+[15:07:27] [I] 输出 >>> C:\Users\yiz\Desktop\test\skill102_3.json
+[15:07:27] [I] >>> start <<< E:\art_doc\工作出图\skill102_4(12)
+[15:07:27] [I] frameRate = 12
+[15:07:27] [I] parser E:\art_doc\工作出图\skill102_4(12)\00.png
+[15:07:27] [I] parser E:\art_doc\工作出图\skill102_4(12)\01.png
+[15:07:27] [I] parser E:\art_doc\工作出图\skill102_4(12)\02.png
+[15:07:27] [I] parser E:\art_doc\工作出图\skill102_4(12)\03.png
+[15:07:27] [I] parser E:\art_doc\工作出图\skill102_4(12)\04.png
+[15:07:27] [I] parser E:\art_doc\工作出图\skill102_4(12)\05.png
+[15:07:27] [I] parser E:\art_doc\工作出图\skill102_4(12)\06.png
+[15:07:27] [I] parser E:\art_doc\工作出图\skill102_4(12)\07.png
+[15:07:28] [I] <<< start merger
+[15:07:29] [I] <<< end merger
+[15:07:29] [I] 输出 >>> C:\Users\yiz\Desktop\test\skill102_4.png
+[15:07:29] [I] 输出 >>> C:\Users\yiz\Desktop\test\skill102_4.json
+[15:07:29] [I] >>> start <<< E:\art_doc\工作出图\skill204(12)
+[15:07:29] [I] frameRate = 12
+[15:07:29] [I] parser E:\art_doc\工作出图\skill204(12)\00.png
+[15:07:29] [I] parser E:\art_doc\工作出图\skill204(12)\01.png
+[15:07:29] [I] parser E:\art_doc\工作出图\skill204(12)\02.png
+[15:07:29] [I] parser E:\art_doc\工作出图\skill204(12)\03.png
+[15:07:30] [I] <<< start merger
+[15:07:30] [I] <<< end merger
+[15:07:31] [I] 输出 >>> C:\Users\yiz\Desktop\test\skill204.png
+[15:07:31] [I] 输出 >>> C:\Users\yiz\Desktop\test\skill204.json
+[15:09:39] [I] >>> start <<< E:\art_doc\工作出图\skill102_1(12)
+[15:09:39] [I] frameRate = 12
+[15:09:39] [I] parser E:\art_doc\工作出图\skill102_1(12)\00.png
+[15:09:39] [I] parser E:\art_doc\工作出图\skill102_1(12)\01.png
+[15:09:39] [I] parser E:\art_doc\工作出图\skill102_1(12)\02.png
+[15:09:39] [I] parser E:\art_doc\工作出图\skill102_1(12)\03.png
+[15:09:39] [I] parser E:\art_doc\工作出图\skill102_1(12)\04.png
+[15:09:39] [I] parser E:\art_doc\工作出图\skill102_1(12)\05.png
+[15:09:39] [I] parser E:\art_doc\工作出图\skill102_1(12)\06.png
+[15:09:39] [I] parser E:\art_doc\工作出图\skill102_1(12)\07.png
+[15:12:35] [I] >>> start <<< E:\art_doc\工作出图\skill102_1(12)
+[15:12:35] [I] frameRate = 12
+[15:12:35] [I] parser E:\art_doc\工作出图\skill102_1(12)\00.png
+[15:12:35] [I] parser E:\art_doc\工作出图\skill102_1(12)\01.png
+[15:12:35] [I] parser E:\art_doc\工作出图\skill102_1(12)\02.png
+[15:12:35] [I] parser E:\art_doc\工作出图\skill102_1(12)\03.png
+[15:12:35] [I] parser E:\art_doc\工作出图\skill102_1(12)\04.png
+[15:12:35] [I] parser E:\art_doc\工作出图\skill102_1(12)\05.png
+[15:12:35] [I] parser E:\art_doc\工作出图\skill102_1(12)\06.png
+[15:12:35] [I] parser E:\art_doc\工作出图\skill102_1(12)\07.png
+[15:13:48] [I] >>> start <<< E:\art_doc\工作出图\skill102_1(12)
+[15:13:48] [I] frameRate = 12
+[15:13:48] [I] parser E:\art_doc\工作出图\skill102_1(12)\00.png
+[15:13:48] [I] parser E:\art_doc\工作出图\skill102_1(12)\01.png
+[15:13:48] [I] parser E:\art_doc\工作出图\skill102_1(12)\02.png
+[15:13:48] [I] parser E:\art_doc\工作出图\skill102_1(12)\03.png
+[15:13:48] [I] parser E:\art_doc\工作出图\skill102_1(12)\04.png
+[15:13:48] [I] parser E:\art_doc\工作出图\skill102_1(12)\05.png
+[15:13:48] [I] parser E:\art_doc\工作出图\skill102_1(12)\06.png
+[15:13:48] [I] parser E:\art_doc\工作出图\skill102_1(12)\07.png
+[15:13:49] [I] <<< start merger
+[15:13:50] [I] <<< end merger
+[15:13:50] [I] 输出 >>> C:\Users\yiz\Desktop\test\skill102_1.png
+[15:13:50] [I] 输出 >>> C:\Users\yiz\Desktop\test\skill102_1.json
+[15:14:51] [I] >>> start <<< E:\art_doc\工作出图\skill102_1(12)
+[15:14:51] [I] frameRate = 12
+[15:14:51] [I] parser E:\art_doc\工作出图\skill102_1(12)\00.png
+[15:14:51] [I] parser E:\art_doc\工作出图\skill102_1(12)\01.png
+[15:14:51] [I] parser E:\art_doc\工作出图\skill102_1(12)\02.png
+[15:14:51] [I] parser E:\art_doc\工作出图\skill102_1(12)\03.png
+[15:14:51] [I] parser E:\art_doc\工作出图\skill102_1(12)\04.png
+[15:14:51] [I] parser E:\art_doc\工作出图\skill102_1(12)\05.png
+[15:14:51] [I] parser E:\art_doc\工作出图\skill102_1(12)\06.png
+[15:14:51] [I] parser E:\art_doc\工作出图\skill102_1(12)\07.png
+[15:15:16] [I] <<< start merger
+[15:15:17] [I] <<< end merger
+[15:21:08] [I] >>> start <<< E:\art_doc\工作出图\skill102_1(12)
+[15:21:08] [I] frameRate = 12
+[15:21:08] [I] parser E:\art_doc\工作出图\skill102_1(12)\00.png
+[15:21:08] [I] parser E:\art_doc\工作出图\skill102_1(12)\01.png
+[15:21:08] [I] parser E:\art_doc\工作出图\skill102_1(12)\02.png
+[15:21:08] [I] parser E:\art_doc\工作出图\skill102_1(12)\03.png
+[15:21:08] [I] parser E:\art_doc\工作出图\skill102_1(12)\04.png
+[15:21:08] [I] parser E:\art_doc\工作出图\skill102_1(12)\05.png
+[15:21:08] [I] parser E:\art_doc\工作出图\skill102_1(12)\06.png
+[15:21:08] [I] parser E:\art_doc\工作出图\skill102_1(12)\07.png
+[15:21:09] [I] <<< start merger
+[15:21:10] [I] <<< end merger
+[15:21:10] [I] 输出 >>> C:\Users\yiz\Desktop\test\skill102_1.png
+[15:21:10] [I] 输出 >>> C:\Users\yiz\Desktop\test\skill102_1.json
+[15:22:53] [I] >>> start <<< E:\art_doc\工作出图\skill102_1(12)
+[15:22:53] [I] frameRate = 12
+[15:22:53] [I] parser E:\art_doc\工作出图\skill102_1(12)\00.png
+[15:22:53] [I] parser E:\art_doc\工作出图\skill102_1(12)\01.png
+[15:22:53] [I] parser E:\art_doc\工作出图\skill102_1(12)\02.png
+[15:22:53] [I] parser E:\art_doc\工作出图\skill102_1(12)\03.png
+[15:22:53] [I] parser E:\art_doc\工作出图\skill102_1(12)\04.png
+[15:22:53] [I] parser E:\art_doc\工作出图\skill102_1(12)\05.png
+[15:22:53] [I] parser E:\art_doc\工作出图\skill102_1(12)\06.png
+[15:22:53] [I] parser E:\art_doc\工作出图\skill102_1(12)\07.png
+[15:22:54] [I] <<< start merger
+[15:22:55] [I] <<< end merger
+[15:22:55] [I] 输出 >>> C:\Users\yiz\Desktop\test\skill102_1.png
+[15:22:55] [I] 输出 >>> C:\Users\yiz\Desktop\test\skill102_1.json
+[15:43:47] [I] >>> start <<< E:\art_doc\工作出图\skill102_1(12)
+[15:43:47] [I] frameRate = 12
+[15:43:47] [I] parser E:\art_doc\工作出图\skill102_1(12)\00.png
+[15:43:47] [I] parser E:\art_doc\工作出图\skill102_1(12)\01.png
+[15:43:47] [I] parser E:\art_doc\工作出图\skill102_1(12)\03.png
+[15:43:47] [I] parser E:\art_doc\工作出图\skill102_1(12)\04.png
+[15:43:47] [I] parser E:\art_doc\工作出图\skill102_1(12)\05.png
+[15:43:47] [I] parser E:\art_doc\工作出图\skill102_1(12)\06.png
+[15:43:47] [I] parser E:\art_doc\工作出图\skill102_1(12)\07.png
+[15:43:49] [I] <<< start merger
+[15:43:49] [I] <<< end merger
+[15:43:50] [I] 输出 >>> C:\Users\yiz\Desktop\test\skill102_1.png
+[15:43:50] [I] 输出 >>> C:\Users\yiz\Desktop\test\skill102_1.json
+[15:44:35] [I] >>> start <<< E:\art_doc\工作出图\skill102_1(12)
+[15:44:35] [I] frameRate = 12
+[15:44:35] [I] parser E:\art_doc\工作出图\skill102_1(12)\00.png
+[15:44:35] [I] parser E:\art_doc\工作出图\skill102_1(12)\01.png
+[15:44:35] [I] parser E:\art_doc\工作出图\skill102_1(12)\03.png
+[15:44:35] [I] parser E:\art_doc\工作出图\skill102_1(12)\04.png
+[15:44:35] [I] parser E:\art_doc\工作出图\skill102_1(12)\05.png
+[15:44:35] [I] parser E:\art_doc\工作出图\skill102_1(12)\06.png
+[15:44:35] [I] parser E:\art_doc\工作出图\skill102_1(12)\07.png
+[15:44:37] [I] <<< start merger
+[15:44:37] [I] <<< end merger
+[15:44:38] [I] 输出 >>> C:\Users\yiz\Desktop\test\skill102_1.png
+[15:44:38] [I] 输出 >>> C:\Users\yiz\Desktop\test\skill102_1.json
+[15:50:48] [I] >>> start <<< E:\art_doc\工作出图\skill102_1(12)
+[15:50:48] [I] frameRate = 12
+[15:50:48] [I] parser E:\art_doc\工作出图\skill102_1(12)\00.png
+[15:50:48] [I] parser E:\art_doc\工作出图\skill102_1(12)\01.png
+[15:50:48] [I] parser E:\art_doc\工作出图\skill102_1(12)\03.png
+[15:50:48] [I] parser E:\art_doc\工作出图\skill102_1(12)\04.png
+[15:50:48] [I] parser E:\art_doc\工作出图\skill102_1(12)\05.png
+[15:50:48] [I] parser E:\art_doc\工作出图\skill102_1(12)\06.png
+[15:50:48] [I] parser E:\art_doc\工作出图\skill102_1(12)\07.png
+[15:50:50] [I] <<< start merger
+[15:50:50] [I] <<< end merger
+[15:50:50] [I] 输出 >>> C:\Users\yiz\Desktop\test\skill102_1.png
+[15:50:51] [I] 输出 >>> C:\Users\yiz\Desktop\test\skill102_1.json
+[15:51:47] [I] >>> start <<< E:\art_doc\工作出图\skill102_1(12)
+[15:51:47] [I] frameRate = 12
+[15:51:47] [I] parser E:\art_doc\工作出图\skill102_1(12)\00.png
+[15:51:47] [I] parser E:\art_doc\工作出图\skill102_1(12)\01.png
+[15:51:47] [I] parser E:\art_doc\工作出图\skill102_1(12)\03.png
+[15:51:47] [I] parser E:\art_doc\工作出图\skill102_1(12)\04.png
+[15:51:47] [I] parser E:\art_doc\工作出图\skill102_1(12)\05.png
+[15:51:47] [I] parser E:\art_doc\工作出图\skill102_1(12)\06.png
+[15:51:47] [I] parser E:\art_doc\工作出图\skill102_1(12)\07.png
+[15:51:49] [I] <<< start merger
+[15:51:49] [I] <<< end merger
+[15:51:49] [I] 输出 >>> C:\Users\yiz\Desktop\test\skill102_1.png
+[15:51:49] [I] 输出 >>> C:\Users\yiz\Desktop\test\skill102_1.json
+[15:58:58] [I] >>> start <<< E:\art_doc\工作出图\skill102_1(12)
+[15:58:58] [I] frameRate = 12
+[15:58:58] [I] parser E:\art_doc\工作出图\skill102_1(12)\00.png
+[15:58:58] [I] parser E:\art_doc\工作出图\skill102_1(12)\01.png
+[15:58:58] [I] parser E:\art_doc\工作出图\skill102_1(12)\03.png
+[15:58:58] [I] parser E:\art_doc\工作出图\skill102_1(12)\04.png
+[15:58:58] [I] parser E:\art_doc\工作出图\skill102_1(12)\05.png
+[15:58:58] [I] parser E:\art_doc\工作出图\skill102_1(12)\06.png
+[15:58:58] [I] parser E:\art_doc\工作出图\skill102_1(12)\07.png
+[15:59:00] [I] <<< start merger
+[15:59:00] [I] <<< end merger
+[15:59:00] [I] 输出 >>> C:\Users\yiz\Desktop\test\skill102_1.png
+[15:59:00] [I] 输出 >>> C:\Users\yiz\Desktop\test\skill102_1.json
+[15:59:19] [I] >>> start <<< E:\art_doc\工作出图\skill102_0(12)
+[15:59:19] [I] frameRate = 12
+[15:59:19] [I] parser E:\art_doc\工作出图\skill102_0(12)\00.png
+[15:59:19] [I] parser E:\art_doc\工作出图\skill102_0(12)\01.png
+[15:59:19] [I] parser E:\art_doc\工作出图\skill102_0(12)\03.png
+[15:59:19] [I] parser E:\art_doc\工作出图\skill102_0(12)\04.png
+[15:59:19] [I] parser E:\art_doc\工作出图\skill102_0(12)\05.png
+[15:59:19] [I] parser E:\art_doc\工作出图\skill102_0(12)\06.png
+[15:59:19] [I] parser E:\art_doc\工作出图\skill102_0(12)\07.png
+[15:59:21] [I] <<< start merger
+[15:59:21] [I] <<< end merger
+[15:59:21] [I] 输出 >>> C:\Users\yiz\Desktop\test\skill102_0.png
+[15:59:21] [I] 输出 >>> C:\Users\yiz\Desktop\test\skill102_0.json
+[15:59:21] [I] >>> start <<< E:\art_doc\工作出图\skill102_1(12)
+[15:59:21] [I] frameRate = 12
+[15:59:21] [I] parser E:\art_doc\工作出图\skill102_1(12)\00.png
+[15:59:21] [I] parser E:\art_doc\工作出图\skill102_1(12)\01.png
+[15:59:21] [I] parser E:\art_doc\工作出图\skill102_1(12)\03.png
+[15:59:21] [I] parser E:\art_doc\工作出图\skill102_1(12)\04.png
+[15:59:21] [I] parser E:\art_doc\工作出图\skill102_1(12)\05.png
+[15:59:21] [I] parser E:\art_doc\工作出图\skill102_1(12)\06.png
+[16:00:08] [I] >>> start <<< E:\art_doc\工作出图\skill102_0(12)
+[16:00:08] [I] frameRate = 12
+[16:00:08] [I] parser E:\art_doc\工作出图\skill102_0(12)\00.png
+[16:00:08] [I] parser E:\art_doc\工作出图\skill102_0(12)\01.png
+[16:00:08] [I] parser E:\art_doc\工作出图\skill102_0(12)\03.png
+[16:00:08] [I] parser E:\art_doc\工作出图\skill102_0(12)\04.png
+[16:00:08] [I] parser E:\art_doc\工作出图\skill102_0(12)\05.png
+[16:00:08] [I] parser E:\art_doc\工作出图\skill102_0(12)\06.png
+[16:00:08] [I] parser E:\art_doc\工作出图\skill102_0(12)\07.png
+[16:00:10] [I] <<< start merger
+[16:00:10] [I] <<< end merger
+[16:00:10] [I] 输出 >>> C:\Users\yiz\Desktop\test\skill102_0.png
+[16:00:10] [I] 输出 >>> C:\Users\yiz\Desktop\test\skill102_0.json
+[16:00:10] [I] >>> start <<< E:\art_doc\工作出图\skill102_1(12)
+[16:00:10] [I] frameRate = 12
+[16:00:10] [I] parser E:\art_doc\工作出图\skill102_1(12)\00.png
+[16:00:10] [I] parser E:\art_doc\工作出图\skill102_1(12)\01.png
+[16:00:10] [I] parser E:\art_doc\工作出图\skill102_1(12)\03.png
+[16:00:10] [I] parser E:\art_doc\工作出图\skill102_1(12)\04.png
+[16:00:10] [I] parser E:\art_doc\工作出图\skill102_1(12)\05.png
+[16:00:11] [I] parser E:\art_doc\工作出图\skill102_1(12)\06.png
+[16:00:11] [I] parser E:\art_doc\工作出图\skill102_1(12)\07.png
+[16:00:12] [I] <<< start merger
+[16:00:12] [I] <<< end merger
+[16:00:13] [I] 输出 >>> C:\Users\yiz\Desktop\test\skill102_1.png
+[16:00:13] [I] 输出 >>> C:\Users\yiz\Desktop\test\skill102_1.json
+[16:00:13] [I] >>> start <<< E:\art_doc\工作出图\skill102_2(12)
+[16:00:13] [I] frameRate = 12
+[16:00:13] [I] parser E:\art_doc\工作出图\skill102_2(12)\00.png
+[16:00:13] [I] parser E:\art_doc\工作出图\skill102_2(12)\01.png
+[16:00:13] [I] parser E:\art_doc\工作出图\skill102_2(12)\03.png
+[16:00:13] [I] parser E:\art_doc\工作出图\skill102_2(12)\04.png
+[16:00:13] [I] parser E:\art_doc\工作出图\skill102_2(12)\05.png
+[16:00:13] [I] parser E:\art_doc\工作出图\skill102_2(12)\06.png
+[16:00:13] [I] parser E:\art_doc\工作出图\skill102_2(12)\07.png
+[16:00:14] [I] <<< start merger
+[16:00:15] [I] <<< end merger
+[16:00:16] [I] 输出 >>> C:\Users\yiz\Desktop\test\skill102_2.png
+[16:00:16] [I] 输出 >>> C:\Users\yiz\Desktop\test\skill102_2.json
+[16:00:16] [I] >>> start <<< E:\art_doc\工作出图\skill102_3(12)
+[16:00:16] [I] frameRate = 12
+[16:00:16] [I] parser E:\art_doc\工作出图\skill102_3(12)\00.png
+[16:00:16] [I] parser E:\art_doc\工作出图\skill102_3(12)\01.png
+[16:00:16] [I] parser E:\art_doc\工作出图\skill102_3(12)\03.png
+[16:00:16] [I] parser E:\art_doc\工作出图\skill102_3(12)\04.png
+[16:00:16] [I] parser E:\art_doc\工作出图\skill102_3(12)\05.png
+[16:00:16] [I] parser E:\art_doc\工作出图\skill102_3(12)\06.png
+[16:00:16] [I] parser E:\art_doc\工作出图\skill102_3(12)\07.png
+[16:00:17] [I] <<< start merger
+[16:00:18] [I] <<< end merger
+[16:00:19] [I] 输出 >>> C:\Users\yiz\Desktop\test\skill102_3.png
+[16:00:19] [I] 输出 >>> C:\Users\yiz\Desktop\test\skill102_3.json
+[16:00:19] [I] >>> start <<< E:\art_doc\工作出图\skill102_4(12)
+[16:00:19] [I] frameRate = 12
+[16:00:19] [I] parser E:\art_doc\工作出图\skill102_4(12)\00.png
+[16:00:19] [I] parser E:\art_doc\工作出图\skill102_4(12)\01.png
+[16:00:19] [I] parser E:\art_doc\工作出图\skill102_4(12)\03.png
+[16:00:19] [I] parser E:\art_doc\工作出图\skill102_4(12)\04.png
+[16:00:19] [I] parser E:\art_doc\工作出图\skill102_4(12)\05.png
+[16:00:19] [I] parser E:\art_doc\工作出图\skill102_4(12)\06.png
+[16:00:19] [I] parser E:\art_doc\工作出图\skill102_4(12)\07.png
+[16:00:20] [I] <<< start merger
+[16:00:21] [I] <<< end merger
+[16:00:21] [I] 输出 >>> C:\Users\yiz\Desktop\test\skill102_4.png
+[16:00:21] [I] 输出 >>> C:\Users\yiz\Desktop\test\skill102_4.json
+[16:00:21] [I] >>> start <<< E:\art_doc\工作出图\skill204(12)
+[16:00:21] [I] frameRate = 12
+[16:00:21] [I] parser E:\art_doc\工作出图\skill204(12)\00.png
+[16:00:21] [I] parser E:\art_doc\工作出图\skill204(12)\01.png
+[16:00:21] [I] parser E:\art_doc\工作出图\skill204(12)\02.png
+[16:00:21] [I] parser E:\art_doc\工作出图\skill204(12)\03.png
+[16:00:22] [I] <<< start merger
+[16:00:22] [I] <<< end merger
+[16:00:23] [I] 输出 >>> C:\Users\yiz\Desktop\test\skill204.png
+[16:00:23] [I] 输出 >>> C:\Users\yiz\Desktop\test\skill204.json
+[16:03:32] [I] >>> start <<< E:\art_doc\工作出图\skill102_0(12)
+[16:03:32] [I] frameRate = 12
+[16:03:32] [I] parser E:\art_doc\工作出图\skill102_0(12)\00.png
+[16:03:32] [I] parser E:\art_doc\工作出图\skill102_0(12)\01.png
+[16:03:32] [I] parser E:\art_doc\工作出图\skill102_0(12)\03.png
+[16:03:32] [I] parser E:\art_doc\工作出图\skill102_0(12)\04.png
+[16:03:32] [I] parser E:\art_doc\工作出图\skill102_0(12)\05.png
+[16:03:32] [I] parser E:\art_doc\工作出图\skill102_0(12)\06.png
+[16:03:32] [I] parser E:\art_doc\工作出图\skill102_0(12)\07.png
+[16:03:33] [I] <<< start merger
+[16:03:34] [I] <<< end merger
+[16:03:34] [I] 输出 >>> C:\Users\yiz\Desktop\test\skill102_0.png
+[16:03:34] [I] 输出 >>> C:\Users\yiz\Desktop\test\skill102_0.json
+[16:03:34] [I] >>> start <<< E:\art_doc\工作出图\skill102_1(12)
+[16:03:34] [I] frameRate = 12
+[16:03:34] [I] parser E:\art_doc\工作出图\skill102_1(12)\00.png
+[16:03:34] [I] parser E:\art_doc\工作出图\skill102_1(12)\01.png
+[16:03:34] [I] parser E:\art_doc\工作出图\skill102_1(12)\03.png
+[16:03:34] [I] parser E:\art_doc\工作出图\skill102_1(12)\04.png
+[16:03:34] [I] parser E:\art_doc\工作出图\skill102_1(12)\05.png
+[16:03:34] [I] parser E:\art_doc\工作出图\skill102_1(12)\06.png
+[16:03:34] [I] parser E:\art_doc\工作出图\skill102_1(12)\07.png
+[16:03:35] [I] <<< start merger
+[16:03:36] [I] <<< end merger
+[16:03:36] [I] 输出 >>> C:\Users\yiz\Desktop\test\skill102_1.png
+[16:03:36] [I] 输出 >>> C:\Users\yiz\Desktop\test\skill102_1.json
+[16:03:36] [I] >>> start <<< E:\art_doc\工作出图\skill102_2(12)
+[16:03:36] [I] frameRate = 12
+[16:03:36] [I] parser E:\art_doc\工作出图\skill102_2(12)\00.png
+[16:03:36] [I] parser E:\art_doc\工作出图\skill102_2(12)\01.png
+[16:03:36] [I] parser E:\art_doc\工作出图\skill102_2(12)\03.png
+[16:03:36] [I] parser E:\art_doc\工作出图\skill102_2(12)\04.png
+[16:03:36] [I] parser E:\art_doc\工作出图\skill102_2(12)\05.png
+[16:03:36] [I] parser E:\art_doc\工作出图\skill102_2(12)\06.png
+[16:03:36] [I] parser E:\art_doc\工作出图\skill102_2(12)\07.png
+[16:03:38] [I] <<< start merger
+[16:03:39] [I] <<< end merger
+[16:03:39] [I] 输出 >>> C:\Users\yiz\Desktop\test\skill102_2.png
+[16:03:39] [I] 输出 >>> C:\Users\yiz\Desktop\test\skill102_2.json
+[16:03:39] [I] >>> start <<< E:\art_doc\工作出图\skill102_3(12)
+[16:03:39] [I] frameRate = 12
+[16:03:39] [I] parser E:\art_doc\工作出图\skill102_3(12)\00.png
+[16:03:39] [I] parser E:\art_doc\工作出图\skill102_3(12)\01.png
+[16:03:39] [I] parser E:\art_doc\工作出图\skill102_3(12)\03.png
+[16:03:39] [I] parser E:\art_doc\工作出图\skill102_3(12)\04.png
+[16:03:39] [I] parser E:\art_doc\工作出图\skill102_3(12)\05.png
+[16:03:39] [I] parser E:\art_doc\工作出图\skill102_3(12)\06.png
+[16:03:39] [I] parser E:\art_doc\工作出图\skill102_3(12)\07.png
+[16:03:41] [I] <<< start merger
+[16:03:42] [I] <<< end merger
+[16:03:42] [I] 输出 >>> C:\Users\yiz\Desktop\test\skill102_3.png
+[16:03:42] [I] 输出 >>> C:\Users\yiz\Desktop\test\skill102_3.json
+[16:03:42] [I] >>> start <<< E:\art_doc\工作出图\skill102_4(12)
+[16:03:42] [I] frameRate = 12
+[16:03:42] [I] parser E:\art_doc\工作出图\skill102_4(12)\00.png
+[16:03:42] [I] parser E:\art_doc\工作出图\skill102_4(12)\01.png
+[16:03:42] [I] parser E:\art_doc\工作出图\skill102_4(12)\03.png
+[16:03:42] [I] parser E:\art_doc\工作出图\skill102_4(12)\04.png
+[16:03:42] [I] parser E:\art_doc\工作出图\skill102_4(12)\05.png
+[16:03:42] [I] parser E:\art_doc\工作出图\skill102_4(12)\06.png
+[16:03:42] [I] parser E:\art_doc\工作出图\skill102_4(12)\07.png
+[16:03:44] [I] <<< start merger
+[16:03:44] [I] <<< end merger
+[16:03:44] [I] 输出 >>> C:\Users\yiz\Desktop\test\skill102_4.png
+[16:03:45] [I] 输出 >>> C:\Users\yiz\Desktop\test\skill102_4.json
+[16:03:45] [I] >>> start <<< E:\art_doc\工作出图\skill204(12)
+[16:03:45] [I] frameRate = 12
+[16:03:45] [I] parser E:\art_doc\工作出图\skill204(12)\00.png
+[16:03:45] [I] parser E:\art_doc\工作出图\skill204(12)\01.png
+[16:03:45] [I] parser E:\art_doc\工作出图\skill204(12)\02.png
+[16:03:45] [I] parser E:\art_doc\工作出图\skill204(12)\03.png
+[16:03:45] [I] <<< start merger
+[16:03:46] [I] <<< end merger
+[16:03:46] [I] 输出 >>> C:\Users\yiz\Desktop\test\skill204.png
+[16:03:46] [I] 输出 >>> C:\Users\yiz\Desktop\test\skill204.json
+[20:35:36] [I] >>> start <<< E:\art_doc\eff_ui_artifact_007(8)
+[20:35:36] [I] frameRate = 8
+[20:35:36] [I] <<< start merger
+[20:35:36] [I] <<< end merger
+[20:35:36] [I] 输出 >>> C:\Users\yiz\Desktop\test\eff_ui_artifact_007.png
+[20:35:36] [I] 输出 >>> C:\Users\yiz\Desktop\test\eff_ui_artifact_007.json
+[20:36:36] [I] >>> start <<< E:\art_doc\eff_ui_artifact_007(8)\eff_ui_artifact_007(8)
+[20:36:36] [I] frameRate = 8
+[20:36:36] [I] parser E:\art_doc\eff_ui_artifact_007(8)\eff_ui_artifact_007(8)\00.png
+[20:36:36] [I] parser E:\art_doc\eff_ui_artifact_007(8)\eff_ui_artifact_007(8)\01.png
+[20:36:36] [I] parser E:\art_doc\eff_ui_artifact_007(8)\eff_ui_artifact_007(8)\02.png
+[20:36:36] [I] parser E:\art_doc\eff_ui_artifact_007(8)\eff_ui_artifact_007(8)\03.png
+[20:36:36] [I] parser E:\art_doc\eff_ui_artifact_007(8)\eff_ui_artifact_007(8)\04.png
+[20:36:36] [I] parser E:\art_doc\eff_ui_artifact_007(8)\eff_ui_artifact_007(8)\05.png
+[20:36:36] [I] parser E:\art_doc\eff_ui_artifact_007(8)\eff_ui_artifact_007(8)\06.png
+[20:36:36] [I] parser E:\art_doc\eff_ui_artifact_007(8)\eff_ui_artifact_007(8)\07.png
+[20:36:39] [I] <<< start merger
+[20:36:39] [I] <<< end merger
+[20:38:31] [I] >>> start <<< E:\art_doc\eff_ui_artifact_007(8)\eff_ui_artifact_007(8)
+[20:38:31] [I] frameRate = 8
+[20:38:31] [I] parser E:\art_doc\eff_ui_artifact_007(8)\eff_ui_artifact_007(8)\00.png
+[20:38:31] [I] parser E:\art_doc\eff_ui_artifact_007(8)\eff_ui_artifact_007(8)\01.png
+[20:38:31] [I] parser E:\art_doc\eff_ui_artifact_007(8)\eff_ui_artifact_007(8)\02.png
+[20:38:31] [I] parser E:\art_doc\eff_ui_artifact_007(8)\eff_ui_artifact_007(8)\03.png
+[20:38:31] [I] parser E:\art_doc\eff_ui_artifact_007(8)\eff_ui_artifact_007(8)\04.png
+[20:38:31] [I] parser E:\art_doc\eff_ui_artifact_007(8)\eff_ui_artifact_007(8)\05.png
+[20:38:31] [I] parser E:\art_doc\eff_ui_artifact_007(8)\eff_ui_artifact_007(8)\06.png
+[20:38:31] [I] parser E:\art_doc\eff_ui_artifact_007(8)\eff_ui_artifact_007(8)\07.png
+[20:38:34] [I] <<< start merger
+[20:39:04] [I] <<< end merger
+[20:39:34] [I] >>> start <<< E:\art_doc\eff_ui_artifact_007(8)\eff_ui_artifact_007(8)
+[20:39:34] [I] frameRate = 8
+[20:39:34] [I] parser E:\art_doc\eff_ui_artifact_007(8)\eff_ui_artifact_007(8)\00.png
+[20:39:34] [I] parser E:\art_doc\eff_ui_artifact_007(8)\eff_ui_artifact_007(8)\01.png
+[20:39:34] [I] parser E:\art_doc\eff_ui_artifact_007(8)\eff_ui_artifact_007(8)\02.png
+[20:39:34] [I] parser E:\art_doc\eff_ui_artifact_007(8)\eff_ui_artifact_007(8)\03.png
+[20:39:34] [I] parser E:\art_doc\eff_ui_artifact_007(8)\eff_ui_artifact_007(8)\04.png
+[20:39:34] [I] parser E:\art_doc\eff_ui_artifact_007(8)\eff_ui_artifact_007(8)\05.png
+[20:39:34] [I] parser E:\art_doc\eff_ui_artifact_007(8)\eff_ui_artifact_007(8)\06.png
+[20:39:34] [I] parser E:\art_doc\eff_ui_artifact_007(8)\eff_ui_artifact_007(8)\07.png
+[20:39:37] [I] <<< start merger
+[20:43:23] [I] >>> start <<< E:\art_doc\eff_ui_artifact_007(8)\eff_ui_artifact_007(8)
+[20:43:23] [I] frameRate = 8
+[20:43:23] [I] parser E:\art_doc\eff_ui_artifact_007(8)\eff_ui_artifact_007(8)\00.png
+[20:43:23] [I] parser E:\art_doc\eff_ui_artifact_007(8)\eff_ui_artifact_007(8)\01.png
+[20:43:23] [I] parser E:\art_doc\eff_ui_artifact_007(8)\eff_ui_artifact_007(8)\02.png
+[20:43:23] [I] parser E:\art_doc\eff_ui_artifact_007(8)\eff_ui_artifact_007(8)\03.png
+[20:43:23] [I] parser E:\art_doc\eff_ui_artifact_007(8)\eff_ui_artifact_007(8)\04.png
+[20:43:23] [I] parser E:\art_doc\eff_ui_artifact_007(8)\eff_ui_artifact_007(8)\05.png
+[20:43:23] [I] parser E:\art_doc\eff_ui_artifact_007(8)\eff_ui_artifact_007(8)\06.png
+[20:43:23] [I] parser E:\art_doc\eff_ui_artifact_007(8)\eff_ui_artifact_007(8)\07.png
+[20:43:26] [I] <<< start merger
+[20:43:36] [E] 2048 > 1024 && 2048 > 1024
+[20:43:36] [I] <<< end merger
+[15:57:53] [I] >>> start <<< E:\lycq\resource\总美术上传文件\特效\skill402_1(12)
+[15:57:53] [I] frameRate = 12
+[15:57:53] [I] parser E:\lycq\resource\总美术上传文件\特效\skill402_1(12)\00.png
+[15:57:53] [I] parser E:\lycq\resource\总美术上传文件\特效\skill402_1(12)\01.png
+[15:57:53] [I] parser E:\lycq\resource\总美术上传文件\特效\skill402_1(12)\02.png
+[15:57:53] [I] parser E:\lycq\resource\总美术上传文件\特效\skill402_1(12)\03.png
+[16:01:58] [I] >>> start <<< E:\lycq\resource\总美术上传文件\特效\skill402_1(12)
+[16:01:58] [I] frameRate = 12
+[16:01:58] [I] parser E:\lycq\resource\总美术上传文件\特效\skill402_1(12)\00.png
+[16:01:58] [I] parser E:\lycq\resource\总美术上传文件\特效\skill402_1(12)\01.png
+[16:01:58] [I] parser E:\lycq\resource\总美术上传文件\特效\skill402_1(12)\02.png
+[16:01:58] [I] parser E:\lycq\resource\总美术上传文件\特效\skill402_1(12)\03.png
+[16:02:39] [I] >>> start <<< E:\lycq\resource\总美术上传文件\特效\skill401(12)
+[16:02:39] [I] frameRate = 12
+[16:02:39] [I] parser E:\lycq\resource\总美术上传文件\特效\skill401(12)\00.png
+[16:02:39] [I] parser E:\lycq\resource\总美术上传文件\特效\skill401(12)\01.png
+[16:02:39] [I] parser E:\lycq\resource\总美术上传文件\特效\skill401(12)\02.png
+[16:02:39] [I] parser E:\lycq\resource\总美术上传文件\特效\skill401(12)\03.png
+[16:02:39] [I] parser E:\lycq\resource\总美术上传文件\特效\skill401(12)\04.png
+[16:02:39] [I] parser E:\lycq\resource\总美术上传文件\特效\skill401(12)\05.png
+[16:02:39] [I] parser E:\lycq\resource\总美术上传文件\特效\skill401(12)\06.png
+[16:02:39] [I] parser E:\lycq\resource\总美术上传文件\特效\skill401(12)\07.png
+[16:02:39] [I] parser E:\lycq\resource\总美术上传文件\特效\skill401(12)\08.png
+[16:02:39] [I] parser E:\lycq\resource\总美术上传文件\特效\skill401(12)\09.png
+[16:02:42] [I] >>> start <<< E:\lycq\resource\总美术上传文件\特效\skill402_0(12)
+[16:02:42] [I] frameRate = 12
+[16:02:42] [I] parser E:\lycq\resource\总美术上传文件\特效\skill402_0(12)\00.png
+[16:02:42] [I] parser E:\lycq\resource\总美术上传文件\特效\skill402_0(12)\01.png
+[16:02:42] [I] parser E:\lycq\resource\总美术上传文件\特效\skill402_0(12)\02.png
+[16:02:42] [I] parser E:\lycq\resource\总美术上传文件\特效\skill402_0(12)\03.png
+[16:02:42] [I] parser E:\lycq\resource\总美术上传文件\特效\skill402_0(12)\04.png
+[16:02:42] [I] parser E:\lycq\resource\总美术上传文件\特效\skill402_0(12)\05.png
+[16:02:42] [I] parser E:\lycq\resource\总美术上传文件\特效\skill402_0(12)\06.png
+[16:02:42] [I] parser E:\lycq\resource\总美术上传文件\特效\skill402_0(12)\07.png
+[16:02:42] [I] parser E:\lycq\resource\总美术上传文件\特效\skill402_0(12)\08.png
+[16:02:46] [I] >>> start <<< E:\lycq\resource\总美术上传文件\特效\skill402_1(12)
+[16:02:46] [I] frameRate = 12
+[16:02:46] [I] parser E:\lycq\resource\总美术上传文件\特效\skill402_1(12)\00.png
+[16:02:46] [I] parser E:\lycq\resource\总美术上传文件\特效\skill402_1(12)\01.png
+[16:02:46] [I] parser E:\lycq\resource\总美术上传文件\特效\skill402_1(12)\02.png
+[16:02:46] [I] parser E:\lycq\resource\总美术上传文件\特效\skill402_1(12)\03.png
+[16:05:38] [I] >>> start <<< E:\lycq\resource\总美术上传文件\特效\skill402_1(12)
+[16:05:38] [I] frameRate = 12
+[16:05:38] [I] parser E:\lycq\resource\总美术上传文件\特效\skill402_1(12)\00.png
+[16:05:38] [I] parser E:\lycq\resource\总美术上传文件\特效\skill402_1(12)\01.png
+[16:05:38] [I] parser E:\lycq\resource\总美术上传文件\特效\skill402_1(12)\02.png
+[16:05:38] [I] parser E:\lycq\resource\总美术上传文件\特效\skill402_1(12)\03.png
+[16:06:19] [I] >>> start <<< E:\lycq\resource\总美术上传文件\特效\skill402_1(12)
+[16:06:19] [I] frameRate = 12
+[16:06:19] [I] parser E:\lycq\resource\总美术上传文件\特效\skill402_1(12)\00.png
+[16:06:19] [I] parser E:\lycq\resource\总美术上传文件\特效\skill402_1(12)\01.png
+[16:06:19] [I] parser E:\lycq\resource\总美术上传文件\特效\skill402_1(12)\02.png
+[16:06:19] [I] parser E:\lycq\resource\总美术上传文件\特效\skill402_1(12)\03.png
+[16:23:59] [I] >>> start <<< E:\lycq\resource\总美术上传文件\特效\skill402_1(12)
+[16:23:59] [I] frameRate = 12
+[16:23:59] [I] parser E:\lycq\resource\总美术上传文件\特效\skill402_1(12)\00.png
+[16:23:59] [I] parser E:\lycq\resource\总美术上传文件\特效\skill402_1(12)\01.png
+[16:23:59] [I] parser E:\lycq\resource\总美术上传文件\特效\skill402_1(12)\02.png
+[16:23:59] [I] parser E:\lycq\resource\总美术上传文件\特效\skill402_1(12)\03.png
+[16:24:38] [I] >>> start <<< E:\lycq\resource\总美术上传文件\特效\skill402_1(12)
+[16:24:38] [I] frameRate = 12
+[16:24:38] [I] parser E:\lycq\resource\总美术上传文件\特效\skill402_1(12)\00.png
+[16:24:38] [I] parser E:\lycq\resource\总美术上传文件\特效\skill402_1(12)\01.png
+[16:24:38] [I] parser E:\lycq\resource\总美术上传文件\特效\skill402_1(12)\02.png
+[16:24:38] [I] parser E:\lycq\resource\总美术上传文件\特效\skill402_1(12)\03.png
+[16:25:09] [I] >>> start <<< E:\lycq\resource\总美术上传文件\特效\skill402_1(12)
+[16:25:09] [I] frameRate = 12
+[16:25:09] [I] parser E:\lycq\resource\总美术上传文件\特效\skill402_1(12)\00.png
+[16:25:09] [I] parser E:\lycq\resource\总美术上传文件\特效\skill402_1(12)\01.png
+[16:25:09] [I] parser E:\lycq\resource\总美术上传文件\特效\skill402_1(12)\02.png
+[16:25:09] [I] parser E:\lycq\resource\总美术上传文件\特效\skill402_1(12)\03.png
+[16:32:36] [I] >>> start <<< E:\lycq\resource\总美术上传文件\特效\skill402_1(12)
+[16:32:36] [I] frameRate = 12
+[16:32:36] [I] parser E:\lycq\resource\总美术上传文件\特效\skill402_1(12)\00.png
+[16:32:36] [I] parser E:\lycq\resource\总美术上传文件\特效\skill402_1(12)\01.png
+[16:32:36] [I] parser E:\lycq\resource\总美术上传文件\特效\skill402_1(12)\02.png
+[16:32:36] [I] parser E:\lycq\resource\总美术上传文件\特效\skill402_1(12)\03.png
+[17:33:56] [I] >>> start <<< E:\lycq\resource\总美术上传文件\特效\skill402_0(12)
+[17:33:56] [I] frameRate = 12
+[17:33:56] [I] parser E:\lycq\resource\总美术上传文件\特效\skill402_0(12)\00.png
+[17:33:56] [I] parser E:\lycq\resource\总美术上传文件\特效\skill402_0(12)\01.png
+[17:33:56] [I] parser E:\lycq\resource\总美术上传文件\特效\skill402_0(12)\02.png
+[17:33:56] [I] parser E:\lycq\resource\总美术上传文件\特效\skill402_0(12)\03.png
+[17:33:56] [I] parser E:\lycq\resource\总美术上传文件\特效\skill402_0(12)\04.png
+[17:33:56] [I] parser E:\lycq\resource\总美术上传文件\特效\skill402_0(12)\05.png
+[17:33:56] [I] parser E:\lycq\resource\总美术上传文件\特效\skill402_0(12)\06.png
+[17:33:56] [I] parser E:\lycq\resource\总美术上传文件\特效\skill402_0(12)\07.png
+[17:33:56] [I] parser E:\lycq\resource\总美术上传文件\特效\skill402_0(12)\08.png
+[17:35:04] [I] >>> start <<< E:\lycq\resource\总美术上传文件\特效\skill402_0(12)
+[17:35:04] [I] frameRate = 12
+[17:35:04] [I] parser E:\lycq\resource\总美术上传文件\特效\skill402_0(12)\00.png
+[17:35:04] [I] parser E:\lycq\resource\总美术上传文件\特效\skill402_0(12)\01.png
+[17:35:04] [I] parser E:\lycq\resource\总美术上传文件\特效\skill402_0(12)\02.png
+[17:35:04] [I] parser E:\lycq\resource\总美术上传文件\特效\skill402_0(12)\03.png
+[17:35:04] [I] parser E:\lycq\resource\总美术上传文件\特效\skill402_0(12)\04.png
+[17:35:04] [I] parser E:\lycq\resource\总美术上传文件\特效\skill402_0(12)\05.png
+[17:35:04] [I] parser E:\lycq\resource\总美术上传文件\特效\skill402_0(12)\06.png
+[17:35:04] [I] parser E:\lycq\resource\总美术上传文件\特效\skill402_0(12)\07.png
+[17:35:04] [I] parser E:\lycq\resource\总美术上传文件\特效\skill402_0(12)\08.png
+[17:35:09] [I] 输出 >>> C:\Users\yiz\Desktop\test\skill402_0.png
+[17:35:09] [I] 输出 >>> C:\Users\yiz\Desktop\test\skill402_0.json
+[17:35:09] [I] >>> start <<< E:\lycq\resource\总美术上传文件\特效\skill402_1(12)
+[17:35:09] [I] frameRate = 12
+[17:35:09] [I] parser E:\lycq\resource\总美术上传文件\特效\skill402_1(12)\00.png
+[17:35:09] [I] parser E:\lycq\resource\总美术上传文件\特效\skill402_1(12)\01.png
+[17:35:09] [I] parser E:\lycq\resource\总美术上传文件\特效\skill402_1(12)\02.png
+[17:35:09] [I] parser E:\lycq\resource\总美术上传文件\特效\skill402_1(12)\03.png
+[17:35:10] [I] 输出 >>> C:\Users\yiz\Desktop\test\skill402_1.png
+[17:35:10] [I] 输出 >>> C:\Users\yiz\Desktop\test\skill402_1.json
+[17:37:10] [I] >>> start <<< E:\lycq\client\project\resource\assets\movie\skillEff\skill402_0(12)
+[17:37:10] [I] frameRate = 12
+[17:37:10] [I] parser E:\lycq\client\project\resource\assets\movie\skillEff\skill402_0(12)\00.png
+[17:37:10] [I] parser E:\lycq\client\project\resource\assets\movie\skillEff\skill402_0(12)\01.png
+[17:37:10] [I] parser E:\lycq\client\project\resource\assets\movie\skillEff\skill402_0(12)\02.png
+[17:37:10] [I] parser E:\lycq\client\project\resource\assets\movie\skillEff\skill402_0(12)\03.png
+[17:37:10] [I] parser E:\lycq\client\project\resource\assets\movie\skillEff\skill402_0(12)\04.png
+[17:37:10] [E] E:\lycq\client\project\resource\assets\movie\skillEff\skill402_0(12)\05 - 副本.png 命名错误
+[17:38:43] [I] >>> start <<< E:\lycq\client\project\resource\assets\movie\skillEff\skill402_0(12)
+[17:38:43] [I] frameRate = 12
+[17:38:43] [I] parser E:\lycq\client\project\resource\assets\movie\skillEff\skill402_0(12)\00.png
+[17:38:43] [I] parser E:\lycq\client\project\resource\assets\movie\skillEff\skill402_0(12)\01.png
+[17:38:43] [I] parser E:\lycq\client\project\resource\assets\movie\skillEff\skill402_0(12)\02.png
+[17:38:43] [I] parser E:\lycq\client\project\resource\assets\movie\skillEff\skill402_0(12)\03.png
+[17:38:43] [I] parser E:\lycq\client\project\resource\assets\movie\skillEff\skill402_0(12)\04.png
+[17:38:43] [I] parser E:\lycq\client\project\resource\assets\movie\skillEff\skill402_0(12)\05.png
+[17:38:43] [I] parser E:\lycq\client\project\resource\assets\movie\skillEff\skill402_0(12)\06.png
+[17:38:43] [I] parser E:\lycq\client\project\resource\assets\movie\skillEff\skill402_0(12)\07.png
+[17:38:43] [I] parser E:\lycq\client\project\resource\assets\movie\skillEff\skill402_0(12)\08.png
+[17:38:43] [I] parser E:\lycq\client\project\resource\assets\movie\skillEff\skill402_0(12)\09.png
+[17:38:43] [I] parser E:\lycq\client\project\resource\assets\movie\skillEff\skill402_0(12)\10.png
+[17:38:43] [I] parser E:\lycq\client\project\resource\assets\movie\skillEff\skill402_0(12)\11.png
+[17:38:43] [I] parser E:\lycq\client\project\resource\assets\movie\skillEff\skill402_0(12)\12.png
+[17:38:51] [I] 输出 >>> C:\Users\yiz\Desktop\test\skill402_0.png
+[17:38:51] [I] 输出 >>> C:\Users\yiz\Desktop\test\skill402_0.json
+[17:38:51] [I] >>> start <<< E:\lycq\client\project\resource\assets\movie\skillEff\skill402_1(12)
+[17:38:51] [I] frameRate = 12
+[17:38:51] [I] parser E:\lycq\client\project\resource\assets\movie\skillEff\skill402_1(12)\00.png
+[17:38:51] [I] parser E:\lycq\client\project\resource\assets\movie\skillEff\skill402_1(12)\01.png
+[17:38:51] [I] parser E:\lycq\client\project\resource\assets\movie\skillEff\skill402_1(12)\02.png
+[17:38:51] [I] parser E:\lycq\client\project\resource\assets\movie\skillEff\skill402_1(12)\03.png
+[17:38:51] [I] parser E:\lycq\client\project\resource\assets\movie\skillEff\skill402_1(12)\04.png
+[17:38:51] [I] parser E:\lycq\client\project\resource\assets\movie\skillEff\skill402_1(12)\05.png
+[17:38:51] [I] parser E:\lycq\client\project\resource\assets\movie\skillEff\skill402_1(12)\06.png
+[17:38:51] [I] parser E:\lycq\client\project\resource\assets\movie\skillEff\skill402_1(12)\07.png
+[17:38:52] [I] 输出 >>> C:\Users\yiz\Desktop\test\skill402_1.png
+[17:38:52] [I] 输出 >>> C:\Users\yiz\Desktop\test\skill402_1.json
+[17:39:47] [I] >>> start <<< E:\lycq\resource\总美术上传文件\特效\quaeff4(8)
+[17:39:48] [I] frameRate = 8
+[17:39:48] [I] parser E:\lycq\resource\总美术上传文件\特效\quaeff4(8)\00.png
+[17:39:48] [I] parser E:\lycq\resource\总美术上传文件\特效\quaeff4(8)\01.png
+[17:39:48] [I] parser E:\lycq\resource\总美术上传文件\特效\quaeff4(8)\02.png
+[17:39:48] [I] parser E:\lycq\resource\总美术上传文件\特效\quaeff4(8)\03.png
+[17:39:48] [I] parser E:\lycq\resource\总美术上传文件\特效\quaeff4(8)\04.png
+[17:39:48] [I] parser E:\lycq\resource\总美术上传文件\特效\quaeff4(8)\05.png
+[17:39:48] [I] parser E:\lycq\resource\总美术上传文件\特效\quaeff4(8)\06.png
+[17:39:48] [I] parser E:\lycq\resource\总美术上传文件\特效\quaeff4(8)\07.png
+[17:39:48] [I] 输出 >>> C:\Users\yiz\Desktop\test\quaeff4.png
+[17:39:48] [I] 输出 >>> C:\Users\yiz\Desktop\test\quaeff4.json
+[17:39:48] [I] >>> start <<< E:\lycq\resource\总美术上传文件\特效\quaeff5(8)
+[17:39:48] [I] frameRate = 8
+[17:39:48] [I] parser E:\lycq\resource\总美术上传文件\特效\quaeff5(8)\00.png
+[17:39:48] [I] parser E:\lycq\resource\总美术上传文件\特效\quaeff5(8)\01.png
+[17:39:48] [I] parser E:\lycq\resource\总美术上传文件\特效\quaeff5(8)\02.png
+[17:39:48] [I] parser E:\lycq\resource\总美术上传文件\特效\quaeff5(8)\03.png
+[17:39:48] [I] parser E:\lycq\resource\总美术上传文件\特效\quaeff5(8)\04.png
+[17:39:48] [I] parser E:\lycq\resource\总美术上传文件\特效\quaeff5(8)\05.png
+[17:39:48] [I] parser E:\lycq\resource\总美术上传文件\特效\quaeff5(8)\06.png
+[17:39:48] [I] parser E:\lycq\resource\总美术上传文件\特效\quaeff5(8)\07.png
+[17:39:49] [I] 输出 >>> C:\Users\yiz\Desktop\test\quaeff5.png
+[17:39:49] [I] 输出 >>> C:\Users\yiz\Desktop\test\quaeff5.json
+[17:43:40] [I] >>> start <<< E:\lycq\resource\总美术上传文件\特效\quaeff4(8)
+[17:43:40] [I] frameRate = 8
+[17:43:40] [I] parser E:\lycq\resource\总美术上传文件\特效\quaeff4(8)\00.png
+[17:43:40] [I] parser E:\lycq\resource\总美术上传文件\特效\quaeff4(8)\01.png
+[17:43:40] [I] parser E:\lycq\resource\总美术上传文件\特效\quaeff4(8)\02.png
+[17:43:40] [I] parser E:\lycq\resource\总美术上传文件\特效\quaeff4(8)\03.png
+[17:43:40] [I] parser E:\lycq\resource\总美术上传文件\特效\quaeff4(8)\04.png
+[17:43:40] [I] parser E:\lycq\resource\总美术上传文件\特效\quaeff4(8)\05.png
+[17:43:40] [I] parser E:\lycq\resource\总美术上传文件\特效\quaeff4(8)\06.png
+[17:43:40] [I] parser E:\lycq\resource\总美术上传文件\特效\quaeff4(8)\07.png
+[17:44:14] [I] >>> start <<< E:\lycq\resource\总美术上传文件\特效\quaeff4(8)
+[17:44:14] [I] frameRate = 8
+[17:44:14] [I] parser E:\lycq\resource\总美术上传文件\特效\quaeff4(8)\00.png
+[17:44:14] [I] parser E:\lycq\resource\总美术上传文件\特效\quaeff4(8)\01.png
+[17:44:14] [I] parser E:\lycq\resource\总美术上传文件\特效\quaeff4(8)\02.png
+[17:44:14] [I] parser E:\lycq\resource\总美术上传文件\特效\quaeff4(8)\03.png
+[17:44:14] [I] parser E:\lycq\resource\总美术上传文件\特效\quaeff4(8)\04.png
+[17:44:14] [I] parser E:\lycq\resource\总美术上传文件\特效\quaeff4(8)\05.png
+[17:44:14] [I] parser E:\lycq\resource\总美术上传文件\特效\quaeff4(8)\06.png
+[17:44:14] [I] parser E:\lycq\resource\总美术上传文件\特效\quaeff4(8)\07.png
+[17:44:15] [I] 输出 >>> C:\Users\yiz\Desktop\test\quaeff4.png
+[17:44:15] [I] 输出 >>> C:\Users\yiz\Desktop\test\quaeff4.json
+[17:44:15] [I] >>> start <<< E:\lycq\resource\总美术上传文件\特效\quaeff5(8)
+[17:44:15] [I] frameRate = 8
+[17:44:15] [I] parser E:\lycq\resource\总美术上传文件\特效\quaeff5(8)\00.png
+[17:44:15] [I] parser E:\lycq\resource\总美术上传文件\特效\quaeff5(8)\01.png
+[17:44:15] [I] parser E:\lycq\resource\总美术上传文件\特效\quaeff5(8)\02.png
+[17:44:15] [I] parser E:\lycq\resource\总美术上传文件\特效\quaeff5(8)\03.png
+[17:44:15] [I] parser E:\lycq\resource\总美术上传文件\特效\quaeff5(8)\04.png
+[17:44:15] [I] parser E:\lycq\resource\总美术上传文件\特效\quaeff5(8)\05.png
+[17:44:15] [I] parser E:\lycq\resource\总美术上传文件\特效\quaeff5(8)\06.png
+[17:44:15] [I] parser E:\lycq\resource\总美术上传文件\特效\quaeff5(8)\07.png
+[17:44:15] [I] 输出 >>> C:\Users\yiz\Desktop\test\quaeff5.png
+[17:44:15] [I] 输出 >>> C:\Users\yiz\Desktop\test\quaeff5.json
+[17:44:21] [I] >>> start <<< E:\lycq\client\project\resource\assets\movie\skillEff\skill402_0(12)
+[17:44:21] [I] frameRate = 12
+[17:44:21] [I] parser E:\lycq\client\project\resource\assets\movie\skillEff\skill402_0(12)\00.png
+[17:44:21] [I] parser E:\lycq\client\project\resource\assets\movie\skillEff\skill402_0(12)\01.png
+[17:44:21] [I] parser E:\lycq\client\project\resource\assets\movie\skillEff\skill402_0(12)\02.png
+[17:44:21] [I] parser E:\lycq\client\project\resource\assets\movie\skillEff\skill402_0(12)\03.png
+[17:44:21] [I] parser E:\lycq\client\project\resource\assets\movie\skillEff\skill402_0(12)\04.png
+[17:44:21] [I] parser E:\lycq\client\project\resource\assets\movie\skillEff\skill402_0(12)\05.png
+[17:44:21] [I] parser E:\lycq\client\project\resource\assets\movie\skillEff\skill402_0(12)\06.png
+[17:44:21] [I] parser E:\lycq\client\project\resource\assets\movie\skillEff\skill402_0(12)\07.png
+[17:44:21] [I] parser E:\lycq\client\project\resource\assets\movie\skillEff\skill402_0(12)\08.png
+[17:44:21] [I] parser E:\lycq\client\project\resource\assets\movie\skillEff\skill402_0(12)\09.png
+[17:44:21] [I] parser E:\lycq\client\project\resource\assets\movie\skillEff\skill402_0(12)\10.png
+[17:44:21] [I] parser E:\lycq\client\project\resource\assets\movie\skillEff\skill402_0(12)\11.png
+[17:44:21] [I] parser E:\lycq\client\project\resource\assets\movie\skillEff\skill402_0(12)\12.png
+[17:44:28] [I] 输出 >>> C:\Users\yiz\Desktop\test\skill402_0.png
+[17:44:28] [I] 输出 >>> C:\Users\yiz\Desktop\test\skill402_0.json
+[17:44:28] [I] >>> start <<< E:\lycq\client\project\resource\assets\movie\skillEff\skill402_1(12)
+[17:44:28] [I] frameRate = 12
+[17:44:28] [I] parser E:\lycq\client\project\resource\assets\movie\skillEff\skill402_1(12)\00.png
+[17:44:28] [I] parser E:\lycq\client\project\resource\assets\movie\skillEff\skill402_1(12)\01.png
+[17:44:28] [I] parser E:\lycq\client\project\resource\assets\movie\skillEff\skill402_1(12)\02.png
+[17:44:28] [I] parser E:\lycq\client\project\resource\assets\movie\skillEff\skill402_1(12)\03.png
+[17:44:28] [I] parser E:\lycq\client\project\resource\assets\movie\skillEff\skill402_1(12)\04.png
+[17:44:28] [I] parser E:\lycq\client\project\resource\assets\movie\skillEff\skill402_1(12)\05.png
+[17:44:28] [I] parser E:\lycq\client\project\resource\assets\movie\skillEff\skill402_1(12)\06.png
+[17:44:28] [I] parser E:\lycq\client\project\resource\assets\movie\skillEff\skill402_1(12)\07.png
+[17:44:30] [I] 输出 >>> C:\Users\yiz\Desktop\test\skill402_1.png
+[17:44:30] [I] 输出 >>> C:\Users\yiz\Desktop\test\skill402_1.json
+[18:41:51] [I] >>> start <<< E:\lycq\resource\总美术上传文件\特效\body901
+[18:41:51] [E] E:\lycq\resource\总美术上传文件\特效\body901 没有设置动画帧数
+[18:41:51] [I] >>> start <<< E:\lycq\resource\总美术上传文件\特效\body902
+[18:41:51] [E] E:\lycq\resource\总美术上传文件\特效\body902 没有设置动画帧数
+[18:42:04] [I] >>> start <<< E:\lycq\resource\总美术上传文件\特效\wing10
+[18:42:04] [E] E:\lycq\resource\总美术上传文件\特效\wing10 没有设置动画帧数
+[18:42:04] [I] >>> start <<< E:\lycq\resource\总美术上传文件\特效\wing13
+[18:42:04] [E] E:\lycq\resource\总美术上传文件\特效\wing13 没有设置动画帧数
+[18:42:09] [I] >>> start <<< E:\lycq\resource\总美术上传文件\特效\wing10
+[18:42:09] [E] E:\lycq\resource\总美术上传文件\特效\wing10 没有设置动画帧数
+[18:42:09] [I] >>> start <<< E:\lycq\resource\总美术上传文件\特效\wing13
+[18:42:09] [E] E:\lycq\resource\总美术上传文件\特效\wing13 没有设置动画帧数
+[18:42:11] [I] >>> start <<< E:\lycq\resource\总美术上传文件\特效\wing10
+[18:42:11] [E] E:\lycq\resource\总美术上传文件\特效\wing10 没有设置动画帧数
+[18:42:11] [I] >>> start <<< E:\lycq\resource\总美术上传文件\特效\wing13
+[18:42:11] [E] E:\lycq\resource\总美术上传文件\特效\wing13 没有设置动画帧数
+[18:42:20] [I] >>> start <<< E:\lycq\resource\总美术上传文件\特效\skill303_0(12)
+[18:43:16] [I] >>> start <<< E:\lycq\resource\总美术上传文件\特效\eff_ui_artifact_001(8)
+[18:45:53] [I] >>> start <<< E:\lycq\resource\总美术上传文件\特效\eff_ui_artifact_001(8)
+[20:35:53] [I] >>> start <<< E:\lycq\resource\总美术上传文件\特效\actIconCircle(8)
+[20:38:26] [I] >>> start <<< E:\lycq\resource\总美术上传文件\特效\eff_ui_artifact_001(8)
+[20:49:59] [I] >>> start <<< E:\lycq\resource\总美术上传文件\特效\eff_ui_artifact_001(8)
+[20:49:59] [I] frameRate = 8
+[20:49:59] [I] parser E:\lycq\resource\总美术上传文件\特效\eff_ui_artifact_001(8)\00.png
+[20:49:59] [I] parser E:\lycq\resource\总美术上传文件\特效\eff_ui_artifact_001(8)\01.png
+[20:49:59] [I] parser E:\lycq\resource\总美术上传文件\特效\eff_ui_artifact_001(8)\02.png
+[20:49:59] [I] parser E:\lycq\resource\总美术上传文件\特效\eff_ui_artifact_001(8)\03.png
+[20:49:59] [I] parser E:\lycq\resource\总美术上传文件\特效\eff_ui_artifact_001(8)\04.png
+[20:49:59] [I] parser E:\lycq\resource\总美术上传文件\特效\eff_ui_artifact_001(8)\05.png
+[20:49:59] [I] parser E:\lycq\resource\总美术上传文件\特效\eff_ui_artifact_001(8)\06.png
+[20:49:59] [I] parser E:\lycq\resource\总美术上传文件\特效\eff_ui_artifact_001(8)\07.png
+[20:50:00] [I] 输出 >>> C:\Users\yiz\Desktop\test\eff_ui_artifact_001.png
+[20:50:00] [I] 输出 >>> C:\Users\yiz\Desktop\test\eff_ui_artifact_001.json

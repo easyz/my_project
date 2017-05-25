@@ -1,0 +1,10 @@
+E:\project\out_project\client\tools\merger_eff_tex\merger_eff_tex\bin\Release\导出特效帧动画.pdb
+E:\project\out_project\client\tools\merger_eff_tex\merger_eff_tex\obj\Release\psd.Form1.resources
+E:\project\out_project\client\tools\merger_eff_tex\merger_eff_tex\obj\Release\psd_vs_pj.FormLogDialog.resources
+E:\project\out_project\client\tools\merger_eff_tex\merger_eff_tex\obj\Release\merger_eff_tex.Properties.Resources.resources
+E:\project\out_project\client\tools\merger_eff_tex\merger_eff_tex\obj\Release\merger_eff_tex.csproj.GenerateResource.Cache
+E:\project\out_project\client\tools\merger_eff_tex\merger_eff_tex\obj\Release\导出特效帧动画.pdb
+E:\project\out_project\client\tools\merger_eff_tex\merger_eff_tex\bin\Release\导出特效帧动画.exe.config
+E:\project\out_project\client\tools\merger_eff_tex\merger_eff_tex\bin\Release\导出特效帧动画.exe
+E:\project\out_project\client\tools\merger_eff_tex\merger_eff_tex\obj\Release\导出特效帧动画.exe
+E:\project\out_project\client\tools\merger_eff_tex\merger_eff_tex\obj\Release\merger_eff_tex.csprojResolveAssemblyReference.cache

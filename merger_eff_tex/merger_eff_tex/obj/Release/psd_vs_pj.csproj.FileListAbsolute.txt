@@ -1,0 +1,10 @@
+E:\project\psd_vs_pj\psd_vs_pj\bin\Release\psd_vs_pj.exe.config
+E:\project\psd_vs_pj\psd_vs_pj\bin\Release\psd_vs_pj.exe
+E:\project\psd_vs_pj\psd_vs_pj\bin\Release\psd_vs_pj.pdb
+E:\project\psd_vs_pj\psd_vs_pj\obj\Release\psd_vs_pj.csprojResolveAssemblyReference.cache
+E:\project\psd_vs_pj\psd_vs_pj\obj\Release\psd.Form1.resources
+E:\project\psd_vs_pj\psd_vs_pj\obj\Release\psd_vs_pj.FormLogDialog.resources
+E:\project\psd_vs_pj\psd_vs_pj\obj\Release\psd_vs_pj.Properties.Resources.resources
+E:\project\psd_vs_pj\psd_vs_pj\obj\Release\psd_vs_pj.csproj.GenerateResource.Cache
+E:\project\psd_vs_pj\psd_vs_pj\obj\Release\psd_vs_pj.exe
+E:\project\psd_vs_pj\psd_vs_pj\obj\Release\psd_vs_pj.pdb
