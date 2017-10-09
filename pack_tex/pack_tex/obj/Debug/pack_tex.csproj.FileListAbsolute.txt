@@ -2,6 +2,6 @@ E:\project\workspace\pack_tex\pack_tex\bin\Debug\pack_tex.dll
 E:\project\workspace\pack_tex\pack_tex\bin\Debug\pack_tex.pdb
 E:\project\workspace\pack_tex\pack_tex\bin\Debug\litjson.dll
 E:\project\workspace\pack_tex\pack_tex\bin\Debug\litjson.pdb
-E:\project\workspace\pack_tex\pack_tex\obj\Debug\pack_tex.csprojResolveAssemblyReference.cache
 E:\project\workspace\pack_tex\pack_tex\obj\Debug\pack_tex.dll
 E:\project\workspace\pack_tex\pack_tex\obj\Debug\pack_tex.pdb
+E:\project\workspace\pack_tex\pack_tex\obj\Debug\pack_tex.csprojResolveAssemblyReference.cache

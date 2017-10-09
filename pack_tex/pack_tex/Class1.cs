@@ -24,20 +24,45 @@ $res$
             public string mCopyName;
         }
 
-        class FrameData {
+//        class FrameData {
+//            public int x;
+//            public int y;
+//            public int w;
+//            public int h;
+//            public int offX;
+//            public int offY;
+//            public int sourceW;
+//            public int sourceH;
+//        }
+//
+//        class FrameJson {
+//            public string file;
+//            public Dictionary<string, FrameData> frames;
+//        }
+
+        class FrameData2 {
             public int x;
             public int y;
             public int w;
             public int h;
-            public int offX;
-            public int offY;
-            public int sourceW;
-            public int sourceH;
+        }
+
+        class FrameData3 {
+            public int w;
+            public int h;
+        }
+
+        class FrameData {
+            public string filename;
+            public FrameData2 frame;
+            public bool rotated;
+            public bool trimmed;
+            public FrameData2 spriteSourceSize;
+            public FrameData3 sourceSize;
         }
 
         class FrameJson {
-            public string file;
-            public Dictionary<string, FrameData> frames;
+            public FrameData[] frames;
         }
 
         class ClipData {
@@ -65,41 +90,14 @@ $res$
 
         public bool HandleFiles(string[] frameFiles, string outPath, string fileName, int frameRate = 12, bool checkRepeat = true) {
             Logger.Log("frameRate = " + frameRate);
-            List<CopyImgData> copyFrameFiles = new List<CopyImgData>(frameFiles.Length);
-            Dictionary<string, string> tempDict = new Dictionary<string, string>();
 
-            List<string> list = new List<string>(frameFiles.Length);
-            for (int i = 0; i < frameFiles.Length; i++) {
-                string frameFile = frameFiles[i];
-                string frameName = Path.GetFileNameWithoutExtension(frameFile);
-                int id;
-                if (!int.TryParse(frameName, out id)) {
-                    Logger.LogError(frameFile + " 命名错误");
-                    return false;
-                }
-                string md5 = checkRepeat ? i.ToString() : GetMD5HashFromFile(frameFile);
-                if (tempDict.ContainsKey(md5)) {
-                    copyFrameFiles.Add(new CopyImgData() {
-                        mName = frameName,
-                        mCopyName = tempDict[md5]
-                    });
-                } else {
-                    tempDict[md5] = frameName;
-                    copyFrameFiles.Add(new CopyImgData() {
-                        mName = frameName,
-                        mCopyName = null,
-                    });
-                    Logger.Log("parser " + frameFile);
-                    list.Add("\"" + frameFile + "\"");
-                }
-            }
-
-            copyFrameFiles.Sort((lhs, rhs) => {
+            List<string> list = new List<string>(frameFiles);
+            list.Sort((lhs, rhs) => {
                 int lhsID;
-                int.TryParse(lhs.mName, out lhsID);
+                int.TryParse(lhs, out lhsID);
 
                 int rhsID;
-                int.TryParse(rhs.mName, out rhsID);
+                int.TryParse(rhs, out rhsID);
 
                 return lhsID - rhsID;
             });
@@ -129,28 +127,20 @@ $res$
 
             List<string> framesList = new List<string>();
             List<string> resList = new List<string>();
-            foreach (CopyImgData copyImgData in copyFrameFiles) {
-                string realName = string.IsNullOrEmpty(copyImgData.mCopyName)
-                    ? copyImgData.mName
-                    : copyImgData.mCopyName;
-                FrameData data = jsonData.frames[realName];
-                if (data == null) {
-                    Logger.LogError("foreach list error => " + copyImgData.mName);
-                    continue;
-                }
+
+            foreach (FrameData data in jsonData.frames) {
+                string realName = Path.GetFileNameWithoutExtension(data.filename);
                 framesList.Add("\t\t\t{\"res\":\"$name$\",\"x\":$x$,\"y\":$y$}"
                     .Replace("$name$", realName)
-                    .Replace("$x$", -Math.Round(data.sourceW * 0.5 - data.offX) + "")
-                    .Replace("$y$", -Math.Round(data.sourceH * 0.5 - data.offY) + ""));
-                if (string.IsNullOrEmpty(copyImgData.mCopyName)) {
+                    .Replace("$x$", (data.spriteSourceSize.x - (data.sourceSize.w >> 1)).ToString())
+                    .Replace("$y$", (data.spriteSourceSize.y - (data.sourceSize.h >> 1)).ToString()));
+
                     resList.Add("\t\"$name$\":{\"x\":$x$,\"y\":$y$,\"w\":$w$,\"h\":$h$}"
                         .Replace("$name$", realName)
-                        .Replace("$x$", data.x + "")
-                        .Replace("$y$", data.y + "")
-                        .Replace("$w$", data.w + "")
-                        .Replace("$h$", data.h + ""));
-                }
-
+                        .Replace("$x$", data.frame.x + "")
+                        .Replace("$y$", data.frame.y + "")
+                        .Replace("$w$", data.frame.w + "")
+                        .Replace("$h$", data.frame.h + ""));
             }
 
             string name = fileName;
@@ -177,130 +167,41 @@ $res$
 
         public bool Handle(string handleFile, string outPath, int frameRate = 12, bool checkRepeat = true) {
 
-//            Logger.Log("frameRate = " + frameRate);
             string[] frameFiles = Directory.GetFiles(handleFile, "*", SearchOption.TopDirectoryOnly);
             return HandleFiles(frameFiles, outPath, Path.GetFileNameWithoutExtension(handleFile), frameRate, checkRepeat);
-//            List<CopyImgData> copyFrameFiles = new List<CopyImgData>(frameFiles.Length);
-//            Dictionary<string, string> tempDict = new Dictionary<string, string>();
-//
-//            List<string> list = new List<string>(frameFiles.Length);
-//            for (int i = 0; i < frameFiles.Length; i++) {
-//                string frameFile = frameFiles[i];
-//                string frameName = Path.GetFileNameWithoutExtension(frameFile);
-//                int id;
-//                if (!int.TryParse(frameName, out id)) {
-//                    Logger.LogError(frameFile + " 命名错误");
-//                    return false;
-//                }
-//                string md5 = checkRepeat ? i.ToString() : GetMD5HashFromFile(frameFile);
-//                if (tempDict.ContainsKey(md5)) {
-//                    copyFrameFiles.Add(new CopyImgData() {
-//                        mName = frameName,
-//                        mCopyName = tempDict[md5]
-//                    });
-//                } else {
-//                    tempDict[md5] = frameName;
-//                    copyFrameFiles.Add(new CopyImgData() {
-//                        mName = frameName,
-//                        mCopyName = null,
-//                    });
-//                    Logger.Log("parser " + frameFile);
-//                    list.Add("\"" + frameFile + "\"");
-//                }
-//            }
-//
-//            copyFrameFiles.Sort((lhs, rhs) => {
-//                int lhsID;
-//                int.TryParse(lhs.mName, out lhsID);
-//
-//                int rhsID;
-//                int.TryParse(rhs.mName, out rhsID);
-//
-//                return lhsID - rhsID;
-//            });
-//
-//            string allFrameFileStr = string.Join(" ", list.ToArray());
-//
-//            string tempDir = Directory.GetCurrentDirectory() + "\\temp";
-//            string tempFileName = tempDir + "\\temp";
-//            if (!Directory.Exists(tempDir)) {
-//                Directory.CreateDirectory(tempDir);
-//            } else {
-//                string[] files = Directory.GetFiles(tempDir);
-//                foreach (string file in files) {
-//                    File.Delete(file);
-//                }
-//            }
-//            RunTP(allFrameFileStr, tempFileName);
-//
-//            string jsonFile = tempFileName + ".json";
-//            string pngFile = tempFileName + ".png";
-//            if (!File.Exists(jsonFile) || !File.Exists(pngFile)) {
-//                Logger.Warn("文件错误 => " + allFrameFileStr);
-//                return false;
-//            }
-//
-//            FrameJson jsonData = LitJson.JsonMapper.ToObject<FrameJson>(File.ReadAllText(jsonFile));
-//
-//            List<string> framesList = new List<string>();
-//            List<string> resList = new List<string>();
-//            foreach (CopyImgData copyImgData in copyFrameFiles) {
-//                string realName = string.IsNullOrEmpty(copyImgData.mCopyName)
-//                    ? copyImgData.mName
-//                    : copyImgData.mCopyName;
-//                FrameData data = jsonData.frames[realName];
-//                if (data == null) {
-//                    Logger.LogError("foreach list error => " + copyImgData.mName);
-//                    continue;
-//                }
-//                framesList.Add("\t\t\t{\"res\":\"$name$\",\"x\":$x$,\"y\":$y$}"
-//                    .Replace("$name$", realName)
-//                    .Replace("$x$", -Math.Round(data.sourceW * 0.5 - data.offX) + "")
-//                    .Replace("$y$", -Math.Round(data.sourceH * 0.5 - data.offY) + ""));
-//                if (string.IsNullOrEmpty(copyImgData.mCopyName)) {
-//                    resList.Add("\t\"$name$\":{\"x\":$x$,\"y\":$y$,\"w\":$w$,\"h\":$h$}"
-//                        .Replace("$name$", realName)
-//                        .Replace("$x$", data.x + "")
-//                        .Replace("$y$", data.y + "")
-//                        .Replace("$w$", data.w + "")
-//                        .Replace("$h$", data.h + ""));
-//                }
-//
-//            }
-//
-//            string name = Path.GetFileNameWithoutExtension(handleFile);
-//            name = name.Replace("(" + frameRate + ")", string.Empty).Trim();
-//            string pngPath = outPath + "\\" + name + ".png";
-//            string jsonPath = outPath + "\\" + name + ".json";
-//            if (!Directory.Exists(Path.GetDirectoryName(pngPath))) {
-//                Directory.CreateDirectory(Path.GetDirectoryName(pngPath));
-//            }
-//            File.Copy(pngFile, pngPath, true);
-//
-//            string content =
-//                FORMAT_STR.Replace("$name$", name)
-//                    .Replace("$frameRate$", frameRate + "")
-//                    .Replace("$frames$", string.Join(",\n", framesList.ToArray()))
-//                    .Replace("$res$", string.Join(",\n", resList.ToArray()));
-//            File.WriteAllText(jsonPath, content);
-//
-//            Logger.Log("输出 >>> " + pngPath);
-//            Logger.Log("输出 >>> " + jsonPath);
-
-            return true;
         }
 
-        //    public List<string> GetFiles(string dir) {
-        //        List<string> allSearchFiles = Directory.GetDirectories(dir, "*", SearchOption.TopDirectoryOnly).ToList();
-        //        return allSearchFiles;
-        //    }
+//        void RunTP(string inFiles, string outPath) {
+//            System.Diagnostics.Process exep = new System.Diagnostics.Process();
+//            string path = GetAssemblyPath();
+//
+//            exep.StartInfo.FileName = this.GetFileByLib("texture_merger\\TextureMerger.exe");
+//            exep.StartInfo.Arguments = string.Format("-p {0} -o {1}.json", inFiles, outPath);
+//            //            exep.StartInfo.CreateNoWindow = true;
+//            exep.StartInfo.CreateNoWindow = false;
+//            exep.StartInfo.UseShellExecute = false;
+//            exep.Start();
+//            exep.WaitForExit();//关键，等待外部程序退出后才能往下执行
+//        }
 
         void RunTP(string inFiles, string outPath) {
             System.Diagnostics.Process exep = new System.Diagnostics.Process();
             string path = GetAssemblyPath();
 
-            exep.StartInfo.FileName = this.GetFileByLib("texture_merger\\TextureMerger.exe");
-            exep.StartInfo.Arguments = string.Format("-p {0} -o {1}.json", inFiles, outPath);
+            string[] argsArray = new[] {
+                "--disable-rotation",
+                "--size-constraints AnySize",
+                "--max-width 2048",
+                "--max-height 2048",
+                "--format json-array",
+//                "--png-opt-level 1"
+            };
+            string args = string.Join(" ", argsArray);
+            string outImg = outPath + ".png";
+            string outJson = outPath + ".json";
+
+            exep.StartInfo.FileName = this.GetFileByLib("texturepack\\bin\\TexturePacker.exe");
+            exep.StartInfo.Arguments = string.Format("{0} --data {1} --sheet {2} {3}", args, outJson, outImg, inFiles);
             //            exep.StartInfo.CreateNoWindow = true;
             exep.StartInfo.CreateNoWindow = false;
             exep.StartInfo.UseShellExecute = false;
