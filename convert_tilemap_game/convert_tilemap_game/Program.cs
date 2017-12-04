@@ -266,36 +266,6 @@ namespace convert_tilemap_game {
             ParserLayer(waklableLayer, array, 0, realWidth, realHeight);
             ParserLayer(hiddentLayer, array, 1, realWidth, realHeight);
 
-            //            for (int j = 0; j < realHeight; j++) {
-            //                for (int i = 0; i < realWidth; i++) {
-            //                    Console.Write(array[j * realWidth + i]);
-            //                    Console.Write(",");
-            //                }
-            //                Console.WriteLine();
-            //            }
-
-//            MemoryStream ms = new MemoryStream();
-//            BinaryWriter bw = new BinaryWriter(ms);
-//            byte[] utfBytes = System.Text.Encoding.UTF8.GetBytes("head");
-//            WriteShort(bw, (ushort)utfBytes.Length);
-//            bw.Write(utfBytes);
-//            WriteInt(bw, 2);
-//            bw.Write((byte)64);
-//            WriteInt(bw, imgWidth);
-//            WriteInt(bw, imgHeight);
-//            WriteInt(bw, realHeight);
-//            WriteInt(bw, realWidth);
-//            for (int i = 0; i < realWidth; i++) {
-//                for (int j = 0; j < realHeight; j++) {
-//                    bw.Write((byte)array[j * realWidth + i]);
-//                }
-//            }
-//            byte[] bytes = ms.ToArray();
-//            ms.Close();
-//
-//            bytes = ZLibHelper.Compress(bytes);
-//            return bytes;
-
             MapData mapData = new MapData();
             mapData.width = imgWidth;
             mapData.height = imgHeight;
@@ -309,6 +279,34 @@ namespace convert_tilemap_game {
             }
             mapData.datas = list.ToArray();
 
+//            List<TempData> groups = 
+            mapData.groups = Array.ConvertAll<TempData, Dictionary<string, ObjGroupData>>(ParserMonPoint(dict).ToArray(), input => input.data);
+            mapData.pkgroups = Array.ConvertAll<TempData, Dictionary<string, ObjGroupData>>(ParserPkPoint(dict).ToArray(), input => input.data);
+            TempData tempData = ParserBossPoint(dict);
+            if (tempData != null) {
+                mapData.bossgroups = tempData.data;
+            } else {
+                mapData.bossgroups = new Dictionary<string, ObjGroupData>();
+            }
+
+            return LitJson.JsonMapper.ToJson(mapData);
+        }
+
+        private static TempData CreateTempData(XmlNode xmlNode) {
+            Dictionary<string, ObjGroupData> datas = new Dictionary<string, ObjGroupData>();
+            for (int i = 0, len = xmlNode.ChildNodes.Count; i < len; ++i) {
+                XmlNode node = xmlNode.ChildNodes[i];
+                Dictionary<string, string> attr = GetAttr(node);
+                ObjGroupData data = new ObjGroupData();
+                data.type = int.Parse(attr["gid"]);
+                data.x = (int)(Math.Floor((float.Parse(attr["x"]) + float.Parse(attr["width"]) * 0.5) / 64.0));
+                data.y = (int)(Math.Floor((float.Parse(attr["y"]) - float.Parse(attr["height"]) * 0.5) / 64.0));
+                datas[data.type + ""] = data;
+            }
+            return new TempData { data = datas};
+        }
+
+        private static List<TempData> ParserMonPoint(Dictionary<string, List<XmlNode>> dict) {
             List<TempData> groups = new List<TempData>();
             if (dict.ContainsKey("objectgroup")) {
                 foreach (XmlNode xmlNode in dict["objectgroup"]) {
@@ -325,17 +323,9 @@ namespace convert_tilemap_game {
                                 break;
                         }
                     }
-                    Dictionary<string, ObjGroupData> datas = new Dictionary<string, ObjGroupData>();
-                    for (int i = 0, len = xmlNode.ChildNodes.Count; i < len; ++i) {
-                        XmlNode node = xmlNode.ChildNodes[i];
-                        Dictionary<string, string> attr = GetAttr(node);
-                        ObjGroupData data = new ObjGroupData();
-                        data.type = int.Parse(attr["gid"]);
-                        data.x = (int) (Math.Floor((float.Parse(attr["x"]) + float.Parse(attr["width"]) * 0.5) / 64.0));
-                        data.y = (int) (Math.Floor((float.Parse(attr["y"]) - float.Parse(attr["height"]) * 0.5) / 64.0));
-                        datas[data.type + ""] = data;
-                    }
-                    groups.Add(new TempData {data=datas, index=index});
+                    TempData tempData = CreateTempData(xmlNode);
+                    tempData.index = index;
+                    groups.Add(tempData);
                     NEXT:
                     ;
                 }
@@ -343,11 +333,61 @@ namespace convert_tilemap_game {
             groups.Sort((lhs, rhs) => {
                 return lhs.index - rhs.index;
             });
-            mapData.groups = Array.ConvertAll<TempData, Dictionary<string, ObjGroupData>>(groups.ToArray(), input => input.data);
-
-            return LitJson.JsonMapper.ToJson(mapData);
+            return groups;
         }
 
+        private static TempData ParserBossPoint(Dictionary<string, List<XmlNode>> dict) {
+            if (dict.ContainsKey("objectgroup")) {
+                foreach (XmlNode xmlNode in dict["objectgroup"]) {
+                    foreach (XmlAttribute attribute in xmlNode.Attributes) {
+                        switch (attribute.Name) {
+                            case "name":
+                                if (attribute.Value == "BOSS") {
+                                        
+                                } else {
+                                    goto NEXT;
+                                }
+                                break;
+                        }
+                    }
+                    TempData tempData = CreateTempData(xmlNode);
+                    return tempData;
+                    NEXT:
+                    ;
+                }
+            }
+            return null;
+        }
+
+        private static List<TempData> ParserPkPoint(Dictionary<string, List<XmlNode>> dict) {
+            List<TempData> groups = new List<TempData>();
+            if (dict.ContainsKey("objectgroup")) {
+                foreach (XmlNode xmlNode in dict["objectgroup"]) {
+                    int index = 0;
+                    foreach (XmlAttribute attribute in xmlNode.Attributes) {
+                        switch (attribute.Name) {
+                            case "name":
+                                Match match = new Regex(@"遭遇点(\d+)").Match(attribute.Value);
+                                if (match.Success) {
+                                    index = int.Parse(match.Groups[1].Value);
+                                } else {
+                                    goto NEXT;
+                                }
+                                break;
+                        }
+                    }
+                    TempData tempData = CreateTempData(xmlNode);
+                    tempData.index = index;
+                    groups.Add(tempData);
+                    NEXT:
+                    ;
+                }
+            }
+            groups.Sort((lhs, rhs) => {
+                return lhs.index - rhs.index;
+            });
+            return groups;
+        }
         private static Dictionary<string, string> GetAttr(XmlNode xmlNode) {
             Dictionary<string, string> dict = new Dictionary<string, string>();
             foreach (XmlAttribute attribute in xmlNode.Attributes) {
@@ -363,6 +403,8 @@ namespace convert_tilemap_game {
             public int realWidth;
             public int[] datas;
             public Dictionary<string, ObjGroupData>[] groups;
+            public Dictionary<string, ObjGroupData>[] pkgroups;
+            public Dictionary<string, ObjGroupData> bossgroups;
         }
 
         class ObjGroupData {
@@ -413,6 +455,16 @@ namespace convert_tilemap_game {
         }
 
         static void SliceBitmap(string imgPath, string saveDir) {
+            if (Directory.Exists(saveDir)) {
+                foreach (var VARIABLE in Directory.GetFiles(saveDir)) {
+                    File.Delete(VARIABLE);
+                }
+                foreach (var VARIABLE in Directory.GetDirectories(saveDir)) {
+                    Directory.Delete(VARIABLE); 
+                }
+            } else {
+                Directory.CreateDirectory(saveDir);
+            }
 
             Image img = Image.FromFile(imgPath);
             Bitmap mImage = new Bitmap(img);

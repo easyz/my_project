@@ -27,8 +27,9 @@ namespace update_atlas_res_config {
                 }
 
             }
+            HashSet<string> nameSet = new HashSet<string>();
 
-            System.Action<string, bool> action = (path, suffix) => {
+            System.Func<string, bool, bool, bool> action = (path, checkName, suffix) => {
                 string dir = Path.Combine(Path.GetDirectoryName(resjsonPath), path);
                 string path2 = path.Replace("\\", "/");
                 string[] allUIFiels = Directory.GetFiles(dir, "*", SearchOption.AllDirectories);
@@ -50,19 +51,24 @@ namespace update_atlas_res_config {
                         uiJsonData["scale9grid"] = slice;
                     }
 
+                    if (nameSet.Contains(name)) {
+                        Console.WriteLine("重复资源名 => " + name + "; path => " + url);
+                        return false;
+                    }
+                    if (checkName) {
+                        nameSet.Add(name);
+                    }
+
                     Console.WriteLine("找到资源 " + url);
                     newResjsonData.Add(uiJsonData);
                 }
+                return true;
             };
-            action("assets\\atlas2_ui\\", false);
-            action("assets\\atlas_ui\\", false);
-            action("assets\\atlas_font\\", true);
-
-//            Console.WriteLine(string.Join("\n", Array.ConvertAll(allUIFiels, input=>input.Replace(dir, string.Empty)) ));
-            jsonData["resources"] = newResjsonData;
-
-            File.WriteAllText(resjsonPath, jsonData.ToJson());
-
+            if (action("assets\\atlas2_ui\\", false, false) && action("assets\\atlas_ui\\", true, false) && action("assets\\atlas_font\\", true, true)) {
+                jsonData["resources"] = newResjsonData;
+                File.WriteAllText(resjsonPath, jsonData.ToJson());
+                Console.WriteLine("finish!!!");
+            }
             Console.ReadKey();
         }
 
