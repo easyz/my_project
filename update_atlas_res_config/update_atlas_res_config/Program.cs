@@ -38,17 +38,20 @@ namespace update_atlas_res_config {
                 foreach (string uiFile in uiFiles) {
                     JsonData uiJsonData = new JsonData();
                     string name = Path.GetFileNameWithoutExtension(uiFile);
+                    string suffixName = uiFile.Substring(uiFile.LastIndexOf(".") + 1);
                     if (suffix) {
-                        name = name + "_" + uiFile.Substring(uiFile.LastIndexOf("."));
+                        name = name + "_" + suffixName;
                     }
                     string url = path2 + uiFile;
                     uiJsonData["name"] = name;
-                    uiJsonData["type"] = "image";
+                    uiJsonData["type"] = suffix && suffixName == "fnt" ? "font" : "image";
                     uiJsonData["url"] = url;
 
-                    string slice = ParseSliceArea(Path.Combine(dir, uiFile.Replace("/", "\\")), name.Split('@').ToList());
+                    List<string> nameList = name.Split('@').ToList();
+                    string slice = ParseSliceArea(Path.Combine(dir, uiFile.Replace("/", "\\")), nameList);
                     if (!string.IsNullOrEmpty(slice)) {
                         uiJsonData["scale9grid"] = slice;
+                        uiJsonData["name"] = nameList[0];
                     }
 
                     if (nameSet.Contains(name)) {
