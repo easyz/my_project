@@ -108,7 +108,7 @@ namespace convert_tilemap_game {
 
                     string imgPath;
 //                    byte[] bytes = Parser(doc.DocumentElement, out imgPath);
-                    string bytes = Parser(doc.DocumentElement, out imgPath);
+                    string bytes = Parser(doc.DocumentElement, baseDir, out imgPath);
                     if (bytes != null) {
                         string pdir = Path.Combine(outDir, name);
                         if (!Directory.Exists(pdir)) {
@@ -142,7 +142,7 @@ namespace convert_tilemap_game {
         }
 
 
-        static string Parser(XmlElement xmlElement, out string inImgPath) {
+        static string Parser(XmlElement xmlElement, string baseDir, out string inImgPath) {
             inImgPath = null;
             if (xmlElement == null || xmlElement.Name != "map") {
                 Console.WriteLine("XML文件格式错误 => " + (xmlElement == null ? "NULL" : xmlElement.Name));
@@ -206,28 +206,37 @@ namespace convert_tilemap_game {
             }
 
             string imgPath = string.Empty;
-            int imgWidth = 0;
-            int imgHeight = 0;
+//            int imgWidth = 0;
+//            int imgHeight = 0;
             foreach (XmlAttribute attribute in bgXmlNode.ChildNodes[0].Attributes) {
                 switch (attribute.Name) {
                     case "source":
                         imgPath = attribute.Value;
                         break;
-                    case "width":
-                        imgWidth = Convert.ToInt32(attribute.Value);
-                        break;
-                    case "height":
-                        imgHeight = Convert.ToInt32(attribute.Value);
-                        break;
+//                    case "width":
+//                        imgWidth = Convert.ToInt32(attribute.Value);
+//                        break;
+//                    case "height":
+//                        imgHeight = Convert.ToInt32(attribute.Value);
+//                        break;
                 }
             }
 
-            if (string.IsNullOrEmpty(imgPath) || imgWidth == 0 || imgHeight == 0) {
+            if (string.IsNullOrEmpty(imgPath)) {
                 Console.WriteLine("图片参数错误");
                 return null;
             }
 
             inImgPath = imgPath;
+
+            Image img = Image.FromFile(Path.Combine(baseDir, imgPath));
+            Bitmap mImage = new Bitmap(img);
+
+            int width = mImage.Width;
+            int height = mImage.Height;
+            int imgWidth = width;
+            int imgHeight = height;
+            mImage.Dispose();
 
             Layer waklableLayer = new Layer();
             Layer hiddentLayer = new Layer();
@@ -298,12 +307,48 @@ namespace convert_tilemap_game {
                 XmlNode node = xmlNode.ChildNodes[i];
                 Dictionary<string, string> attr = GetAttr(node);
                 ObjGroupData data = new ObjGroupData();
-                data.type = int.Parse(attr["gid"]);
-                data.x = (int)(Math.Floor((float.Parse(attr["x"]) + float.Parse(attr["width"]) * 0.5) / 64.0));
-                data.y = (int)(Math.Floor((float.Parse(attr["y"]) - float.Parse(attr["height"]) * 0.5) / 64.0));
+                if (attr.ContainsKey("gid")) {
+                    data.type = int.Parse(attr["gid"]);
+                    data.x = (int)(Math.Floor((float.Parse(attr["x"]) + float.Parse(attr["width"]) * 0.5) / 64.0));
+                    data.y = (int)(Math.Floor((float.Parse(attr["y"]) - float.Parse(attr["height"]) * 0.5) / 64.0));
+                } else {
+                    data.type = 9999;
+                    data.points = GetPolyLine(node);
+                    data.x = (int)(Math.Floor((float.Parse(attr["x"])) / 64.0));
+                    data.y = (int)(Math.Floor((float.Parse(attr["y"])) / 64.0));
+                }
                 datas[data.type + ""] = data;
             }
             return new TempData { data = datas};
+        }
+
+        private static Point[] GetPolyLine(XmlNode xmlNode) {
+            if (!xmlNode.HasChildNodes) {
+                return null;
+            }
+            XmlAttribute attr = xmlNode.ChildNodes[0].Attributes["points"];
+            if (attr == null) {
+                return null;
+            }
+            string[] value = attr.Value.Split(' ');
+            List<Point> list = new List<Point>();
+            foreach (string s in value) {
+                string[] pos = s.Split(',');
+                Point point = new Point();
+                point.x = (int)Math.Floor(float.Parse(pos[0]) / 64.0);
+                point.y = (int)Math.Floor(float.Parse(pos[1]) / 64.0);
+                list.Add(point);
+            }
+            return list.ToArray();
+
+//            for (int i = 0, len = xmlNode.ChildNodes.Count; i < len; ++i) {
+//                XmlNode node = xmlNode.ChildNodes[i];
+//                Dictionary<string, string> attr = GetAttr(node);
+//                Point data = new Point();
+//                data.x = (int)(Math.Floor((float.Parse(attr["x"]) + float.Parse(attr["width"]) * 0.5) / 64.0));
+//                data.y = (int)(Math.Floor((float.Parse(attr["y"]) - float.Parse(attr["height"]) * 0.5) / 64.0));
+//                datas[data.type + ""] = data;
+//            }
         }
 
         private static List<TempData> ParserMonPoint(Dictionary<string, List<XmlNode>> dict) {
@@ -411,6 +456,12 @@ namespace convert_tilemap_game {
             public int x;
             public int y;
             public int type;
+            public Point[] points;
+        }
+
+        class Point {
+            public int x;
+            public int y;
         }
 
         class TempData {
