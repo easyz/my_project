@@ -281,8 +281,8 @@ namespace convert_tilemap_game {
             mapData.realWidth = realWidth;
             mapData.realHeight = realHeight;
             List<int> list = new List<int>();
-            for (int i = 0; i < realWidth; i++) {
-                for (int j = 0; j < realHeight; j++) {
+            for (int j = 0; j < realHeight; j++) {
+                for (int i = 0; i < realWidth; i++) {
                     list.Add((byte)array[j * realWidth + i]);
                 }
             }
@@ -586,10 +586,10 @@ namespace convert_tilemap_game {
             int height;//图片最终的高  
             try {
                 System.Drawing.Imaging.ImageFormat format = sourceImage.RawFormat;
-                Bitmap targetPicture = new Bitmap(targetWidth, targetHeight);
-                targetPicture.SetResolution(72, 72);
-                Graphics g = Graphics.FromImage(targetPicture);
-                g.Clear(Color.White);
+//                Bitmap targetPicture = new Bitmap(targetWidth, targetHeight);
+//                targetPicture.SetResolution(72, 72);
+//                Graphics g = Graphics.FromImage(targetPicture);
+//                g.Clear(Color.White);
 
                 //计算缩放图片的大小  
                 if (sourceImage.Width > targetWidth && sourceImage.Height <= targetHeight) {
@@ -609,8 +609,11 @@ namespace convert_tilemap_game {
                         width = (height * sourceImage.Width) / sourceImage.Height;
                     }
                 }
-                g.DrawImage(sourceImage, (targetWidth - width) / 2, (targetHeight - height) / 2, width, height);
-//                sourceImage.Dispose();
+//                g.DrawImage(sourceImage, (targetWidth - width) / 2, (targetHeight - height) / 2, width, height);
+                Bitmap targetPicture = new Bitmap(width, height);
+                targetPicture.SetResolution(72, 72);
+                Graphics g = Graphics.FromImage(targetPicture);
+                g.DrawImage(sourceImage, 0, 0, width, height);
 
                 return targetPicture;
             } catch (Exception ex) {

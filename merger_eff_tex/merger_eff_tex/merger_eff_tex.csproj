@@ -87,9 +87,7 @@
     <Compile Include="core\data\Config.cs" />
     <Compile Include="core\data\Data.cs" />
     <Compile Include="core\IFileTool.cs" />
-    <Compile Include="core\merger_tex\AtlasMaker.cs" />
     <Compile Include="core\merger_tex\MergerTex.cs" />
-    <Compile Include="core\merger_tex\UITexturePacker.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
