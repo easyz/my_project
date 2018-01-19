@@ -1,0 +1,1 @@
+"C:\Program Files (x86)\Egret\Egret Wing 3\EgretWing.exe" --debugPluginHost --extensionDevelopmentPath=E:\workspace_wing\exml_id\

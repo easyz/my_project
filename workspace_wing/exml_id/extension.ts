@@ -5,16 +5,30 @@ var path = require('path');
 
 export function activate(context: wing.ExtensionContext) {
 	console.log('Congratulations, your extension "HelloWing" is now active!');
-	// wing.commands.registerCommand('extension.helloWing', helloWing);
+	// wing.commands.registerCommand('extension.openJsFile', openJsFile);
 	wing.commands.registerCommand("extension.copyExmlIds", copyExmlIds);
-    // wing.commands.registerCommand("extension.copyexmlIds", copyexmlIds);
 }
 
 export function deactivate() {
 }
 
-// function helloWing() {
-// 	wing.window.showInformationMessage('Hello Wing');
+// function openJsFile() {
+//     var e = wing.window.activeTextEditor;
+//     if (!e) {
+//         return;
+//     }
+//     var fileName = e.document.fileName;
+//     var ext = path.extname(fileName);
+//     if (ext != '.ts') {
+//         return;
+//     }
+//     console.log(wing.Uri.file("E:\\lycq\\client\\project\\bin-debug\\BaseComponent.js"))
+//     let td = wing.workspace.openTextDocument("E:\\lycq\\client\\project\\bin-debug\\BaseComponent.js") as Thenable<wing.TextDocument>
+//     td.then((sdfsdf)=>{
+//         console.log("-----------")
+//         console.log(sdfsdf)
+//     })
+//     console.log(td)
 // }
 
 function copyExmlIds(uri) {
