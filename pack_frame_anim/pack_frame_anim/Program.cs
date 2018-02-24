@@ -72,13 +72,14 @@ namespace merger_eff_tex_lib {
             }
 
             string[] allDir = Directory.GetDirectories(baseDir + exportData["path"] + "\\", "*", SearchOption.TopDirectoryOnly);
+            bool isLow = exportData.Keys.Contains("low");
             if (exportData["action"].Keys.Contains("")) {
                 foreach (string s in allDir) {
-                    SingleFile2(s + "\\", outBaseDir + exportData["outPath"] + "\\", Path.GetFileNameWithoutExtension(s), exportData["action"][""]);
+                    SingleFile2(s + "\\", outBaseDir + exportData["outPath"] + "\\", Path.GetFileNameWithoutExtension(s), exportData["action"][""], isLow);
                 }
             } else {
                 foreach (string s in allDir) {
-                    SingleFile(s + "\\", outBaseDir + exportData["outPath"] + "\\", Path.GetFileNameWithoutExtension(s), exportData["action"]);
+                    SingleFile(s + "\\", outBaseDir + exportData["outPath"] + "\\", Path.GetFileNameWithoutExtension(s), exportData["action"], isLow);
                 }
             }
 
@@ -87,7 +88,7 @@ namespace merger_eff_tex_lib {
 
         }
 
-        static void SingleFile(string dir, string outDir, string name, JsonData actionDatas) {
+        static void SingleFile(string dir, string outDir, string name, JsonData actionDatas, bool lowQuality) {
 
             HashSet<string> allFiels = new HashSet<string>();
             foreach (string VARIABLE in Directory.GetFiles(dir, "*", SearchOption.TopDirectoryOnly)) {
@@ -120,13 +121,13 @@ namespace merger_eff_tex_lib {
 
             foreach (KeyValuePair<string, List<string>> pair in dict) {
                 //                Console.WriteLine(pair.Key + "  " + string.Join(", ", pair.Value.ToArray()));
-                Handle(pair.Value.ToArray(), outDir, pair.Key, frameDict[pair.Key]);
+                Handle(pair.Value.ToArray(), outDir, pair.Key, frameDict[pair.Key], lowQuality);
             }
 
             Console.WriteLine(">> 输出 " + name);
         }
 
-        static void SingleFile2(string dir, string outDir, string name, JsonData actData) {
+        static void SingleFile2(string dir, string outDir, string name, JsonData actData, bool lowQuality) {
             
             HashSet<string> allFiels = new HashSet<string>();
             foreach (string VARIABLE in Directory.GetFiles(dir, "*", SearchOption.TopDirectoryOnly)) {
@@ -150,15 +151,15 @@ namespace merger_eff_tex_lib {
             frameDict.Add(dictName, (int)actData[0]);
 
             foreach (KeyValuePair<string, List<string>> pair in dict) {
-                Handle(pair.Value.ToArray(), outDir, pair.Key, frameDict[pair.Key]);
+                Handle(pair.Value.ToArray(), outDir, pair.Key, frameDict[pair.Key], lowQuality);
             }
 
             Console.WriteLine(">> 输出 " + name);
         }
 
-        static void Handle(string[] handleFiles, string outDir, string outName, int frame) {
+        static void Handle(string[] handleFiles, string outDir, string outName, int frame, bool low) {
             MergerTex fileTool = new MergerTex();
-            if (fileTool.HandleFrame(handleFiles, outDir, outName, frame)) {
+            if (fileTool.HandleFrame(handleFiles, outDir, outName, frame, low)) {
             }
         }
     }

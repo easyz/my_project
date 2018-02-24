@@ -27,12 +27,12 @@ $res$
             public string mCopyName;
         }
 
-        public bool HandleFrame(string[] frameFiles, string outPath, string outName, int frameRate) {
+        public bool HandleFrame(string[] frameFiles, string outPath, string outName, int frameRate, bool low) {
             if (!Directory.Exists(outPath)) {
                 Directory.CreateDirectory(outPath);
             }
             MergerTexUtil obj = new packTex.MergerTexUtil(MainInit.InitDllPath());
-            return obj.HandleFiles(frameFiles, outPath, outName, frameRate);
+            return obj.HandleFiles(frameFiles, outPath, outName, frameRate, true, low);
         }
 
         public bool Handle(string[] handleFiles, string outPath) {

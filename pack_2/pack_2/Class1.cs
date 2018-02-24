@@ -88,21 +88,21 @@ $res$
             this.m_WorkPath = workPath;
         }
 
-        public bool HandleFiles(string[] frameFiles, string outPath, string fileName, int frameRate = 12, bool checkRepeat = true, bool lowQuality = false) {
-            Logger.Log("frameRate = " + frameRate + "; low quality => " + lowQuality);
+        public bool HandleFiles(string frameFiles, string outPath, string fileName, int frameRate = 12, bool checkRepeat = true, bool lowQuality = false) {
+            Console.WriteLine("frameRate = " + frameRate + "; low quality => " + lowQuality);
 
-            List<string> list = new List<string>(frameFiles);
-            list.Sort((lhs, rhs) => {
-                int lhsID;
-                int.TryParse(lhs, out lhsID);
+//            List<string> list = new List<string>(frameFiles);
+//            list.Sort((lhs, rhs) => {
+//                int lhsID;
+//                int.TryParse(lhs, out lhsID);
+//
+//                int rhsID;
+//                int.TryParse(rhs, out rhsID);
+//
+//                return lhsID - rhsID;
+//            });
 
-                int rhsID;
-                int.TryParse(rhs, out rhsID);
-
-                return lhsID - rhsID;
-            });
-
-            string allFrameFileStr = string.Join(" ", list.ToArray());
+//            string allFrameFileStr = string.Join(" ", list.ToArray());
 
             string tempDir = Directory.GetCurrentDirectory() + "\\temp";
             string tempFileName = tempDir + "\\temp";
@@ -114,12 +114,12 @@ $res$
                     File.Delete(file);
                 }
             }
-            RunTP(allFrameFileStr, tempFileName, lowQuality);
+            RunTP(frameFiles, tempFileName, lowQuality);
 
             string jsonFile = tempFileName + ".json";
             string pngFile = tempFileName + ".png";
             if (!File.Exists(jsonFile) || !File.Exists(pngFile)) {
-                Logger.Warn("文件错误 => " + allFrameFileStr);
+
                 return false;
             }
 
@@ -159,16 +159,15 @@ $res$
                     .Replace("$res$", string.Join(",\n", resList.ToArray()));
             File.WriteAllText(jsonPath, content);
 
-            Logger.Log("输出 >>> " + pngPath);
-            Logger.Log("输出 >>> " + jsonPath);
+            Console.WriteLine("输出 >>> " + pngPath);
+            Console.WriteLine("输出 >>> " + jsonPath);
 
             return true;
         }
 
         public bool Handle(string handleFile, string outPath, int frameRate = 12, bool checkRepeat = true, bool lowQuality = false) {
 
-            string[] frameFiles = Directory.GetFiles(handleFile, "*", SearchOption.TopDirectoryOnly);
-            return HandleFiles(frameFiles, outPath, Path.GetFileNameWithoutExtension(handleFile), frameRate, checkRepeat, lowQuality);
+            return HandleFiles(handleFile, outPath, Path.GetFileNameWithoutExtension(handleFile), frameRate, checkRepeat, lowQuality);
         }
 
 //        void RunTP(string inFiles, string outPath) {
@@ -188,26 +187,29 @@ $res$
             System.Diagnostics.Process exep = new System.Diagnostics.Process();
             string path = GetAssemblyPath();
             string[] argsArray;
-            if (lowQuality) {
+//            if (lowQuality) {
                 argsArray = new[] {
                     "--disable-rotation",
                     "--size-constraints AnySize",
+                    "--force-squared",
                     "--max-width 2048",
                     "--max-height 2048",
                     "--format json-array",
-                    "--trim-threshold 50",
-                    "--opt RGBA4444",
+                    "--trim-threshold 20",
+                    "--border-padding 0",
+                    "--shape-padding 0",
+//                    "--opt RGBA4444",
     //                "--png-opt-level 1"
                 };
-            } else {
-                argsArray = new[] {
-                    "--disable-rotation",
-                    "--size-constraints AnySize",
-                    "--max-width 2048",
-                    "--max-height 2048",
-                    "--format json-array",
-                };
-            }
+//            } else {
+//                argsArray = new[] {
+//                    "--disable-rotation",
+//                    "--size-constraints AnySize",
+//                    "--max-width 2048",
+//                    "--max-height 2048",
+//                    "--format json-array",
+//                };
+//            }
             string args = string.Join(" ", argsArray);
             string outImg = outPath + ".png";
             string outJson = outPath + ".json";

@@ -1539,3 +1539,7 @@
 [20:49:59] [I] parser E:\lycq\resource\总美术上传文件\特效\eff_ui_artifact_001(8)\07.png
 [20:50:00] [I] 输出 >>> C:\Users\yiz\Desktop\test\eff_ui_artifact_001.png
 [20:50:00] [I] 输出 >>> C:\Users\yiz\Desktop\test\eff_ui_artifact_001.json
+[14:45:38] [I] >>> start <<< F:\teseeeeee\eff_ui_horse_001(6)
+[14:45:38] [I] frameRate = 6; low quality => False
+[14:45:44] [I] 输出 >>> C:\Users\yiz\Desktop\test\eff_ui_horse_001.png
+[14:45:44] [I] 输出 >>> C:\Users\yiz\Desktop\test\eff_ui_horse_001.json

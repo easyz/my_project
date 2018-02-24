@@ -1,9 +1,60 @@
-{"file":"temp.png","frames":{
-"00":{"x":293,"y":254,"w":291,"h":251,"offX":86,"offY":116,"sourceW":480,"sourceH":480},
-"01":{"x":586,"y":506,"w":291,"h":251,"offX":86,"offY":116,"sourceW":480,"sourceH":480},
-"02":{"x":0,"y":507,"w":291,"h":251,"offX":86,"offY":116,"sourceW":480,"sourceH":480},
-"03":{"x":588,"y":253,"w":291,"h":251,"offX":86,"offY":116,"sourceW":480,"sourceH":480},
-"04":{"x":0,"y":254,"w":291,"h":251,"offX":86,"offY":116,"sourceW":480,"sourceH":480},
-"05":{"x":588,"y":0,"w":292,"h":251,"offX":86,"offY":116,"sourceW":480,"sourceH":480},
-"06":{"x":0,"y":0,"w":292,"h":252,"offX":86,"offY":115,"sourceW":480,"sourceH":480},
-"07":{"x":294,"y":0,"w":292,"h":252,"offX":86,"offY":115,"sourceW":480,"sourceH":480}}}
+{"frames": [
+
+{
+	"filename": "00001.png",
+	"frame": {"x":592,"y":2,"w":146,"h":86},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":78,"y":87,"w":146,"h":86},
+	"sourceSize": {"w":320,"h":320}
+},
+{
+	"filename": "00002.png",
+	"frame": {"x":2,"y":2,"w":144,"h":88},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":79,"y":86,"w":144,"h":88},
+	"sourceSize": {"w":320,"h":320}
+},
+{
+	"filename": "00003.png",
+	"frame": {"x":444,"y":2,"w":146,"h":86},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":78,"y":88,"w":146,"h":86},
+	"sourceSize": {"w":320,"h":320}
+},
+{
+	"filename": "00004.png",
+	"frame": {"x":740,"y":2,"w":144,"h":86},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":79,"y":88,"w":144,"h":86},
+	"sourceSize": {"w":320,"h":320}
+},
+{
+	"filename": "00005.png",
+	"frame": {"x":296,"y":2,"w":146,"h":86},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":78,"y":88,"w":146,"h":86},
+	"sourceSize": {"w":320,"h":320}
+},
+{
+	"filename": "00006.png",
+	"frame": {"x":148,"y":2,"w":146,"h":86},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":78,"y":88,"w":146,"h":86},
+	"sourceSize": {"w":320,"h":320}
+}],
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker ",
+	"version": "1.0",
+	"image": "temp.png",
+	"format": "RGBA8888",
+	"size": {"w":886,"h":92},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:6751f387b95608f816e15eaccced741d:d393b29c6ebaa8dd696d49115de18957:35ee65944e037358c584c8be44992c8c$"
+}
+}
