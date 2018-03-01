@@ -35,16 +35,7 @@
 				"command": "extension.copyExmlIds",
 				"key": "alt+q alt+c"
 			}
-		],
-		"menus": {
-			"explorer/context": [
-				{
-					"when": "resourceLangId == exml",
-					"command": "extension.copyExmlIds",
-					"group": "navigation"
-				}
-			]
-		}
+		]
 	},
 	"scripts": {
 		"wing:prepublish": "node ./node_modules/egretwing/bin/compile",

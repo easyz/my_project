@@ -8,6 +8,8 @@ using System.Text;
 namespace packTex {
     public class MergerTexUtil {
 
+        public static int ID = 0;
+
         const string FORMAT_STR = @"{""mc"":{
 	""$name$"":{
 		""frameRate"":$frameRate$,
@@ -104,7 +106,7 @@ $res$
 
             string allFrameFileStr = string.Join(" ", list.ToArray());
 
-            string tempDir = Directory.GetCurrentDirectory() + "\\temp";
+            string tempDir = Directory.GetCurrentDirectory() + "\\temp\\temp" + DateTime.Now.Ticks;
             string tempFileName = tempDir + "\\temp";
             if (!Directory.Exists(tempDir)) {
                 Directory.CreateDirectory(tempDir);
@@ -162,6 +164,7 @@ $res$
             Logger.Log("输出 >>> " + pngPath);
             Logger.Log("输出 >>> " + jsonPath);
 
+            Directory.Delete(tempDir, true);
             return true;
         }
 

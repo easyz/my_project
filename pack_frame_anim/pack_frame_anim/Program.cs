@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Diagnostics;
@@ -88,6 +89,56 @@ namespace merger_eff_tex_lib {
 
         }
 
+        static string GetFileName(int id) {
+            return id.ToString("D4");
+        }
+
+        static List<string> GetFrameList(HashSet<string> allFiels, string dir, int forward, IDictionary jsonData) {
+            List<string> all = new List<string>();
+            foreach (string key in jsonData.Keys) {
+                JsonData actData = (JsonData) jsonData[key];
+
+                List<string> list = new List<string>();
+                for (int i = (int) actData[1]; i <= (int) actData[2]; i++) {
+                    string fileName = forward + GetFileName(i);
+                    if (!allFiels.Contains(fileName)) {
+                        Logger.LogError("不存在文件 => " + fileName + " 忽略动作类型 " + key);
+                        list.Clear();
+                        goto NEXT;
+                    }
+                    list.Add(dir + fileName + ".png");
+                }
+                NEXT:
+                all.AddRange(list);
+            }
+            return all;
+        }
+
+        static JsonData GetFrameList2(HashSet<string> allFiels, int forward, JsonData actData) {
+            JsonData jsonData = new JsonData();
+            JsonData temp = new JsonData();
+            temp.SetJsonType(JsonType.Array);
+            jsonData["frameRate"] = 0;
+            jsonData["frames"] = temp;
+
+            JsonData list = new JsonData();
+            list.SetJsonType(JsonType.Array);
+            for (int i = (int) actData[1]; i <= (int) actData[2]; i++) {
+                string fileName = forward + GetFileName(i);
+                if (!allFiels.Contains(fileName)) {
+                    return jsonData;
+                }
+                JsonData d = new JsonData();
+                d["res"] = fileName;
+                d["x"] = 0;
+                d["y"] = 0;
+                list.Add(d);
+            }
+            jsonData["frameRate"] = actData[0];
+            jsonData["frames"] = list;
+            return jsonData;
+        }
+
         static void SingleFile(string dir, string outDir, string name, JsonData actionDatas, bool lowQuality) {
 
             HashSet<string> allFiels = new HashSet<string>();
@@ -97,31 +148,64 @@ namespace merger_eff_tex_lib {
 
             Dictionary<string, List<string>> dict = new Dictionary<string, List<string>>();
             Dictionary<string, int> frameDict = new Dictionary<string, int>();
+            Dictionary<string, JsonData> subFrame = new Dictionary<string, JsonData>();
 
             for (int forward = 0; forward < 5; forward++) {
                 string[] keys = actionDatas.Keys.ToArray();
                 foreach (string key in keys) {
                     JsonData actData = actionDatas[key];
-                    List<string> list = new List<string>();
-                    for (int i = (int) actData[1]; i <= (int) actData[2]; i++) {
-                        string fileName = forward + i.ToString("D4");
-                        if (!allFiels.Contains(fileName)) {
-                            Logger.LogError("不存在文件 => " + fileName + " 忽略动作类型 " + key);
-                            goto NEXT;
-                        }
-                        list.Add(dir + fileName + ".png");
+                    IDictionary idict = actData;
+                    int rate = 8;
+                    JsonData sub = null;
+                    if (actData.IsArray) {
+                        rate = (int) actData[0];
+                        idict = new Dictionary<string, JsonData>() {{key, actData}};
+                    } else {
+
+                        foreach (string subKey in actData.Keys) {
+                            if (sub == null) {
+                                sub = new JsonData();
+                            }
+                            sub[subKey] = GetFrameList2(allFiels, forward, actData[subKey]);
+                        } 
                     }
-                    string dictName = name + "_" + forward + key;
-                    dict.Add(dictName, list);
-                    frameDict.Add(dictName, (int)actData[0]);
-                    NEXT:
-                    ;
+                    List<string> list = GetFrameList(allFiels, dir, forward, idict);
+                    if (list.Count > 0) {
+                        string dictName = name + "_" + forward + key;
+                        dict.Add(dictName, list);
+                        frameDict.Add(dictName, rate);
+                        if (sub != null) {
+                            subFrame[dictName] = sub;
+                        }
+                    }
                 }
             }
 
             foreach (KeyValuePair<string, List<string>> pair in dict) {
                 //                Console.WriteLine(pair.Key + "  " + string.Join(", ", pair.Value.ToArray()));
                 Handle(pair.Value.ToArray(), outDir, pair.Key, frameDict[pair.Key], lowQuality);
+                if (subFrame.ContainsKey(pair.Key)) {
+                    string jsonPath = outDir + "/" + pair.Key + ".json";
+                    if (File.Exists(jsonPath)) {
+                        JsonData jsonData = LitJson.JsonMapper.ToObject(File.ReadAllText(jsonPath));
+                        JsonData mcJsonData = jsonData["mc"][pair.Key];
+                        Dictionary<string, JsonData> jsonDict = new Dictionary<string, JsonData>();
+                        foreach (JsonData VARIABLE in mcJsonData["frames"]) {
+                            jsonDict[(string) VARIABLE["res"]] = VARIABLE;
+                        }
+                        JsonData subJsonData = subFrame[pair.Key];
+                        foreach (string key in subJsonData.Keys) {
+                            foreach (JsonData VARIABLE in subJsonData[key]["frames"]) {
+                                VARIABLE["x"] = jsonDict[(string) VARIABLE["res"]]["x"];
+                                VARIABLE["y"] = jsonDict[(string) VARIABLE["res"]]["y"];
+                            }
+                        }
+                        jsonData["mc"] = subJsonData;
+                        File.WriteAllText(jsonPath, LitJson.JsonMapper.ToJson(jsonData)); 
+                    } else {
+                        Console.WriteLine("[ERROR] not json file => " + jsonPath);
+                    }
+                }
             }
 
             Console.WriteLine(">> 输出 " + name);
