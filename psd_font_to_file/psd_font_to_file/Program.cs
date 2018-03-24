@@ -11,12 +11,12 @@ using psd;
 namespace psd_font_to_file {
     class Program {
         static void Main(string[] args) {
-            if (args.Length != 2) {
-                Console.WriteLine("not args");
+            if (args.Length != 1) {
+                Console.WriteLine("not args => " + args.Length);
                 Console.ReadKey();
                 return;
             }
-            string path = args[1];
+            string path = args[0];
             Console.WriteLine(path);
 
             string outTmpDir = Path.GetDirectoryName(path);
@@ -200,6 +200,7 @@ namespace psd_font_to_file {
         static void Run(string filePath) {
             System.Diagnostics.Process exep = new System.Diagnostics.Process();
             
+//            Directory.SetCurrentDirectory("./psd");
             exep.StartInfo.FileName = "psd2png.exe";
             exep.StartInfo.Arguments = string.Format("-i {0}", filePath);
             //            exep.StartInfo.CreateNoWindow = true;
@@ -207,6 +208,7 @@ namespace psd_font_to_file {
             exep.StartInfo.UseShellExecute = false;
             exep.Start();
             exep.WaitForExit();//关键，等待外部程序退出后才能往下执行
+//            Directory.SetCurrentDirectory("../");
         }
 
 //        static void RunPack(string filePath) {
