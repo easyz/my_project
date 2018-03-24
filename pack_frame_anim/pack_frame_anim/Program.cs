@@ -102,8 +102,12 @@ namespace merger_eff_tex_lib {
                 for (int i = (int) actData[1]; i <= (int) actData[2]; i++) {
                     string fileName = forward + GetFileName(i);
                     if (!allFiels.Contains(fileName)) {
-                        Logger.LogError("不存在文件 => " + fileName + " 忽略动作类型 " + key);
-                        list.Clear();
+                        if (list.Count < 1) {
+                            Logger.LogError("不存在文件 => " + fileName + " 忽略动作类型 " + key);
+                        } else {
+                            Logger.LogError("不存在文件 => " + fileName + " 忽略动作 " + key + "帧 => " + i);
+                        }
+//                        list.Clear();
                         goto NEXT;
                     }
                     list.Add(dir + fileName + ".png");
@@ -116,17 +120,14 @@ namespace merger_eff_tex_lib {
 
         static JsonData GetFrameList2(HashSet<string> allFiels, int forward, JsonData actData) {
             JsonData jsonData = new JsonData();
-            JsonData temp = new JsonData();
-            temp.SetJsonType(JsonType.Array);
             jsonData["frameRate"] = 0;
-            jsonData["frames"] = temp;
 
             JsonData list = new JsonData();
             list.SetJsonType(JsonType.Array);
             for (int i = (int) actData[1]; i <= (int) actData[2]; i++) {
                 string fileName = forward + GetFileName(i);
                 if (!allFiels.Contains(fileName)) {
-                    return jsonData;
+                    goto NEXT;
                 }
                 JsonData d = new JsonData();
                 d["res"] = fileName;
@@ -134,7 +135,11 @@ namespace merger_eff_tex_lib {
                 d["y"] = 0;
                 list.Add(d);
             }
-            jsonData["frameRate"] = actData[0];
+            NEXT:
+            ;
+            if (list.Count > 0) {
+                jsonData["frameRate"] = actData[0];
+            }
             jsonData["frames"] = list;
             return jsonData;
         }
