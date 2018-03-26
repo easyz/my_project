@@ -5,21 +5,26 @@ using System.Drawing;
 using System.IO;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using LitJson;
 using psd;
 
 namespace psd_font_to_file {
     class Program {
+        public Program() {
+        }
+
         static void Main(string[] args) {
-            if (args.Length != 1) {
-                Console.WriteLine("not args => " + args.Length);
-                Console.ReadKey();
-                return;
-            }
-            string path = args[0];
+//            if (args.Length != 1) {
+//                Console.WriteLine("not args => " + args.Length);
+//                Console.ReadKey();
+//                return;
+//            }
+//            string path = args[0];
+            string path = "C:\\Users\\yiz\\Desktop\\222.psd";
             Console.WriteLine(path);
 
-            string outTmpDir = Path.GetDirectoryName(path);
+            string outTmpDir = Path.GetDirectoryName(path) + "\\";
             string outTmpPath = outTmpDir + "psd_tmp_file";
             if (!Directory.Exists(outTmpPath)) {
                 Directory.CreateDirectory(outTmpPath);
@@ -30,6 +35,13 @@ namespace psd_font_to_file {
             string text = psdLayerExtractor.GetSingleText().Replace("\0", "");
             Console.WriteLine(text);
             string imgPath = path.Replace(".psd", ".png");
+            while (true) {
+                if (File.Exists(imgPath)) {
+                    break;
+                }
+                Console.WriteLine("not found file => " + imgPath);
+                Thread.Sleep(1000);
+            }
 
             Bitmap b = new Bitmap(imgPath);
             int left = 0;
@@ -104,7 +116,7 @@ namespace psd_font_to_file {
                 }
                 string outFile = outTmpPath + "/" + fileName;
                 RunTP(outDir, outFile);
-                JsonData jsonData = LitJson.JsonMapper.ToObject(File.ReadAllText(outFile + ".json"));
+                JsonData jsonData = LitJson.JsonMapper.ToObject(File.ReadAllText(outFile + ".json", Encoding.Default));
                 JsonData outData = new JsonData();
                 outData["file"] = fileName + ".png";
                 JsonData outFrames = new JsonData();
@@ -119,16 +131,29 @@ namespace psd_font_to_file {
                     outJson["offY"] = VARIABLE["spriteSourceSize"]["y"];
                     outJson["sourceW"] = VARIABLE["sourceSize"]["w"];
                     outJson["sourceH"] = VARIABLE["sourceSize"]["h"];
-                    outFrames[((string) VARIABLE["filename"]).Split('.')[0]] = outJson;
+                    outFrames[LanChange(((string) VARIABLE["filename"]).Split('.')[0])] = outJson;
                 }
-                File.WriteAllText(outTmpDir + fileName + ".fnt", JsonMapper.ToJson(outData));
+                string outjsonstring = JsonMapper.ToJson(outData);
+//                byte[] buffer = Encoding.GetEncoding("gbk").GetBytes(JsonMapper.ToJson(outData));
+//                string outstring = Encoding.UTF8.GetString(buffer);
+                string outstring = LanChange(outjsonstring);
+//                string outstring = outjsonstring;
+                File.WriteAllText(outTmpDir + fileName + ".fnt", outstring, Encoding.UTF8);
                 File.Copy(outFile + ".png", outTmpDir + fileName + ".png");
             }
             Directory.Delete(outTmpPath, true);
             Console.WriteLine("Finish!!!");
             Console.ReadKey();
         }
-
+        static string LanChange(string str) {
+            Encoding utf8;
+            Encoding gb2312;
+            utf8 = Encoding.GetEncoding("UTF-8");
+            gb2312 = Encoding.GetEncoding("GB2312");
+            byte[] gb = gb2312.GetBytes(str);
+            gb = Encoding.Convert(gb2312, utf8, gb);
+            return utf8.GetString(gb);
+        }
         static string SliceBitmap(Bitmap b, MyRect rect, string fName, string outDir) {
             if (!Directory.Exists(outDir)) {
                 Directory.CreateDirectory(outDir);
